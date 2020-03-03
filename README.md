@@ -6,6 +6,7 @@ Entity Resolution refers to the task of finding all mentions of same -real world
 
 The goal of ER is to "resolve" entities, by identifying the records that represent the same entity and reconciling them to obtain one record per entity.
 
+![alt text](http://url/to/img.png)
 ￼
 ### ER Motivation 
 In the modern world, the speed and volume of data has increased exponentially. Thus making inference across networks and semantic relationships between entities a greater challenge to overcome. Entity resolution can reduce the complexity by proposing canonicalised references to entities and deduplicating and linking entities.
