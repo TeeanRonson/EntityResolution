@@ -12,4 +12,11 @@ The goal of ER is to "resolve" entities, by identifying the records that represe
 In the modern world, the speed and volume of data has increased exponentially. Thus making inference across networks and semantic relationships between entities a greater challenge to overcome. Entity resolution can reduce the complexity by proposing canonicalised references to entities and deduplicating and linking entities.
 
 
+### ER Tasks 
+- Deduplication: The process of clustering/grouping records or mentions that represent the same real world entity.
+- Record Linkage: The process of matching records from one deduplicated knowledge base to another.
+- Canonicalisation: The process of converting data with more than one possible representation into a standard form.
+- Reference Matching: The process of matching noisy records to clean ones in a deduplicated reference table.
+
+
 
