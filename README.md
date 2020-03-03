@@ -52,6 +52,18 @@ precision is "how useful the search results are", and recall is "how complete th
 #### Recall 
 is the fraction of the total amount of relevant instances that were actually retrieved.r is the number of correct positive results divided by the number of all relevant samples (all samples that should have been identified as positive)
 
+### V measure 
+The V-Measure is defined as the harmonic mean of homogeneity and completeness. of the clustering. Both these measures can be expressed in terms of the mutual information and entropy measures of the information theory. Homogeneity is maximized when each cluster contains elements of as few different classes as possible.
+
+### Entropy
+
+
 # Neural Network 
 Learning in a neural network is allowing the computer to find the right weights and biases for each neuron in the network. 
 In a Neural Network, neurons fired up in the first layer will activate other neutrons in the second layer until we arrive at the final layer which is a guess of what the outcome is based on how many choices we have. 
+
+# Papers
+https://www.sciencedirect.com/science/article/pii/S1877050916324796
+
+
+
