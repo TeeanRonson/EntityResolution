@@ -1,0 +1,993 @@
+cluster_id,id,article_id,model,name,type,entity_id,paragraph,sentence
+0074c072-db24-469b-ae55-cd37b0637e14,31202397,320418,english.all.3class.distsim.crf.ser,Miriam Buether,PERSON,763107,3,2
+02146eca-2281-4d98-b7f7-3838e3eb08f7,45286564,424079,english.all.3class.distsim.crf.ser,John Durham,PERSON,39439,3,1
+02146eca-2281-4d98-b7f7-3838e3eb08f7,45295121,424082,english.all.3class.distsim.crf.ser,Connecticut John Durham,PERSON,828645,2,1
+02146eca-2281-4d98-b7f7-3838e3eb08f7,45286592,424079,english.all.3class.distsim.crf.ser,Durham,PERSON,39439,8,1
+02146eca-2281-4d98-b7f7-3838e3eb08f7,45286582,424079,english.all.3class.distsim.crf.ser,John Durham,PERSON,39439,6,1
+02146eca-2281-4d98-b7f7-3838e3eb08f7,45286560,424079,english.all.3class.distsim.crf.ser,John Durham,PERSON,39439,2,1
+031da3d0-179b-43be-a47f-d73dd6d2367f,45117349,423455,english.all.3class.distsim.crf.ser,Jackie,PERSON,4462,3,1
+054341de-275b-4c30-b6a0-9d3c262bdbb7,45295149,424082,english.all.3class.distsim.crf.ser,Tucker Carlson,PERSON,5097,5,1
+054341de-275b-4c30-b6a0-9d3c262bdbb7,45295118,424082,english.all.3class.distsim.crf.ser,Tucker Carlson,PERSON,5097,2,1
+0547d4c7-8c90-477b-bbac-be43c60ad5fd,45158684,423617,english.all.3class.distsim.crf.ser,Holly Metcalf Kinyon,PERSON,885179,3,2
+0547d4c7-8c90-477b-bbac-be43c60ad5fd,45158689,423617,english.all.3class.distsim.crf.ser,Kinyon,PERSON,885179,4,1
+066e8640-3995-4436-8a87-cbf3274dce3c,45154019,423614,english.all.3class.distsim.crf.ser,Ilhan Omar,PERSON,36195,13,1
+06840a8a-ba96-48d7-a8cc-0299498be89b,45349406,424392,english.all.3class.distsim.crf.ser,Ingram,PERSON,59638,8,3
+068b4c90-8e50-4e4d-b510-42e9b54762e3,45266515,423925,english.all.3class.distsim.crf.ser,Stephanie Nolasco,PERSON,87378,9,1
+06aa896b-ed2b-414e-a293-b5c54a02b6c3,15304702,305370,english.all.3class.distsim.crf.ser,Ciprian,PERSON,546292,16,3
+06aa896b-ed2b-414e-a293-b5c54a02b6c3,15304708,305370,english.all.3class.distsim.crf.ser,Ciprian,PERSON,546292,18,3
+06aa896b-ed2b-414e-a293-b5c54a02b6c3,15304698,305370,english.all.3class.distsim.crf.ser,Rosdely Ciprian,PERSON,546292,16,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384701,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,19,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384684,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,14,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384656,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,6,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384705,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,20,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384662,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,8,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,31202491,320418,english.all.3class.distsim.crf.ser,Wilson,PERSON,52153,11,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384687,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,15,3
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384681,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,13,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384659,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,7,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384674,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,11,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384666,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,9,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384639,424543,english.all.3class.distsim.crf.ser,Karen Wilson,PERSON,888307,2,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,31202711,320418,english.all.3class.distsim.crf.ser,Wilson,PERSON,52153,23,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,31202682,320418,english.all.3class.distsim.crf.ser,Wilson,PERSON,52153,22,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,31202413,320418,english.all.3class.distsim.crf.ser,Ruth Wilson,PERSON,52153,5,1
+06b17667-dc3b-4405-b7dc-60aecedbe850,45384651,424543,english.all.3class.distsim.crf.ser,Karen,PERSON,888307,5,1
+0729e311-2baf-47de-a085-51c66e238f59,22317069,283956,english.all.3class.distsim.crf.ser,Claire Wellin,PERSON,642621,16,2
+07dde9a4-7bb0-446b-850b-ac2597c6127c,45267629,423926,english.all.3class.distsim.crf.ser,Chuck Todd,PERSON,7919,19,1
+07dde9a4-7bb0-446b-850b-ac2597c6127c,45273598,423932,english.all.3class.distsim.crf.ser,Schumer,PERSON,391,5,1
+07dde9a4-7bb0-446b-850b-ac2597c6127c,45267621,423926,english.all.3class.distsim.crf.ser,Chuck,PERSON,80152,16,2
+07dde9a4-7bb0-446b-850b-ac2597c6127c,45267633,423926,english.all.3class.distsim.crf.ser,Chuck Todd,PERSON,7919,21,1
+07dde9a4-7bb0-446b-850b-ac2597c6127c,45267623,423926,english.all.3class.distsim.crf.ser,Chuck Todd,PERSON,7919,17,1
+07dde9a4-7bb0-446b-850b-ac2597c6127c,45267627,423926,english.all.3class.distsim.crf.ser,Chuck Todd,PERSON,7919,18,2
+07dde9a4-7bb0-446b-850b-ac2597c6127c,45273581,423932,english.all.3class.distsim.crf.ser,Chuck Schumer,PERSON,391,2,1
+07dde9a4-7bb0-446b-850b-ac2597c6127c,45273588,423932,english.all.3class.distsim.crf.ser,Schumer,PERSON,391,3,1
+08b9a2f1-9fdd-4ecd-9e13-69b63165d88a,45388059,424547,english.all.3class.distsim.crf.ser,McCombe,PERSON,886810,3,1
+098cea1b-7819-4ae3-9cd2-4841adf0e837,45235525,423772,english.all.3class.distsim.crf.ser,Meek,PERSON,831549,23,1
+0a400557-6cc2-46fe-8c28-57f4703bcefb,45318245,424195,english.all.3class.distsim.crf.ser,Daniel,PERSON,165485,10,2
+0a400557-6cc2-46fe-8c28-57f4703bcefb,45318252,424195,english.all.3class.distsim.crf.ser,Daniel,PERSON,165485,15,1
+0a400557-6cc2-46fe-8c28-57f4703bcefb,45318259,424195,english.all.3class.distsim.crf.ser,Daniel,PERSON,165485,16,1
+0a400557-6cc2-46fe-8c28-57f4703bcefb,45318243,424195,english.all.3class.distsim.crf.ser,Daniel,PERSON,165485,6,1
+0a5ab74e-b1d5-4be0-859c-95c691e995bc,45158695,423617,english.all.3class.distsim.crf.ser,George Washington,PERSON,4056,6,2
+0c8592e7-5cee-4b77-8493-2ec1bcaabbc4,27303893,331842,english.all.3class.distsim.crf.ser,Terese Wadden,PERSON,709455,12,1
+0d282e3e-a299-48d1-a225-5f8b21a5a0b0,45233335,423770,english.all.3class.distsim.crf.ser,Meshonn Madison,PERSON,886399,24,1
+0d43da90-bd93-46a2-8ac3-c120ed2fe6ce,27303915,331842,english.all.3class.distsim.crf.ser,Will Brill,PERSON,709459,13,2
+0d43da90-bd93-46a2-8ac3-c120ed2fe6ce,27303939,331842,english.all.3class.distsim.crf.ser,Brill,PERSON,709459,16,2
+0e041d36-ba71-4f21-90cf-5f3e261e3aa5,45345103,424388,english.all.3class.distsim.crf.ser,Frank Sheridan,PERSON,887860,2,1
+0e2295b7-7632-44ed-b83b-a86be757252f,45318261,424195,english.all.3class.distsim.crf.ser,Ruth Buttery,PERSON,887501,19,1
+0e6772cc-bd87-4ecf-89f6-1dd158d590f0,45268744,423927,english.all.3class.distsim.crf.ser,Alexandria Ocasio-Cortez,PERSON,3473,1,1
+0e6772cc-bd87-4ecf-89f6-1dd158d590f0,45154024,423614,english.all.3class.distsim.crf.ser,Ocasio-Cortez,PERSON,3466,14,1
+0edc8ebd-2a46-4444-9c77-d1800bdddda9,45237545,423773,english.all.3class.distsim.crf.ser,Vargas,PERSON,580020,13,2
+0edc8ebd-2a46-4444-9c77-d1800bdddda9,45237491,423773,english.all.3class.distsim.crf.ser,Vargas,PERSON,580020,2,2
+0edc8ebd-2a46-4444-9c77-d1800bdddda9,45237474,423773,english.all.3class.distsim.crf.ser,Jason Vargas,PERSON,580020,1,1
+0edc8ebd-2a46-4444-9c77-d1800bdddda9,45237510,423773,english.all.3class.distsim.crf.ser,Vargas,PERSON,580020,4,2
+0edc8ebd-2a46-4444-9c77-d1800bdddda9,45237541,423773,english.all.3class.distsim.crf.ser,Vargas,PERSON,580020,12,1
+0efbe4a8-3e57-437b-ac42-344a2cb0442a,22317039,283956,english.all.3class.distsim.crf.ser,Dad,PERSON,1356,5,4
+0f4da2e5-a722-4687-9697-3f2d7e3e9b29,31202477,320418,english.all.3class.distsim.crf.ser,Edward Albee,PERSON,268430,7,3
+0fcdc296-60aa-4aeb-8975-627b35cb23d5,45267637,423926,english.all.3class.distsim.crf.ser,Greg Gutfeld,PERSON,66673,25,1
+0fd69137-7093-447a-9b09-bd61d3f3a381,45295163,424082,english.all.3class.distsim.crf.ser,Kavalec,PERSON,818379,6,2
+0fd69137-7093-447a-9b09-bd61d3f3a381,45295153,424082,english.all.3class.distsim.crf.ser,Kathleen Kavalec,PERSON,818379,5,1
+0fd69137-7093-447a-9b09-bd61d3f3a381,45295160,424082,english.all.3class.distsim.crf.ser,Kavalec,PERSON,818379,6,1
+13137984-e3d6-4651-9e32-73731e35cdbb,45157740,423616,english.all.3class.distsim.crf.ser,Jon Levine,PERSON,69077,12,1
+141d8790-2a13-47ac-b902-cdd0a90bcf01,45270742,423929,english.all.3class.distsim.crf.ser,Kenzie,PERSON,167123,14,1
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345107,424388,english.all.3class.distsim.crf.ser,Gallagher,PERSON,364614,2,1
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345179,424388,english.all.3class.distsim.crf.ser,Gallagher,PERSON,364614,12,1
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345177,424388,english.all.3class.distsim.crf.ser,Gallagher,PERSON,364614,12,1
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345093,424388,english.all.3class.distsim.crf.ser,Eddie Gallagher,PERSON,364614,1,1
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345115,424388,english.all.3class.distsim.crf.ser,Gallagher,PERSON,364614,3,1
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345127,424388,english.all.3class.distsim.crf.ser,Gallagher,PERSON,364614,5,2
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345137,424388,english.all.3class.distsim.crf.ser,Gallagher,PERSON,364614,7,1
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345147,424388,english.all.3class.distsim.crf.ser,Gallagher,PERSON,364614,8,2
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345155,424388,english.all.3class.distsim.crf.ser,Gallagher,PERSON,364614,9,1
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345163,424388,english.all.3class.distsim.crf.ser,Gallagher,PERSON,364614,10,1
+15faa062-75a3-43b6-a8c9-8bf48da11e37,45345173,424388,english.all.3class.distsim.crf.ser,Gallagher,PERSON,364614,12,1
+18fbab1c-76cb-4124-aebf-069fce864245,45269527,423928,english.all.3class.distsim.crf.ser,Raul Cardenas Thomae,PERSON,886940,9,1
+18fbab1c-76cb-4124-aebf-069fce864245,45269535,423928,english.all.3class.distsim.crf.ser,Thomae,PERSON,886940,10,1
+1a4e9e11-4519-4903-9e63-a61265ba64c2,45349414,424392,english.all.3class.distsim.crf.ser,Ingraham,PERSON,38619,10,1
+1a4e9e11-4519-4903-9e63-a61265ba64c2,45349373,424392,english.all.3class.distsim.crf.ser,Laura Ingraham,PERSON,38619,1,1
+1a4e9e11-4519-4903-9e63-a61265ba64c2,45319809,424236,english.all.3class.distsim.crf.ser,Laura Ingraham,PERSON,38619,7,1
+1a4e9e11-4519-4903-9e63-a61265ba64c2,45349379,424392,english.all.3class.distsim.crf.ser,Ingraham,PERSON,38619,2,2
+1a4e9e11-4519-4903-9e63-a61265ba64c2,45349397,424392,english.all.3class.distsim.crf.ser,Ingraham,PERSON,38619,6,3
+1a4e9e11-4519-4903-9e63-a61265ba64c2,45349387,424392,english.all.3class.distsim.crf.ser,Ingraham,PERSON,38619,4,5
+1a4e9e11-4519-4903-9e63-a61265ba64c2,45349400,424392,english.all.3class.distsim.crf.ser,Ingraham,PERSON,38619,7,1
+1a4e9e11-4519-4903-9e63-a61265ba64c2,45349421,424392,english.all.3class.distsim.crf.ser,Ingraham,PERSON,38619,11,2
+1a751041-ff93-4187-ba92-e5e3975a2eb4,45274908,423933,english.all.3class.distsim.crf.ser,Newsom,PERSON,19245,8,1
+1a751041-ff93-4187-ba92-e5e3975a2eb4,45274912,423933,english.all.3class.distsim.crf.ser,Newsom,PERSON,19245,11,1
+1a751041-ff93-4187-ba92-e5e3975a2eb4,45274897,423933,english.all.3class.distsim.crf.ser,Newsom,PERSON,19245,5,1
+1a751041-ff93-4187-ba92-e5e3975a2eb4,45274889,423933,english.all.3class.distsim.crf.ser,Newsom,PERSON,19245,3,3
+1a751041-ff93-4187-ba92-e5e3975a2eb4,45274880,423933,english.all.3class.distsim.crf.ser,Gavin Newsom,PERSON,19245,1,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235462,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,10,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202381,320418,english.all.3class.distsim.crf.ser,Jackson,PERSON,51937,1,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235442,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,7,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45238955,423774,english.all.3class.distsim.crf.ser,Jackson,PERSON,45878,7,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235545,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,29,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235463,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,10,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235513,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,20,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235496,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,15,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235504,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,18,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45238942,423774,english.all.3class.distsim.crf.ser,Samuel L. Jackson,PERSON,45878,1,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45273591,423932,english.all.3class.distsim.crf.ser,Jackson,PERSON,9117,3,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202652,320418,english.all.3class.distsim.crf.ser,Michael Arden,PERSON,763116,20,4
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384672,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,11,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384680,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,13,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235472,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,11,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235425,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,5,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235439,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,7,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45239812,423775,english.all.3class.distsim.crf.ser,Stelzer,PERSON,829576,3,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45286587,424079,english.all.3class.distsim.crf.ser,Horowitz,PERSON,292955,7,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384685,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,14,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384657,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,6,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384667,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,9,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45342880,424355,english.all.3class.distsim.crf.ser,Michael Jackson,PERSON,686,18,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45241641,423777,english.all.3class.distsim.crf.ser,Michael Kekejian,PERSON,886485,2,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45389095,424548,english.all.3class.distsim.crf.ser,Michael Stevens,PERSON,888354,7,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235417,423772,english.all.3class.distsim.crf.ser,Michael Langsdorf,PERSON,879767,3,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45286589,424079,english.all.3class.distsim.crf.ser,Michael E. Horowitz,PERSON,33961,7,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45273574,423932,english.all.3class.distsim.crf.ser,Andrew Jackson,PERSON,9117,1,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384652,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,5,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384690,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,16,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45388060,424547,english.all.3class.distsim.crf.ser,Jackson,PERSON,5359,3,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202788,320418,english.all.3class.distsim.crf.ser,Jackson,PERSON,51937,26,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202555,320418,english.all.3class.distsim.crf.ser,Jackson,PERSON,51937,16,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202535,320418,english.all.3class.distsim.crf.ser,Jackson,PERSON,51937,14,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202471,320418,english.all.3class.distsim.crf.ser,Jackson,PERSON,51937,7,3
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45241645,423777,english.all.3class.distsim.crf.ser,Kekejian,PERSON,886485,3,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45241650,423777,english.all.3class.distsim.crf.ser,Kekejian,PERSON,886485,4,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202525,320418,english.all.3class.distsim.crf.ser,Jackson,PERSON,51937,13,2
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202484,320418,english.all.3class.distsim.crf.ser,Jackson,PERSON,51937,10,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202463,320418,english.all.3class.distsim.crf.ser,Jackson,PERSON,51937,7,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384638,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,2,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235448,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,8,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384700,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,19,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384695,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,17,3
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235459,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,10,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235471,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,11,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45238945,423774,english.all.3class.distsim.crf.ser,Jackson,PERSON,45878,2,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235478,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,12,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235500,423772,english.all.3class.distsim.crf.ser,Michael,PERSON,879767,16,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45239809,423775,english.all.3class.distsim.crf.ser,Michael Stelzer,PERSON,829576,2,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45238961,423774,english.all.3class.distsim.crf.ser,Jackson,PERSON,45878,8,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202379,320418,english.all.3class.distsim.crf.ser,Glenda Jackson,PERSON,51937,1,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45384663,424543,english.all.3class.distsim.crf.ser,Andrew,PERSON,1412,8,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202429,320418,english.all.3class.distsim.crf.ser,Jackson,PERSON,51937,6,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235486,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,13,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,31202437,320418,english.all.3class.distsim.crf.ser,Jackson,PERSON,51937,6,3
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235493,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,14,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235541,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,28,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45363419,424502,english.all.3class.distsim.crf.ser,Michael Gove,PERSON,20924,5,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235534,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,27,1
+1aa3ec16-57cd-4277-b9e8-313f7eb94586,45235529,423772,english.all.3class.distsim.crf.ser,Langsdorf,PERSON,879767,26,1
+1dc9eb60-f30d-4d52-b083-6631f999d863,45239828,423775,english.all.3class.distsim.crf.ser,Steele Shippy,PERSON,886469,8,2
+1ddd2c7e-61fa-4343-b2bf-7b7d62dfc66c,45296775,424083,english.all.3class.distsim.crf.ser,John,PERSON,887145,1,1
+1e68089f-efd5-4cbc-8766-12dc0fd11c15,45289209,424080,english.all.3class.distsim.crf.ser,Zion Williamson,PERSON,102357,1,1
+1f59ac69-6427-4353-bed6-d20b5ecd5ee2,45345195,424388,english.all.3class.distsim.crf.ser,Joseph Warpinski,PERSON,887863,14,2
+1faa0ddd-7690-4ac7-a3a9-7ab9ee99c65b,45342801,424355,english.all.3class.distsim.crf.ser,Jeremy Hunt,PERSON,162,4,1
+1faa0ddd-7690-4ac7-a3a9-7ab9ee99c65b,45331335,424348,english.all.3class.distsim.crf.ser,Hunt,PERSON,162,9,1
+1faa0ddd-7690-4ac7-a3a9-7ab9ee99c65b,45331323,424348,english.all.3class.distsim.crf.ser,Hunt,PERSON,162,6,1
+1faa0ddd-7690-4ac7-a3a9-7ab9ee99c65b,45331318,424348,english.all.3class.distsim.crf.ser,Hunt,PERSON,162,4,1
+1faa0ddd-7690-4ac7-a3a9-7ab9ee99c65b,45331310,424348,english.all.3class.distsim.crf.ser,Jeremy Hunt,PERSON,162,1,1
+1faa0ddd-7690-4ac7-a3a9-7ab9ee99c65b,45331320,424348,english.all.3class.distsim.crf.ser,Jeremy,PERSON,162,5,1
+20928033-909d-433d-ba69-0a9e928a551c,27303885,331842,english.all.3class.distsim.crf.ser,Lynn Riggs,PERSON,258703,9,3
+20cde84c-5b49-4ab6-b8e6-0b4e5f4b2444,27303961,331842,english.all.3class.distsim.crf.ser,Agnes de Mille,PERSON,22913,23,1
+20d4b730-5ee7-45f4-b4d5-969600d8320d,45233310,423770,english.all.3class.distsim.crf.ser,Suero,PERSON,882716,19,1
+20d4b730-5ee7-45f4-b4d5-969600d8320d,45233317,423770,english.all.3class.distsim.crf.ser,Suero,PERSON,882716,20,1
+20d4b730-5ee7-45f4-b4d5-969600d8320d,45233302,423770,english.all.3class.distsim.crf.ser,Carlos Suero,PERSON,882716,18,2
+20d4b730-5ee7-45f4-b4d5-969600d8320d,45233306,423770,english.all.3class.distsim.crf.ser,Suero,PERSON,882716,18,3
+21025e89-8f39-4f59-bcf9-a17b79a06070,45110440,423450,english.all.3class.distsim.crf.ser,Edelman,PERSON,884523,10,1
+21025e89-8f39-4f59-bcf9-a17b79a06070,45110402,423450,english.all.3class.distsim.crf.ser,Edelman,PERSON,884523,4,1
+21025e89-8f39-4f59-bcf9-a17b79a06070,45110430,423450,english.all.3class.distsim.crf.ser,Edelman,PERSON,884523,8,1
+21025e89-8f39-4f59-bcf9-a17b79a06070,45110408,423450,english.all.3class.distsim.crf.ser,Edelman,PERSON,884523,5,1
+21025e89-8f39-4f59-bcf9-a17b79a06070,45110392,423450,english.all.3class.distsim.crf.ser,Sam Edelman,PERSON,884523,2,1
+22c77968-52e7-4643-97bb-0aa52f63ea80,45233347,423770,english.all.3class.distsim.crf.ser,Allen,PERSON,734982,25,2
+22c77968-52e7-4643-97bb-0aa52f63ea80,45233343,423770,english.all.3class.distsim.crf.ser,Joseph Allen,PERSON,734982,25,1
+22c77968-52e7-4643-97bb-0aa52f63ea80,45233349,423770,english.all.3class.distsim.crf.ser,Allen,PERSON,734982,26,1
+22e19d67-a2b0-4554-86c3-56d47b90a847,45365239,424505,english.all.3class.distsim.crf.ser,Abel,PERSON,110622,15,1
+22fbfb6d-247a-4000-8066-6a6beb1e35fd,45153992,423614,english.all.3class.distsim.crf.ser,Sandra Smith,PERSON,39783,2,1
+2307e17f-75b6-4a8f-80c5-3f5bf775661a,31202767,320418,english.all.3class.distsim.crf.ser,Regan,PERSON,124895,24,2
+2307e17f-75b6-4a8f-80c5-3f5bf775661a,31202507,320418,english.all.3class.distsim.crf.ser,Regan,PERSON,124895,12,1
+2307e17f-75b6-4a8f-80c5-3f5bf775661a,31202640,320418,english.all.3class.distsim.crf.ser,Regan,PERSON,124895,20,3
+25dcb3e7-cf04-49de-a6a1-eac0795a55b3,45382396,424540,english.all.3class.distsim.crf.ser,Jazzy,PERSON,42824,10,1
+263185ac-d9a3-4028-a204-ef4b90ba8e92,45382367,424540,english.all.3class.distsim.crf.ser,Dwayne,PERSON,35142,1,1
+281b940b-f5e4-42fc-9c9a-7348341334ad,15304686,305370,english.all.3class.distsim.crf.ser,Butler,PERSON,546290,14,5
+281b940b-f5e4-42fc-9c9a-7348341334ad,15304664,305370,english.all.3class.distsim.crf.ser,Oliver Butler,PERSON,546290,6,5
+294383b6-1ed1-46ba-b819-c09d854901cd,45382416,424540,english.all.3class.distsim.crf.ser,Lauren Hashian,PERSON,888260,14,1
+29653fbe-a059-4f10-a6d8-542ba8a25551,45352777,424395,english.all.3class.distsim.crf.ser,Salvini,PERSON,1182,4,2
+29653fbe-a059-4f10-a6d8-542ba8a25551,45352772,424395,english.all.3class.distsim.crf.ser,Matteo Salvini,PERSON,1182,4,1
+2a8acf11-adf6-4405-9e25-cf4cd798044c,45389101,424548,english.all.3class.distsim.crf.ser,Graham Smith,PERSON,888355,12,2
+2d5725c2-866d-4a03-bef5-850b621fca2f,45156247,423615,english.all.3class.distsim.crf.ser,Ashley Nicolette Frangipane,PERSON,88497,5,1
+2d5ca4c7-cc68-44c1-8c55-8111ad0148cb,45237539,423773,english.all.3class.distsim.crf.ser,Tim,PERSON,879796,11,3
+2d8685a8-1ed5-42a5-badc-fa124847ff69,45156257,423615,english.all.3class.distsim.crf.ser,Halsey,PERSON,8575,10,1
+2d8685a8-1ed5-42a5-badc-fa124847ff69,45156255,423615,english.all.3class.distsim.crf.ser,Halsey,PERSON,8575,8,1
+2d8685a8-1ed5-42a5-badc-fa124847ff69,45156252,423615,english.all.3class.distsim.crf.ser,Halsey,PERSON,8575,6,1
+2d8685a8-1ed5-42a5-badc-fa124847ff69,45156243,423615,english.all.3class.distsim.crf.ser,Halsey,PERSON,8575,2,1
+2d8685a8-1ed5-42a5-badc-fa124847ff69,45156260,423615,english.all.3class.distsim.crf.ser,Halsey,PERSON,8575,12,1
+2d8685a8-1ed5-42a5-badc-fa124847ff69,45156241,423615,english.all.3class.distsim.crf.ser,Halsey,PERSON,8575,1,1
+2d8685a8-1ed5-42a5-badc-fa124847ff69,45156245,423615,english.all.3class.distsim.crf.ser,Halsey,PERSON,8575,3,1
+2d92a0d0-8099-4f84-8c81-8cb8d2be4466,45158680,423617,english.all.3class.distsim.crf.ser,John Holt,PERSON,885176,3,1
+2fdab351-71ad-4f7a-bbd7-2a134eb2d163,27303891,331842,english.all.3class.distsim.crf.ser,Daniel Kluger,PERSON,709454,11,3
+30ae2381-1415-4efc-a9a0-98a45994328e,45298824,424085,english.all.3class.distsim.crf.ser,Vandana Rambaran,PERSON,838191,20,1
+31561f57-92e9-4bb7-ad55-c3ec6cd6f741,45354768,424397,english.all.3class.distsim.crf.ser,Mousavi,PERSON,585094,5,2
+31561f57-92e9-4bb7-ad55-c3ec6cd6f741,45354752,424397,english.all.3class.distsim.crf.ser,Abbas Mousavi,PERSON,585094,3,1
+31d59aad-c2c4-4f34-a8fd-f5fb57e7615e,45354762,424397,english.all.3class.distsim.crf.ser,John Bolton,PERSON,3755,5,1
+3235a84c-abc7-4cbb-9b9e-e8fef4ab5270,45237513,423773,english.all.3class.distsim.crf.ser,Carlos Gomez,PERSON,249950,4,2
+32e482d0-aedd-4a4a-89c6-ccefa8bd3d59,45389115,424548,english.all.3class.distsim.crf.ser,William,PERSON,2007,15,1
+32e482d0-aedd-4a4a-89c6-ccefa8bd3d59,45286593,424079,english.all.3class.distsim.crf.ser,Barr,PERSON,32101,8,1
+32e482d0-aedd-4a4a-89c6-ccefa8bd3d59,45286565,424079,english.all.3class.distsim.crf.ser,Barr,PERSON,32101,3,1
+32e482d0-aedd-4a4a-89c6-ccefa8bd3d59,45286553,424079,english.all.3class.distsim.crf.ser,William Barr,PERSON,32101,1,1
+32e482d0-aedd-4a4a-89c6-ccefa8bd3d59,45295122,424082,english.all.3class.distsim.crf.ser,William Barr,PERSON,32101,2,1
+34f0d86a-6ec8-4d2b-a00a-cfad52e6519f,27303879,331842,english.all.3class.distsim.crf.ser,Trevor Nunn,PERSON,258711,8,4
+366c4490-1273-4d58-bb53-a7b78d55531c,45316030,424191,english.all.3class.distsim.crf.ser,Maldon,PERSON,231533,3,1
+371ed288-6e53-45d5-b588-9182223b945c,45316068,424191,english.all.3class.distsim.crf.ser,Rachel Hearn,PERSON,887468,9,1
+3819dcdb-acb4-48e1-ac29-962fb01f09ae,45242379,423778,english.all.3class.distsim.crf.ser,Fabiana Pons,PERSON,886503,3,1
+386d7b3e-937a-45e2-93da-2b71324af754,45387152,424546,english.all.3class.distsim.crf.ser,Bryan Robinson,PERSON,6298,2,1
+3ad312c2-9376-40cc-9a84-01f4c522bd72,45233265,423770,english.all.3class.distsim.crf.ser,Schaup-Werner,PERSON,846190,11,2
+3ad312c2-9376-40cc-9a84-01f4c522bd72,45233264,423770,english.all.3class.distsim.crf.ser,Miranda Schaup-Werner,PERSON,846190,11,1
+3ad4871e-3259-4dae-a93b-c3c8c2fe1a21,45348100,424390,english.all.3class.distsim.crf.ser,Dyer,PERSON,195542,5,1
+3ad4871e-3259-4dae-a93b-c3c8c2fe1a21,45348094,424390,english.all.3class.distsim.crf.ser,Jerry Dyer,PERSON,195542,2,1
+3b95d1c1-9fdc-45ee-815f-6d5e86d3bcbb,31202489,320418,english.all.3class.distsim.crf.ser,Cordelia,PERSON,225117,11,1
+3ce13c14-3e28-422c-983a-40ad3a8386cd,45289275,424080,english.all.3class.distsim.crf.ser,Mnuchin,PERSON,6574,16,1
+3ce13c14-3e28-422c-983a-40ad3a8386cd,45289280,424080,english.all.3class.distsim.crf.ser,Mnuchin,PERSON,6574,17,1
+3ce13c14-3e28-422c-983a-40ad3a8386cd,45273607,423932,english.all.3class.distsim.crf.ser,Mnuchin,PERSON,4113,8,1
+3ce13c14-3e28-422c-983a-40ad3a8386cd,45289247,424080,english.all.3class.distsim.crf.ser,Mnuchin,PERSON,6574,10,1
+3ce13c14-3e28-422c-983a-40ad3a8386cd,45289223,424080,english.all.3class.distsim.crf.ser,Steve Mnuchin,PERSON,6574,3,1
+3ce13c14-3e28-422c-983a-40ad3a8386cd,45273603,423932,english.all.3class.distsim.crf.ser,Steven Mnuchin,PERSON,4113,6,1
+3ce13c14-3e28-422c-983a-40ad3a8386cd,45232273,423769,english.all.3class.distsim.crf.ser,Steve Mnuchin,PERSON,6574,3,2
+3ce13c14-3e28-422c-983a-40ad3a8386cd,45354788,424397,english.all.3class.distsim.crf.ser,Steven Mnuchin,PERSON,4113,7,2
+3ce13c14-3e28-422c-983a-40ad3a8386cd,45289318,424080,english.all.3class.distsim.crf.ser,Mnuchin,PERSON,6574,25,2
+3ce13c14-3e28-422c-983a-40ad3a8386cd,45273605,423932,english.all.3class.distsim.crf.ser,Mnuchin,PERSON,4113,7,1
+40ae11d8-e0fa-4524-ab8f-e0a3ee624fe7,45331317,424348,english.all.3class.distsim.crf.ser,Penny Mordaunt,PERSON,66330,4,1
+40d8062d-d14c-47f0-9df6-540b02a80b1a,27303963,331842,english.all.3class.distsim.crf.ser,Hamilton,PERSON,44347,24,1
+40d8062d-d14c-47f0-9df6-540b02a80b1a,27303959,331842,english.all.3class.distsim.crf.ser,Gabrielle Hamilton,PERSON,44347,22,2
+416dc4bf-3f70-45c8-ae12-c03217c234d6,45151207,423612,english.all.3class.distsim.crf.ser,Dana Perino,PERSON,164353,8,1
+4265c82c-7b90-43e3-9095-b2c6432f4812,45382376,424540,english.all.3class.distsim.crf.ser,Jasmine,PERSON,40111,3,1
+4265c82c-7b90-43e3-9095-b2c6432f4812,45382392,424540,english.all.3class.distsim.crf.ser,Jasmine,PERSON,40111,8,2
+4265c82c-7b90-43e3-9095-b2c6432f4812,45382381,424540,english.all.3class.distsim.crf.ser,Jasmine,PERSON,40111,4,2
+434fcf8d-15a1-4dee-8f8e-9f3c1372ac56,45271636,423930,english.all.3class.distsim.crf.ser,Hedvig Lindahl,PERSON,871809,2,2
+437ed7f9-6a9f-4bcb-824e-a9ee46de9afc,45365260,424505,english.all.3class.distsim.crf.ser,Joe Magats,PERSON,545541,24,1
+43a20d59-2924-4394-bcfc-3b142269a8d1,45266495,423925,english.all.3class.distsim.crf.ser,Elizabeth Hurley,PERSON,55475,1,1
+43a20d59-2924-4394-bcfc-3b142269a8d1,45266507,423925,english.all.3class.distsim.crf.ser,Hurley,PERSON,886878,6,1
+43a20d59-2924-4394-bcfc-3b142269a8d1,45266503,423925,english.all.3class.distsim.crf.ser,Damian Hurley,PERSON,886878,4,2
+43a20d59-2924-4394-bcfc-3b142269a8d1,45266502,423925,english.all.3class.distsim.crf.ser,Hurley,PERSON,55475,4,1
+43a20d59-2924-4394-bcfc-3b142269a8d1,45266499,423925,english.all.3class.distsim.crf.ser,Hurley,PERSON,55475,3,1
+43d1aa27-298e-42c8-9831-c6101bbbc2b2,45354815,424397,english.all.3class.distsim.crf.ser,Alex Pappas,PERSON,46275,10,1
+45bd963f-7191-4570-8d36-3c93ea46b550,45332352,424349,english.all.3class.distsim.crf.ser,Daisy,PERSON,34321,20,1
+46d795e1-f3ac-4a0e-bdac-914347988dfc,45235501,423772,english.all.3class.distsim.crf.ser,Buchanan,PERSON,886416,16,2
+46d795e1-f3ac-4a0e-bdac-914347988dfc,45235539,423772,english.all.3class.distsim.crf.ser,Buchanan,PERSON,886416,28,1
+46d795e1-f3ac-4a0e-bdac-914347988dfc,45235438,423772,english.all.3class.distsim.crf.ser,John Buchanan,PERSON,886416,7,1
+46d795e1-f3ac-4a0e-bdac-914347988dfc,45235544,423772,english.all.3class.distsim.crf.ser,Buchanan,PERSON,886416,29,1
+47a848a1-0486-477b-aaa4-da46013e9232,45234941,423771,english.all.3class.distsim.crf.ser,Todd Starnes,PERSON,95071,6,1
+47dd8f99-24f4-40f6-b66f-e28cab8a5a74,45289352,424080,english.all.3class.distsim.crf.ser,Hoyer,PERSON,26206,32,1
+47dd8f99-24f4-40f6-b66f-e28cab8a5a74,45289309,424080,english.all.3class.distsim.crf.ser,Steny Hoyer,PERSON,26206,24,2
+47dd8f99-24f4-40f6-b66f-e28cab8a5a74,45289357,424080,english.all.3class.distsim.crf.ser,Hoyer,PERSON,26206,33,1
+484284e5-de8d-4074-839a-5696d48ff61f,45116101,423454,english.all.3class.distsim.crf.ser,Jesus,PERSON,583,2,1
+484284e5-de8d-4074-839a-5696d48ff61f,45116115,423454,english.all.3class.distsim.crf.ser,Jesus,PERSON,583,5,2
+48c7f0c7-daae-4d09-b569-13822bf9b74a,45346866,424389,english.all.3class.distsim.crf.ser,Anna Ramirez,PERSON,887878,2,1
+48c7f0c7-daae-4d09-b569-13822bf9b74a,45346874,424389,english.all.3class.distsim.crf.ser,Ramirez,PERSON,887877,5,1
+48c7f0c7-daae-4d09-b569-13822bf9b74a,45346865,424389,english.all.3class.distsim.crf.ser,Amanda Ramirez,PERSON,887877,2,1
+48c7f0c7-daae-4d09-b569-13822bf9b74a,45346871,424389,english.all.3class.distsim.crf.ser,Amanda Ramirez,PERSON,887877,4,1
+48d034ce-9daa-4fb5-a9b6-a21db9612fa3,31202419,320418,english.all.3class.distsim.crf.ser,John Douglas Thompson,PERSON,763112,5,1
+48d034ce-9daa-4fb5-a9b6-a21db9612fa3,31202715,320418,english.all.3class.distsim.crf.ser,Thompson,PERSON,763112,23,2
+4b620757-19bf-4677-becc-7a3fe5aeae68,15304712,305370,english.all.3class.distsim.crf.ser,Lisa Kron,PERSON,393434,20,2
+4ba281f4-f55d-435e-b8d7-2c04021f1e44,45323289,424239,english.all.3class.distsim.crf.ser,Immesberger,PERSON,887547,6,1
+4ba281f4-f55d-435e-b8d7-2c04021f1e44,45323274,424239,english.all.3class.distsim.crf.ser,Immesberger,PERSON,887547,4,1
+4ba281f4-f55d-435e-b8d7-2c04021f1e44,45323263,424239,english.all.3class.distsim.crf.ser,Nicholas Immesberger,PERSON,887547,2,1
+4ba281f4-f55d-435e-b8d7-2c04021f1e44,45323292,424239,english.all.3class.distsim.crf.ser,Immesberger,PERSON,887547,7,1
+4ba281f4-f55d-435e-b8d7-2c04021f1e44,45323268,424239,english.all.3class.distsim.crf.ser,Immesberger,PERSON,887547,3,1
+4ba281f4-f55d-435e-b8d7-2c04021f1e44,45323267,424239,english.all.3class.distsim.crf.ser,Immesberger,PERSON,887547,3,1
+4ba281f4-f55d-435e-b8d7-2c04021f1e44,45323290,424239,english.all.3class.distsim.crf.ser,Immesberger,PERSON,887547,6,2
+4bb72793-162c-41d8-9b21-d8a8148a5a56,27303863,331842,english.all.3class.distsim.crf.ser,Damon Daunno,PERSON,546335,3,1
+4c3983be-7eaf-486a-a45c-af2462db05eb,45239838,423775,english.all.3class.distsim.crf.ser,Wade,PERSON,3434,10,1
+4c3983be-7eaf-486a-a45c-af2462db05eb,45239861,423775,english.all.3class.distsim.crf.ser,Wade,PERSON,3434,12,1
+4e786bca-edb4-48c8-ad85-e7b455df51ef,45286621,424079,english.all.3class.distsim.crf.ser,Jerry Nadler,PERSON,44767,12,1
+4e9e3012-9b75-47ab-b442-649815f9af7a,45233291,423770,english.all.3class.distsim.crf.ser,Holmes,PERSON,846234,16,2
+4e9e3012-9b75-47ab-b442-649815f9af7a,45233255,423770,english.all.3class.distsim.crf.ser,Holmes,PERSON,846234,10,3
+4e9e3012-9b75-47ab-b442-649815f9af7a,45233321,423770,english.all.3class.distsim.crf.ser,Holmes,PERSON,846234,20,1
+4e9e3012-9b75-47ab-b442-649815f9af7a,45233238,423770,english.all.3class.distsim.crf.ser,Edward Holmes,PERSON,846234,8,1
+4e9e3012-9b75-47ab-b442-649815f9af7a,45233254,423770,english.all.3class.distsim.crf.ser,Holmes,PERSON,846234,10,1
+4e9e3012-9b75-47ab-b442-649815f9af7a,45233268,423770,english.all.3class.distsim.crf.ser,Holmes,PERSON,846234,12,1
+4e9e3012-9b75-47ab-b442-649815f9af7a,45233293,423770,english.all.3class.distsim.crf.ser,Holmes,PERSON,846234,17,1
+4e9e3012-9b75-47ab-b442-649815f9af7a,45233319,423770,english.all.3class.distsim.crf.ser,Holmes,PERSON,846234,20,1
+4e9e3012-9b75-47ab-b442-649815f9af7a,45233325,423770,english.all.3class.distsim.crf.ser,Holmes,PERSON,846234,21,1
+51118ee4-f934-44a6-9039-453ffc465430,45342831,424355,english.all.3class.distsim.crf.ser,Tanya,PERSON,165620,8,3
+51cd003a-8e97-4ae9-9d44-099dcfe04fc6,27303859,331842,english.all.3class.distsim.crf.ser,Hammerstein,PERSON,98182,1,2
+51cd003a-8e97-4ae9-9d44-099dcfe04fc6,27303873,331842,english.all.3class.distsim.crf.ser,Oscar Hammerstein II,PERSON,258700,7,1
+537170a3-ebec-4eab-b694-8d3d11863706,27303888,331842,english.all.3class.distsim.crf.ser,Laura Jellinek,PERSON,709452,10,1
+541be824-fb40-4766-b215-a71040461af8,31202387,320418,english.all.3class.distsim.crf.ser,Philip Glass,PERSON,67119,2,2
+5543dac2-4c7f-42bf-8e28-e0e69ff04253,45239827,423775,english.all.3class.distsim.crf.ser,Mike Parson,PERSON,94914,8,2
+5543dac2-4c7f-42bf-8e28-e0e69ff04253,45235507,423772,english.all.3class.distsim.crf.ser,Mike,PERSON,2131,19,1
+55b39b42-6971-45d6-aab6-71fc9b05623f,45271660,423930,english.all.3class.distsim.crf.ser,Abby Wambach,PERSON,812931,5,1
+56592cb0-f1dc-4448-ab37-d54f392f6be5,27303941,331842,english.all.3class.distsim.crf.ser,Testa,PERSON,696446,16,2
+56592cb0-f1dc-4448-ab37-d54f392f6be5,27303913,331842,english.all.3class.distsim.crf.ser,Mary Testa,PERSON,696446,13,2
+57081dee-9406-462d-b66b-5a24c266a4c4,45289387,424080,english.all.3class.distsim.crf.ser,McConnell,PERSON,390,40,2
+57081dee-9406-462d-b66b-5a24c266a4c4,45289258,424080,english.all.3class.distsim.crf.ser,McConnell,PERSON,390,12,5
+57081dee-9406-462d-b66b-5a24c266a4c4,45289249,424080,english.all.3class.distsim.crf.ser,Mitch McConnell,PERSON,390,10,2
+57081dee-9406-462d-b66b-5a24c266a4c4,45289252,424080,english.all.3class.distsim.crf.ser,McConnell,PERSON,390,11,1
+57081dee-9406-462d-b66b-5a24c266a4c4,45274893,423933,english.all.3class.distsim.crf.ser,Mitch McConnell,PERSON,390,4,2
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298785,424085,english.all.3class.distsim.crf.ser,Jennifer Dulos,PERSON,826816,11,1
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298749,424085,english.all.3class.distsim.crf.ser,Jennifer,PERSON,826816,4,2
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298760,424085,english.all.3class.distsim.crf.ser,Jennifer Dulos,PERSON,826816,7,1
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298776,424085,english.all.3class.distsim.crf.ser,Jennifer Dulos,PERSON,826816,10,1
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298766,424085,english.all.3class.distsim.crf.ser,Jennifer Dulos,PERSON,826816,8,2
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298789,424085,english.all.3class.distsim.crf.ser,Jennifer,PERSON,826816,12,1
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298794,424085,english.all.3class.distsim.crf.ser,Jennifer,PERSON,826816,13,1
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298795,424085,english.all.3class.distsim.crf.ser,Jennifer,PERSON,826816,13,3
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298735,424085,english.all.3class.distsim.crf.ser,Jennifer Dulos,PERSON,826816,1,1
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298751,424085,english.all.3class.distsim.crf.ser,Jennifer,PERSON,826816,5,2
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298744,424085,english.all.3class.distsim.crf.ser,Jennifer Dulos,PERSON,826816,3,1
+5743b6f2-c120-4ed3-9d0e-008fc60b163b,45298756,424085,english.all.3class.distsim.crf.ser,Jennifer,PERSON,826816,6,1
+57a0a010-cad2-4586-8420-340c0888090b,45261477,423886,english.all.3class.distsim.crf.ser,Burhan,PERSON,843520,11,1
+57a0a010-cad2-4586-8420-340c0888090b,45261499,423886,english.all.3class.distsim.crf.ser,Burhan,PERSON,843520,24,1
+57a0a010-cad2-4586-8420-340c0888090b,45261493,423886,english.all.3class.distsim.crf.ser,Burhan,PERSON,843520,22,2
+57a0a010-cad2-4586-8420-340c0888090b,45261474,423886,english.all.3class.distsim.crf.ser,Burhan,PERSON,843520,8,1
+57a0a010-cad2-4586-8420-340c0888090b,45261454,423886,english.all.3class.distsim.crf.ser,Burhan,PERSON,843520,2,1
+57a0a010-cad2-4586-8420-340c0888090b,45261450,423886,english.all.3class.distsim.crf.ser,Burhan,PERSON,843520,1,1
+57a0a010-cad2-4586-8420-340c0888090b,45261489,423886,english.all.3class.distsim.crf.ser,Burhan,PERSON,843520,21,1
+57a0a010-cad2-4586-8420-340c0888090b,45261481,423886,english.all.3class.distsim.crf.ser,Burhan,PERSON,843520,15,1
+57a0a010-cad2-4586-8420-340c0888090b,45261479,423886,english.all.3class.distsim.crf.ser,Burhan,PERSON,843520,12,1
+57cfba19-ca57-4977-b28d-7852b114bd58,45233288,423770,english.all.3class.distsim.crf.ser,Cynthia Day,PERSON,846251,16,1
+57cfba19-ca57-4977-b28d-7852b114bd58,45233240,423770,english.all.3class.distsim.crf.ser,Cynthia Day,PERSON,846251,8,1
+58fa47ce-8dde-46c7-83c8-c87d38e94fa9,45323260,424239,english.all.3class.distsim.crf.ser,Barry Postman,PERSON,887544,2,1
+59b453e1-ebc7-4803-8e8c-faf619f88297,31202467,320418,english.all.3class.distsim.crf.ser,Vic,PERSON,9865,7,1
+5a974866-7e2c-49fc-8169-2099bf5964db,45154021,423614,english.all.3class.distsim.crf.ser,Alexandria Ocasio Cortez,PERSON,72027,13,1
+5aeb114e-6fc9-4916-ac18-420b593ae412,31202605,320418,english.all.3class.distsim.crf.ser,Gold,PERSON,393006,19,2
+5aeb114e-6fc9-4916-ac18-420b593ae412,31202575,320418,english.all.3class.distsim.crf.ser,Gold,PERSON,393006,18,1
+5aeb114e-6fc9-4916-ac18-420b593ae412,31202377,320418,english.all.3class.distsim.crf.ser,Sam Gold,PERSON,393006,1,1
+5aeb114e-6fc9-4916-ac18-420b593ae412,31202636,320418,english.all.3class.distsim.crf.ser,Gold,PERSON,393006,20,2
+5b88da8f-c41d-4a9f-b1da-6233f333528d,45323253,424239,english.all.3class.distsim.crf.ser,Tiger Woods,PERSON,41017,1,1
+5b88da8f-c41d-4a9f-b1da-6233f333528d,45323282,424239,english.all.3class.distsim.crf.ser,Woods,PERSON,41017,5,1
+5b88da8f-c41d-4a9f-b1da-6233f333528d,45323264,424239,english.all.3class.distsim.crf.ser,Woods,PERSON,41017,2,1
+5b88da8f-c41d-4a9f-b1da-6233f333528d,45323294,424239,english.all.3class.distsim.crf.ser,Woods,PERSON,41017,8,1
+5b88da8f-c41d-4a9f-b1da-6233f333528d,45323261,424239,english.all.3class.distsim.crf.ser,Woods,PERSON,41017,2,1
+5c289288-831a-4eb4-ae42-7f9cdb8bf4c1,31202666,320418,english.all.3class.distsim.crf.ser,Lear,PERSON,763113,21,2
+5c289288-831a-4eb4-ae42-7f9cdb8bf4c1,31202547,320418,english.all.3class.distsim.crf.ser,Lear,PERSON,763113,16,1
+5c289288-831a-4eb4-ae42-7f9cdb8bf4c1,31202533,320418,english.all.3class.distsim.crf.ser,Lear,PERSON,763113,14,2
+5c289288-831a-4eb4-ae42-7f9cdb8bf4c1,31202433,320418,english.all.3class.distsim.crf.ser,Lear,PERSON,48871,6,2
+5c289288-831a-4eb4-ae42-7f9cdb8bf4c1,31202522,320418,english.all.3class.distsim.crf.ser,Lear,PERSON,763113,13,1
+5c289288-831a-4eb4-ae42-7f9cdb8bf4c1,31202549,320418,english.all.3class.distsim.crf.ser,Lear,PERSON,763113,16,2
+5c289288-831a-4eb4-ae42-7f9cdb8bf4c1,31202475,320418,english.all.3class.distsim.crf.ser,Lear,PERSON,48871,7,3
+5c289288-831a-4eb4-ae42-7f9cdb8bf4c1,31202791,320418,english.all.3class.distsim.crf.ser,Lear,PERSON,763113,26,1
+5c289288-831a-4eb4-ae42-7f9cdb8bf4c1,31202670,320418,english.all.3class.distsim.crf.ser,Lear,PERSON,763113,21,3
+5c289288-831a-4eb4-ae42-7f9cdb8bf4c1,31202775,320418,english.all.3class.distsim.crf.ser,Lear,PERSON,763113,25,1
+5d9dbe87-08c5-46fc-9845-88c394ec3a9a,45388068,424547,english.all.3class.distsim.crf.ser,John Keenan,PERSON,888339,6,1
+5db5c2ec-d57d-4ef9-bd7b-8f5960473d7e,45117337,423455,english.all.3class.distsim.crf.ser,Alexander Skarsgard,PERSON,287599,1,1
+5e59e82c-f43a-49a7-8e59-ae4e5ebf3950,45117348,423455,english.all.3class.distsim.crf.ser,Kyle,PERSON,17238,3,1
+604c0dd8-6977-46ca-8349-1a3f46b8ebd7,45272337,423931,english.all.3class.distsim.crf.ser,Williams,PERSON,96962,7,1
+604c0dd8-6977-46ca-8349-1a3f46b8ebd7,45272348,423931,english.all.3class.distsim.crf.ser,Williams,PERSON,96962,10,1
+604c0dd8-6977-46ca-8349-1a3f46b8ebd7,27303906,331842,english.all.3class.distsim.crf.ser,Laurey Williams,PERSON,709457,13,2
+604c0dd8-6977-46ca-8349-1a3f46b8ebd7,45272343,423931,english.all.3class.distsim.crf.ser,Williams,PERSON,96962,9,2
+604c0dd8-6977-46ca-8349-1a3f46b8ebd7,45272312,423931,english.all.3class.distsim.crf.ser,Juan Williams,PERSON,96962,2,1
+60e9df79-b00e-449e-83a0-c8e619994df9,22317068,283956,english.all.3class.distsim.crf.ser,Elaine J. McCarthy,PERSON,642619,16,2
+61282e1f-bec0-4ffb-bf93-cf46d42aaacf,45289234,424080,english.all.3class.distsim.crf.ser,Richard Shelby,PERSON,4121,4,1
+617378ee-cc48-4cb4-a1c4-cc84c5821a9e,45298825,424085,english.all.3class.distsim.crf.ser,Perry Chiaramonte,PERSON,632213,20,1
+62021fbb-8d05-4071-9230-e446bc20e835,45321377,424237,english.all.3class.distsim.crf.ser,Irving,PERSON,194210,6,2
+62021fbb-8d05-4071-9230-e446bc20e835,45321339,424237,english.all.3class.distsim.crf.ser,Irving,PERSON,194210,2,1
+62aebf70-4509-4f41-b36a-049074a20012,45158685,423617,english.all.3class.distsim.crf.ser,John Witherspoon,PERSON,885181,3,2
+63172861-3123-491d-bdf7-f38094b45847,22317029,283956,english.all.3class.distsim.crf.ser,Maddie Corman,PERSON,642615,4,2
+63172861-3123-491d-bdf7-f38094b45847,22317048,283956,english.all.3class.distsim.crf.ser,Corman,PERSON,642615,8,1
+63172861-3123-491d-bdf7-f38094b45847,22317051,283956,english.all.3class.distsim.crf.ser,Corman,PERSON,642615,9,1
+63172861-3123-491d-bdf7-f38094b45847,22317054,283956,english.all.3class.distsim.crf.ser,Corman,PERSON,642615,10,2
+63172861-3123-491d-bdf7-f38094b45847,22317059,283956,english.all.3class.distsim.crf.ser,Corman,PERSON,642615,12,2
+63172861-3123-491d-bdf7-f38094b45847,22317061,283956,english.all.3class.distsim.crf.ser,Corman,PERSON,642615,13,1
+63172861-3123-491d-bdf7-f38094b45847,22317063,283956,english.all.3class.distsim.crf.ser,Corman,PERSON,642615,15,2
+63172861-3123-491d-bdf7-f38094b45847,22317074,283956,english.all.3class.distsim.crf.ser,Corman,PERSON,642615,17,2
+63172861-3123-491d-bdf7-f38094b45847,22317077,283956,english.all.3class.distsim.crf.ser,Corman,PERSON,642615,19,1
+63172861-3123-491d-bdf7-f38094b45847,22317035,283956,english.all.3class.distsim.crf.ser,Corman,PERSON,642615,5,1
+631a5367-a4c6-4d5d-88cc-da1c34ba8d33,45324840,424240,english.all.3class.distsim.crf.ser,Stephen Sorace,PERSON,205036,15,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45273599,423932,english.all.3class.distsim.crf.ser,Trump,PERSON,167,5,2
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45289264,424080,english.all.3class.distsim.crf.ser,Trump,PERSON,167,13,3
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45289328,424080,english.all.3class.distsim.crf.ser,Trump,PERSON,167,27,3
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45289377,424080,english.all.3class.distsim.crf.ser,Trump,PERSON,167,38,2
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,31202403,320418,english.all.3class.distsim.crf.ser,Trump,PERSON,167,4,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45345139,424388,english.all.3class.distsim.crf.ser,Trump,PERSON,167,7,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45349381,424392,english.all.3class.distsim.crf.ser,Trump,PERSON,167,2,2
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45349405,424392,english.all.3class.distsim.crf.ser,Trump,PERSON,167,8,2
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45350342,424393,english.all.3class.distsim.crf.ser,Trump,PERSON,167,1,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45350353,424393,english.all.3class.distsim.crf.ser,Trump,PERSON,167,3,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45354753,424397,english.all.3class.distsim.crf.ser,Trump,PERSON,167,3,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45354756,424397,english.all.3class.distsim.crf.ser,Trump,PERSON,167,4,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45354763,424397,english.all.3class.distsim.crf.ser,Trump,PERSON,167,5,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45354774,424397,english.all.3class.distsim.crf.ser,Trump,PERSON,167,6,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45354784,424397,english.all.3class.distsim.crf.ser,Trump,PERSON,167,7,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45331337,424348,english.all.3class.distsim.crf.ser,Donald Trump,PERSON,386,9,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45286609,424079,english.all.3class.distsim.crf.ser,Trump,PERSON,167,11,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45286633,424079,english.all.3class.distsim.crf.ser,Trump,PERSON,167,13,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45324793,424240,english.all.3class.distsim.crf.ser,Trump,PERSON,167,3,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45295180,424082,english.all.3class.distsim.crf.ser,Donald Trump,PERSON,386,10,3
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45301815,424087,english.all.3class.distsim.crf.ser,Trump,PERSON,167,1,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45301820,424087,english.all.3class.distsim.crf.ser,Trump,PERSON,167,2,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45301825,424087,english.all.3class.distsim.crf.ser,Trump,PERSON,167,3,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45301836,424087,english.all.3class.distsim.crf.ser,Trump,PERSON,167,7,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45300543,424086,english.all.3class.distsim.crf.ser,Trump,PERSON,167,1,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45300553,424086,english.all.3class.distsim.crf.ser,Trump,PERSON,167,2,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45300566,424086,english.all.3class.distsim.crf.ser,Trump,PERSON,167,3,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45300571,424086,english.all.3class.distsim.crf.ser,Trump,PERSON,167,5,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45300579,424086,english.all.3class.distsim.crf.ser,Trump,PERSON,167,6,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45300586,424086,english.all.3class.distsim.crf.ser,Trump,PERSON,167,7,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45274892,423933,english.all.3class.distsim.crf.ser,Donald Trump,PERSON,386,4,2
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45274899,423933,english.all.3class.distsim.crf.ser,Trump,PERSON,386,5,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45274905,423933,english.all.3class.distsim.crf.ser,Trump,PERSON,386,7,7
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45274913,423933,english.all.3class.distsim.crf.ser,Trump,PERSON,386,11,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45267611,423926,english.all.3class.distsim.crf.ser,Trump,PERSON,167,4,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45267615,423926,english.all.3class.distsim.crf.ser,Trump,PERSON,167,6,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45267617,423926,english.all.3class.distsim.crf.ser,Trump,PERSON,167,8,2
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45267619,423926,english.all.3class.distsim.crf.ser,Trump,PERSON,167,9,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45267626,423926,english.all.3class.distsim.crf.ser,Trump,PERSON,167,18,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45267631,423926,english.all.3class.distsim.crf.ser,Trump,PERSON,167,20,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45267635,423926,english.all.3class.distsim.crf.ser,Trump,PERSON,167,22,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45232260,423769,english.all.3class.distsim.crf.ser,Trump,PERSON,167,2,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45232268,423769,english.all.3class.distsim.crf.ser,Trump,PERSON,167,3,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45232293,423769,english.all.3class.distsim.crf.ser,Trump,PERSON,167,5,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45273573,423932,english.all.3class.distsim.crf.ser,Trump,PERSON,167,1,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45273590,423932,english.all.3class.distsim.crf.ser,Trump,PERSON,167,3,2
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45234931,423771,english.all.3class.distsim.crf.ser,Lara Trump,PERSON,164473,1,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45234935,423771,english.all.3class.distsim.crf.ser,Trump,PERSON,164473,2,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45234944,423771,english.all.3class.distsim.crf.ser,Trump,PERSON,164473,7,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45240985,423776,english.all.3class.distsim.crf.ser,Trump,PERSON,167,2,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45240988,423776,english.all.3class.distsim.crf.ser,Trump,PERSON,167,3,2
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45241001,423776,english.all.3class.distsim.crf.ser,Trump,PERSON,167,5,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45289265,424080,english.all.3class.distsim.crf.ser,Trump,PERSON,167,13,4
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45354776,424397,english.all.3class.distsim.crf.ser,Trump,PERSON,167,6,2
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45286614,424079,english.all.3class.distsim.crf.ser,Trump,PERSON,167,11,1
+63758edf-0cdc-4c6e-bc20-ec1823f54dfb,45234945,423771,english.all.3class.distsim.crf.ser,Trump,PERSON,164473,7,1
+63b5931d-d8e8-49f5-9c39-34f6e0a8492a,45301838,424087,english.all.3class.distsim.crf.ser,Ayatollah Ali Khamenei,PERSON,55584,7,1
+63b5931d-d8e8-49f5-9c39-34f6e0a8492a,45232270,423769,english.all.3class.distsim.crf.ser,Ali Khamenei,PERSON,7013,3,1
+63b5931d-d8e8-49f5-9c39-34f6e0a8492a,45354734,424397,english.all.3class.distsim.crf.ser,Ayatollah Ali Khamenei,PERSON,55584,1,1
+63b5931d-d8e8-49f5-9c39-34f6e0a8492a,45350349,424393,english.all.3class.distsim.crf.ser,Ayatollah Ali Khamenei,PERSON,55584,2,1
+64a9dae3-1356-444c-8340-5b8dd05ae212,45323299,424239,english.all.3class.distsim.crf.ser,Talia Kaplan,PERSON,710781,9,1
+65252639-5a79-43d1-9975-881d03c97f6c,45351577,424394,english.all.3class.distsim.crf.ser,Louis Farrakhan,PERSON,4263,7,1
+65717976-cfff-442a-8921-2400450071a5,45296774,424083,english.all.3class.distsim.crf.ser,John Cronin,PERSON,887145,1,1
+67d9eed2-1dae-4c0d-b410-f460e1798715,45272351,423931,english.all.3class.distsim.crf.ser,Pete Buttigieg,PERSON,61417,10,1
+67d9eed2-1dae-4c0d-b410-f460e1798715,45385665,424544,english.all.3class.distsim.crf.ser,Buttigieg,PERSON,385859,7,1
+67d9eed2-1dae-4c0d-b410-f460e1798715,45272319,423931,english.all.3class.distsim.crf.ser,Pete,PERSON,61417,3,2
+67d9eed2-1dae-4c0d-b410-f460e1798715,45351549,424394,english.all.3class.distsim.crf.ser,Pete Buttigieg,PERSON,61417,3,2
+67d9eed2-1dae-4c0d-b410-f460e1798715,45351552,424394,english.all.3class.distsim.crf.ser,Buttigieg,PERSON,61417,4,1
+67d9eed2-1dae-4c0d-b410-f460e1798715,45272305,423931,english.all.3class.distsim.crf.ser,Pete Buttigieg,PERSON,61417,1,1
+67d9eed2-1dae-4c0d-b410-f460e1798715,45272313,423931,english.all.3class.distsim.crf.ser,Buttigieg,PERSON,61417,2,1
+67d9eed2-1dae-4c0d-b410-f460e1798715,45272323,423931,english.all.3class.distsim.crf.ser,Buttigieg,PERSON,61417,4,1
+67d9eed2-1dae-4c0d-b410-f460e1798715,45272328,423931,english.all.3class.distsim.crf.ser,Buttigieg,PERSON,61417,5,1
+67d9eed2-1dae-4c0d-b410-f460e1798715,45272339,423931,english.all.3class.distsim.crf.ser,Buttigieg,PERSON,61417,7,1
+67d9eed2-1dae-4c0d-b410-f460e1798715,45272342,423931,english.all.3class.distsim.crf.ser,Pete Buttigieg,PERSON,61417,9,1
+67d9eed2-1dae-4c0d-b410-f460e1798715,45272349,423931,english.all.3class.distsim.crf.ser,Buttigieg,PERSON,61417,10,1
+69605779-ca0e-4c5b-8177-ff34dd9664c5,45233365,423770,english.all.3class.distsim.crf.ser,Leyla Cox,PERSON,868001,29,1
+69605779-ca0e-4c5b-8177-ff34dd9664c5,45233345,423770,english.all.3class.distsim.crf.ser,Leyla Cox,PERSON,868001,25,1
+6997ce8e-bb6a-4ed1-b62f-4611cadcf495,45233226,423770,english.all.3class.distsim.crf.ser,Steven Bullock,PERSON,873021,7,1
+6997ce8e-bb6a-4ed1-b62f-4611cadcf495,45233332,423770,english.all.3class.distsim.crf.ser,Bullock,PERSON,873021,23,1
+6997ce8e-bb6a-4ed1-b62f-4611cadcf495,45233328,423770,english.all.3class.distsim.crf.ser,Bullock,PERSON,873021,22,1
+6997ce8e-bb6a-4ed1-b62f-4611cadcf495,45233324,423770,english.all.3class.distsim.crf.ser,Bullock,PERSON,873021,21,1
+6b7b96ab-3de3-4677-ba6a-f6ba9776be68,45382391,424540,english.all.3class.distsim.crf.ser,Tia,PERSON,218725,8,2
+6b7b96ab-3de3-4677-ba6a-f6ba9776be68,45382420,424540,english.all.3class.distsim.crf.ser,Tia,PERSON,218725,15,2
+6be62616-a9da-4390-a605-b9d52d28146e,45349015,424391,english.all.3class.distsim.crf.ser,Trivea Jones,PERSON,887889,2,1
+6be62616-a9da-4390-a605-b9d52d28146e,45349019,424391,english.all.3class.distsim.crf.ser,Jones,PERSON,887889,2,2
+6be62616-a9da-4390-a605-b9d52d28146e,45349024,424391,english.all.3class.distsim.crf.ser,Jones,PERSON,887889,4,1
+6be62616-a9da-4390-a605-b9d52d28146e,27303907,331842,english.all.3class.distsim.crf.ser,Rebecca Naomi Jones,PERSON,546339,13,2
+6be62616-a9da-4390-a605-b9d52d28146e,27303945,331842,english.all.3class.distsim.crf.ser,Jones,PERSON,546339,17,2
+6bedff1e-806a-439c-832d-1108ff47b8ba,27303909,331842,english.all.3class.distsim.crf.ser,James Davis,PERSON,228062,13,2
+6bedff1e-806a-439c-832d-1108ff47b8ba,27303938,331842,english.all.3class.distsim.crf.ser,Davis,PERSON,228062,16,1
+6c1d7e6e-727f-4e1b-a84b-a71f95cb961d,45117362,423455,english.all.3class.distsim.crf.ser,Keith Urban,PERSON,18869,8,1
+6c1dfdac-4ab0-44a8-b444-90ac583e543b,31202730,320418,english.all.3class.distsim.crf.ser,Pedro Pascal,PERSON,8352,23,2
+6e132132-b230-4aac-8a2b-0f8b8bc151a1,45266511,423925,english.all.3class.distsim.crf.ser,Morgan,PERSON,2816,8,2
+6e5b948b-c5a4-44fc-bf7c-3428525db0ea,45116107,423454,english.all.3class.distsim.crf.ser,Al-Bandak,PERSON,884644,4,1
+6e5b948b-c5a4-44fc-bf7c-3428525db0ea,45116104,423454,english.all.3class.distsim.crf.ser,Ziad al-Bandak,PERSON,227566,3,1
+6f7170c3-e72e-44dd-b74d-0a05bcc8bfeb,45319817,424236,english.all.3class.distsim.crf.ser,Jake Tapper,PERSON,54744,8,1
+704bf8d8-2841-4475-bef3-c537e683f683,45342867,424355,english.all.3class.distsim.crf.ser,Carrie Symonds,PERSON,870669,14,3
+704bf8d8-2841-4475-bef3-c537e683f683,45342773,424355,english.all.3class.distsim.crf.ser,Carrie Symonds,PERSON,870669,1,2
+706136c0-e693-48e9-8ee9-67352b2b2d1b,45382402,424540,english.all.3class.distsim.crf.ser,Simone,PERSON,28392,12,1
+706136c0-e693-48e9-8ee9-67352b2b2d1b,45382410,424540,english.all.3class.distsim.crf.ser,Simone,PERSON,28392,13,1
+706136c0-e693-48e9-8ee9-67352b2b2d1b,45382412,424540,english.all.3class.distsim.crf.ser,Simone,PERSON,28392,13,3
+707232d7-e76a-4baf-bd98-c452405d4463,45239820,423775,english.all.3class.distsim.crf.ser,Colleen McNicholas,PERSON,170268,6,1
+71e33e14-fc59-426e-8814-ee0cf29900a7,45272321,423931,english.all.3class.distsim.crf.ser,Martha MacCallum,PERSON,60626,3,2
+71e33e14-fc59-426e-8814-ee0cf29900a7,45296777,424083,english.all.3class.distsim.crf.ser,Martha MacCallum,PERSON,60626,1,1
+7464d00b-e081-4d10-9fd4-8f75b33cb5c7,27303858,331842,english.all.3class.distsim.crf.ser,Rodgers,PERSON,70833,1,2
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304691,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,15,3
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304703,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,16,4
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304707,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,18,1
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304713,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,20,3
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304672,305370,english.all.3class.distsim.crf.ser,Heidi,PERSON,546289,9,3
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304692,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,15,6
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304687,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,14,5
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304715,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,21,2
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304646,305370,english.all.3class.distsim.crf.ser,Heidi,PERSON,215218,3,1
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304667,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,8,2
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304671,305370,english.all.3class.distsim.crf.ser,Heidi,PERSON,546289,9,1
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304685,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,14,4
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304676,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,10,4
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304680,305370,english.all.3class.distsim.crf.ser,Schreck,PERSON,546289,13,1
+753909af-3f0a-43cc-b7a9-93c36919c8c0,15304650,305370,english.all.3class.distsim.crf.ser,Heidi Schreck,PERSON,546289,4,3
+7ae4a5fc-80b3-4f17-9cc7-558510681c8a,45158701,423617,english.all.3class.distsim.crf.ser,James Rogers,PERSON,24514,9,1
+7b0de310-11db-44e9-9b5d-5ff839b8c73b,45365286,424505,english.all.3class.distsim.crf.ser,Tina Glandian,PERSON,623819,32,1
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270744,423929,english.all.3class.distsim.crf.ser,Mackenzie,PERSON,877531,14,2
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270726,423929,english.all.3class.distsim.crf.ser,Mackenzie,PERSON,877531,11,1
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270732,423929,english.all.3class.distsim.crf.ser,Mackenzie,PERSON,877531,12,2
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270724,423929,english.all.3class.distsim.crf.ser,Mackenzie,PERSON,877531,10,1
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270741,423929,english.all.3class.distsim.crf.ser,Mackenzie,PERSON,877531,14,1
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270750,423929,english.all.3class.distsim.crf.ser,Mackenzie,PERSON,877531,16,2
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270708,423929,english.all.3class.distsim.crf.ser,Mackenzie Lueck,PERSON,877531,4,1
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270712,423929,english.all.3class.distsim.crf.ser,Lueck,PERSON,877531,4,2
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270716,423929,english.all.3class.distsim.crf.ser,Lueck,PERSON,877531,6,1
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270718,423929,english.all.3class.distsim.crf.ser,Lueck,PERSON,877531,7,1
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270720,423929,english.all.3class.distsim.crf.ser,Lueck,PERSON,877531,8,1
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270743,423929,english.all.3class.distsim.crf.ser,Lueck,PERSON,877531,14,1
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270746,423929,english.all.3class.distsim.crf.ser,Lueck,PERSON,877531,15,1
+7c31e458-1ca6-464e-80e8-c53fa3bd2271,45270755,423929,english.all.3class.distsim.crf.ser,Lueck,PERSON,877531,17,1
+7c602ad3-c45e-4f43-9375-3dfcd946326b,45389075,424548,english.all.3class.distsim.crf.ser,Harry,PERSON,1431,1,1
+7c602ad3-c45e-4f43-9375-3dfcd946326b,45389082,424548,english.all.3class.distsim.crf.ser,Harry,PERSON,1431,4,1
+7e1f689e-e051-4ecf-b2e5-eff7dcdcff1b,45157738,423616,english.all.3class.distsim.crf.ser,Ana Navarro,PERSON,90366,12,1
+7e6113b3-e083-4363-9226-38fd9d0cbcd0,45353749,424396,english.all.3class.distsim.crf.ser,Karl Addis,PERSON,887941,2,1
+7e6113b3-e083-4363-9226-38fd9d0cbcd0,45353756,424396,english.all.3class.distsim.crf.ser,Addis,PERSON,887941,3,1
+805459ca-5ccf-4002-b5a7-ad12815a064c,27303870,331842,english.all.3class.distsim.crf.ser,Fish,PERSON,85567,6,2
+805459ca-5ccf-4002-b5a7-ad12815a064c,27303878,331842,english.all.3class.distsim.crf.ser,Fish,PERSON,85567,8,2
+805459ca-5ccf-4002-b5a7-ad12815a064c,27303954,331842,english.all.3class.distsim.crf.ser,Fish,PERSON,85567,20,2
+805459ca-5ccf-4002-b5a7-ad12815a064c,27303857,331842,english.all.3class.distsim.crf.ser,Daniel Fish,PERSON,85567,1,2
+81b60d8f-8edf-496b-93e1-ad2ebc15baaf,45289237,424080,english.all.3class.distsim.crf.ser,Kevin McCarthy,PERSON,18473,4,2
+82281f3f-2eef-4424-836f-57c792ddfd43,45319815,424236,english.all.3class.distsim.crf.ser,Castro,PERSON,15253,8,1
+82281f3f-2eef-4424-836f-57c792ddfd43,45153996,423614,english.all.3class.distsim.crf.ser,Julian Castro,PERSON,15253,7,1
+82281f3f-2eef-4424-836f-57c792ddfd43,45319811,424236,english.all.3class.distsim.crf.ser,Julian Castro,PERSON,15253,7,1
+831121cf-29f3-45e8-8df5-df19fac9e932,45271626,423930,english.all.3class.distsim.crf.ser,Stina Blackstenius,PERSON,851192,1,1
+839d4a7d-622a-4ce3-a34f-5f8b80a7649b,27303905,331842,english.all.3class.distsim.crf.ser,Curly McLain,PERSON,709456,13,2
+845eb1ff-a233-4be8-8fb0-8990c1d7cb7d,45271638,423930,english.all.3class.distsim.crf.ser,Kosovare Asllani,PERSON,871813,2,2
+84eb54d7-b4be-44c4-8ea8-0afc5d51938b,45363433,424502,english.all.3class.distsim.crf.ser,Natasha,PERSON,165618,12,1
+84eb54d7-b4be-44c4-8ea8-0afc5d51938b,45363426,424502,english.all.3class.distsim.crf.ser,Natasha,PERSON,165618,9,1
+84eb54d7-b4be-44c4-8ea8-0afc5d51938b,45363431,424502,english.all.3class.distsim.crf.ser,Natasha,PERSON,165618,11,1
+84eb54d7-b4be-44c4-8ea8-0afc5d51938b,45363417,424502,english.all.3class.distsim.crf.ser,Natasha,PERSON,165618,4,1
+84eb54d7-b4be-44c4-8ea8-0afc5d51938b,45342829,424355,english.all.3class.distsim.crf.ser,Natasha Ednan-Laperouse,PERSON,165618,8,2
+84eb54d7-b4be-44c4-8ea8-0afc5d51938b,45363413,424502,english.all.3class.distsim.crf.ser,Natasha Ednan-Laperouse,PERSON,165618,1,1
+84eb54d7-b4be-44c4-8ea8-0afc5d51938b,45363415,424502,english.all.3class.distsim.crf.ser,Natasha,PERSON,165618,3,1
+84eb54d7-b4be-44c4-8ea8-0afc5d51938b,45342833,424355,english.all.3class.distsim.crf.ser,Nadim Ednan-Laperouse,PERSON,165619,8,3
+85cc8930-64df-426f-aac1-75ecb490f105,45239859,423775,english.all.3class.distsim.crf.ser,Roe,PERSON,3433,12,1
+85cc8930-64df-426f-aac1-75ecb490f105,45239837,423775,english.all.3class.distsim.crf.ser,Roe,PERSON,3433,10,1
+8625d9a0-a082-4921-8fa9-3df5a9c3477d,27303880,331842,english.all.3class.distsim.crf.ser,Susan Stroman,PERSON,272021,8,4
+868694eb-944d-4df6-84e2-15151798342f,45273610,423932,english.all.3class.distsim.crf.ser,Tubman,PERSON,17380,9,1
+868694eb-944d-4df6-84e2-15151798342f,45273575,423932,english.all.3class.distsim.crf.ser,Harriet Tubman,PERSON,17380,1,1
+86b1f785-feee-4bec-92fd-f1300d2d0972,45159553,423618,english.all.3class.distsim.crf.ser,Zhang,PERSON,632540,14,1
+86b1f785-feee-4bec-92fd-f1300d2d0972,45159539,423618,english.all.3class.distsim.crf.ser,Zhang,PERSON,632540,12,2
+86b1f785-feee-4bec-92fd-f1300d2d0972,45159572,423618,english.all.3class.distsim.crf.ser,Zhang,PERSON,632540,18,1
+86b1f785-feee-4bec-92fd-f1300d2d0972,45159556,423618,english.all.3class.distsim.crf.ser,Zhang,PERSON,632540,14,1
+86b1f785-feee-4bec-92fd-f1300d2d0972,45159500,423618,english.all.3class.distsim.crf.ser,Yingying Zhang,PERSON,632540,3,1
+86b1f785-feee-4bec-92fd-f1300d2d0972,45159563,423618,english.all.3class.distsim.crf.ser,Zhang,PERSON,632540,16,1
+86b1f785-feee-4bec-92fd-f1300d2d0972,45159513,423618,english.all.3class.distsim.crf.ser,Zhang,PERSON,632540,9,1
+86b1f785-feee-4bec-92fd-f1300d2d0972,45159522,423618,english.all.3class.distsim.crf.ser,Zhang,PERSON,632540,10,1
+86b1f785-feee-4bec-92fd-f1300d2d0972,45159537,423618,english.all.3class.distsim.crf.ser,Zhang,PERSON,632540,12,1
+86b1f785-feee-4bec-92fd-f1300d2d0972,45159545,423618,english.all.3class.distsim.crf.ser,Zhang,PERSON,632540,13,1
+87a07af5-fe0b-4cdf-94d2-ce44f23201f4,45300581,424086,english.all.3class.distsim.crf.ser,Tom Fitton,PERSON,105231,6,1
+88d10dd8-6407-4b3b-8457-74203096fbc1,45300547,424086,english.all.3class.distsim.crf.ser,Christopher Wray,PERSON,158,1,1
+88d10dd8-6407-4b3b-8457-74203096fbc1,45300587,424086,english.all.3class.distsim.crf.ser,Wray,PERSON,158,7,1
+88d10dd8-6407-4b3b-8457-74203096fbc1,45300570,424086,english.all.3class.distsim.crf.ser,Wray,PERSON,158,5,1
+88d10dd8-6407-4b3b-8457-74203096fbc1,45300565,424086,english.all.3class.distsim.crf.ser,Wray,PERSON,158,3,1
+88d2d408-77c1-42c6-a160-884d67f935ff,45158683,423617,english.all.3class.distsim.crf.ser,Mulford,PERSON,885177,3,2
+88d2d408-77c1-42c6-a160-884d67f935ff,45158682,423617,english.all.3class.distsim.crf.ser,David Mulford,PERSON,885177,3,1
+88d2d408-77c1-42c6-a160-884d67f935ff,45158688,423617,english.all.3class.distsim.crf.ser,Mulford,PERSON,885177,4,1
+89dda721-5a97-46d2-9c12-a6e788fa486d,45324794,424240,english.all.3class.distsim.crf.ser,Patrick Shanahan,PERSON,3950,3,1
+8a1e3b75-0ab2-4b8b-a612-c4fdfdb5d0a2,31202590,320418,english.all.3class.distsim.crf.ser,Oscar Isaac,PERSON,13959,18,1
+8a783574-8935-4d80-92e9-832ef29c3c50,45273617,423932,english.all.3class.distsim.crf.ser,Chad Pergram,PERSON,26368,10,1
+8bc29004-6c16-42ec-9dd2-ffe559312e61,27303937,331842,english.all.3class.distsim.crf.ser,Ado Annie,PERSON,258735,16,1
+8bc29004-6c16-42ec-9dd2-ffe559312e61,27303910,331842,english.all.3class.distsim.crf.ser,Ado Annie,PERSON,258735,13,2
+8bdc60b0-5da9-49a2-8d61-539e1d05595a,45265491,423924,english.all.3class.distsim.crf.ser,Bailey Boswell,PERSON,886857,6,1
+8bdc60b0-5da9-49a2-8d61-539e1d05595a,45265485,423924,english.all.3class.distsim.crf.ser,Bailey,PERSON,31760,2,1
+8fd8fbea-b3f6-4790-b11b-1f5dc191b1aa,45289316,424080,english.all.3class.distsim.crf.ser,Fox,PERSON,2040,25,1
+8fd8fbea-b3f6-4790-b11b-1f5dc191b1aa,45289374,424080,english.all.3class.distsim.crf.ser,Fox,PERSON,2040,37,1
+8fe52979-d480-42cb-855e-bb31406ec497,27303908,331842,english.all.3class.distsim.crf.ser,Will Parker,PERSON,258696,13,2
+9047e98f-183d-41f2-8396-9c44ada3e533,45238964,423774,english.all.3class.distsim.crf.ser,Jake Gyllenhaal,PERSON,30301,8,1
+90d3e97e-0e2a-4eb4-9281-69a33ddbc57e,45388069,424547,english.all.3class.distsim.crf.ser,Paisley,PERSON,156699,6,1
+912ff6d6-1d55-4048-ad3f-cac2fff93235,45300563,424086,english.all.3class.distsim.crf.ser,Hill,PERSON,3963,3,1
+928b2220-317f-49cb-a45f-2b0b0f8c18ef,45151196,423612,english.all.3class.distsim.crf.ser,Stirewalt,PERSON,78283,5,1
+928b2220-317f-49cb-a45f-2b0b0f8c18ef,45151175,423612,english.all.3class.distsim.crf.ser,Stirewalt,PERSON,78283,2,1
+928b2220-317f-49cb-a45f-2b0b0f8c18ef,45151169,423612,english.all.3class.distsim.crf.ser,Chris Stirewalt,PERSON,78283,1,2
+940926a6-a1aa-449c-82d1-f58df2c95d6f,45272333,423931,english.all.3class.distsim.crf.ser,Rivera,PERSON,178524,6,2
+940926a6-a1aa-449c-82d1-f58df2c95d6f,45272338,423931,english.all.3class.distsim.crf.ser,Rivera,PERSON,178524,7,1
+940926a6-a1aa-449c-82d1-f58df2c95d6f,45272327,423931,english.all.3class.distsim.crf.ser,Rivera,PERSON,178524,5,1
+940926a6-a1aa-449c-82d1-f58df2c95d6f,45272320,423931,english.all.3class.distsim.crf.ser,Rivera,PERSON,178524,3,2
+940926a6-a1aa-449c-82d1-f58df2c95d6f,45272311,423931,english.all.3class.distsim.crf.ser,Geraldo Rivera,PERSON,178524,2,1
+94765b57-94ce-4f8d-9829-312f78ef8e13,45159552,423618,english.all.3class.distsim.crf.ser,Terra Bullis,PERSON,885204,14,1
+94765b57-94ce-4f8d-9829-312f78ef8e13,45159554,423618,english.all.3class.distsim.crf.ser,Bullis,PERSON,885204,14,1
+947dae69-5638-4b4a-a401-b3624ed76579,45389119,424548,english.all.3class.distsim.crf.ser,Charles,PERSON,348203,15,3
+947dae69-5638-4b4a-a401-b3624ed76579,45389091,424548,english.all.3class.distsim.crf.ser,Vicky Charles,PERSON,348203,6,1
+947dae69-5638-4b4a-a401-b3624ed76579,45389111,424548,english.all.3class.distsim.crf.ser,Charles,PERSON,348203,15,1
+94e388cf-3a4b-46ab-a79b-d391850be6b0,45271637,423930,english.all.3class.distsim.crf.ser,Janine Beckie,PERSON,886969,2,2
+94e388cf-3a4b-46ab-a79b-d391850be6b0,45271658,423930,english.all.3class.distsim.crf.ser,Beckie,PERSON,886969,5,1
+95416750-34c8-4b77-b007-be44c150a076,45345187,424388,english.all.3class.distsim.crf.ser,James Frank,PERSON,887862,13,2
+98105ea6-8c1f-426b-8e09-bcc0336bb77d,45348098,424390,english.all.3class.distsim.crf.ser,Marco Antonio Echartea,PERSON,887885,4,2
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235449,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,8,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235461,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,10,2
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235464,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,10,2
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235487,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,13,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235419,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,3,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235421,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,4,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235428,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,6,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235460,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,10,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235470,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,11,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235477,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,12,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235485,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,13,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235492,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,14,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235512,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,20,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235516,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,21,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235520,423772,english.all.3class.distsim.crf.ser,Meeks,PERSON,886414,22,1
+98dceb0e-d95d-4285-ac1a-c27ce4a5f53f,45235413,423772,english.all.3class.distsim.crf.ser,Bonette Kymbrelle Meeks,PERSON,886414,2,1
+98ebc778-ca22-4a6b-aea8-780035bb81be,45319797,424236,english.all.3class.distsim.crf.ser,Azar,PERSON,37088,2,1
+98ebc778-ca22-4a6b-aea8-780035bb81be,45319795,424236,english.all.3class.distsim.crf.ser,Alex Azar,PERSON,37088,1,1
+98ebc778-ca22-4a6b-aea8-780035bb81be,45319801,424236,english.all.3class.distsim.crf.ser,Azar,PERSON,37088,5,1
+98ebc778-ca22-4a6b-aea8-780035bb81be,45319820,424236,english.all.3class.distsim.crf.ser,Azar,PERSON,37088,10,1
+98ebc778-ca22-4a6b-aea8-780035bb81be,45319810,424236,english.all.3class.distsim.crf.ser,Azar,PERSON,37088,7,1
+99e99dc4-905a-4f1f-bff1-e54afe1235ad,45296785,424083,english.all.3class.distsim.crf.ser,John,PERSON,887145,6,1
+9acc4fa5-1dc9-412b-abd5-fb6b0dfa058d,45322602,424238,english.all.3class.distsim.crf.ser,Faith Taylor,PERSON,887531,2,1
+9bffece7-ec23-41ce-b575-98fac53bd5a4,45345119,424388,english.all.3class.distsim.crf.ser,Sheridan,PERSON,887860,4,1
+9c47c30b-8457-4363-a4ba-c1f6fd1477b4,27303947,331842,english.all.3class.distsim.crf.ser,Jud,PERSON,258707,17,2
+9c47c30b-8457-4363-a4ba-c1f6fd1477b4,27303924,331842,english.all.3class.distsim.crf.ser,Jud,PERSON,258707,14,2
+9c47c30b-8457-4363-a4ba-c1f6fd1477b4,27303949,331842,english.all.3class.distsim.crf.ser,Jud,PERSON,258707,18,1
+9d4e4815-01b3-43da-bbd5-b1a899068128,45286571,424079,english.all.3class.distsim.crf.ser,Jim Jordan,PERSON,15215,5,1
+9d4e4815-01b3-43da-bbd5-b1a899068128,45286588,424079,english.all.3class.distsim.crf.ser,Jordan,PERSON,15215,7,2
+9e35ed4d-7c75-4494-b723-dd9db345bd38,45286630,424079,english.all.3class.distsim.crf.ser,Hillary Clinton,PERSON,2669,13,1
+9e35ed4d-7c75-4494-b723-dd9db345bd38,45385640,424544,english.all.3class.distsim.crf.ser,Hillary Clinton,PERSON,2669,5,2
+9e35ed4d-7c75-4494-b723-dd9db345bd38,45295131,424082,english.all.3class.distsim.crf.ser,Clinton,PERSON,4058,3,1
+9e35ed4d-7c75-4494-b723-dd9db345bd38,45295129,424082,english.all.3class.distsim.crf.ser,Clinton,PERSON,4058,3,1
+9f2364de-1af2-47ea-ba90-88f06c5b4f99,45154042,423614,english.all.3class.distsim.crf.ser,Elizabeth Warren,PERSON,2588,16,4
+9f2364de-1af2-47ea-ba90-88f06c5b4f99,45351572,424394,english.all.3class.distsim.crf.ser,Elizabeth Warren,PERSON,2588,7,1
+9f2364de-1af2-47ea-ba90-88f06c5b4f99,45153999,423614,english.all.3class.distsim.crf.ser,Elizabeth Warren,PERSON,2588,8,1
+9f2364de-1af2-47ea-ba90-88f06c5b4f99,45151181,423612,english.all.3class.distsim.crf.ser,Elizabeth Warren,PERSON,2588,3,1
+9f2364de-1af2-47ea-ba90-88f06c5b4f99,45151167,423612,english.all.3class.distsim.crf.ser,Elizabeth Warren,PERSON,2588,1,2
+9ff19295-7afb-4054-b1dd-07fff90924b8,45345199,424388,english.all.3class.distsim.crf.ser,Parlatore,PERSON,757831,15,1
+9ff19295-7afb-4054-b1dd-07fff90924b8,45345185,424388,english.all.3class.distsim.crf.ser,Timothy Parlatore,PERSON,757831,13,1
+a08d40ee-b6b2-4c95-a6a0-69901a83182d,45286610,424079,english.all.3class.distsim.crf.ser,George Papadopoulos,PERSON,59075,11,1
+a14be566-f937-4313-b98a-df402baca72d,45348092,424390,english.all.3class.distsim.crf.ser,Fayth Percy,PERSON,887884,2,1
+a1f5850e-be62-4196-b945-ee65e3bf97ee,45351574,424394,english.all.3class.distsim.crf.ser,Cory Booker,PERSON,5038,7,1
+a283f598-39b0-4c56-a27a-06b9bb59bd1c,45271634,423930,english.all.3class.distsim.crf.ser,Blacktenius,PERSON,886968,2,1
+a49f7eb8-a15d-44cf-9c7e-923c43952b18,45342769,424355,english.all.3class.distsim.crf.ser,Laura Kuenssberg,PERSON,98995,1,2
+a6c9c3a6-3daa-4b5f-b1ce-295fc43de36f,45385651,424544,english.all.3class.distsim.crf.ser,Harris,PERSON,2124,6,1
+a6c9c3a6-3daa-4b5f-b1ce-295fc43de36f,45385664,424544,english.all.3class.distsim.crf.ser,Harris,PERSON,2124,7,1
+aafe0695-16bf-47a3-82ee-52fc78c2dd87,45350352,424393,english.all.3class.distsim.crf.ser,Zakaria,PERSON,124450,3,1
+aafe0695-16bf-47a3-82ee-52fc78c2dd87,45350341,424393,english.all.3class.distsim.crf.ser,Fareed Zakaria,PERSON,124450,1,1
+aafe0695-16bf-47a3-82ee-52fc78c2dd87,45350359,424393,english.all.3class.distsim.crf.ser,Zakaria,PERSON,124450,4,1
+abbefdcf-e6a3-4e99-831c-8b157266b7da,45295148,424082,english.all.3class.distsim.crf.ser,Steele,PERSON,93196,5,1
+abbefdcf-e6a3-4e99-831c-8b157266b7da,45295161,424082,english.all.3class.distsim.crf.ser,Steele,PERSON,93196,6,1
+abbefdcf-e6a3-4e99-831c-8b157266b7da,45295181,424082,english.all.3class.distsim.crf.ser,Christopher Steele,PERSON,93196,10,4
+abbefdcf-e6a3-4e99-831c-8b157266b7da,45295164,424082,english.all.3class.distsim.crf.ser,Steele,PERSON,93196,6,2
+abbefdcf-e6a3-4e99-831c-8b157266b7da,45295162,424082,english.all.3class.distsim.crf.ser,Steele,PERSON,93196,6,1
+abbefdcf-e6a3-4e99-831c-8b157266b7da,45295107,424082,english.all.3class.distsim.crf.ser,Christopher Steele,PERSON,93196,1,1
+abbefdcf-e6a3-4e99-831c-8b157266b7da,45295130,424082,english.all.3class.distsim.crf.ser,Christopher Steele,PERSON,93196,3,1
+abbefdcf-e6a3-4e99-831c-8b157266b7da,45295138,424082,english.all.3class.distsim.crf.ser,Christopher Steele,PERSON,93196,4,1
+abbefdcf-e6a3-4e99-831c-8b157266b7da,45295119,424082,english.all.3class.distsim.crf.ser,Steele,PERSON,93196,2,1
+ac55f6a5-b394-42b7-a3e6-cca7d9c50b61,45289240,424080,english.all.3class.distsim.crf.ser,Lindsey Graham,PERSON,10709,9,2
+ae27cdc0-2503-47f3-9432-c18d3c55fb40,45269493,423928,english.all.3class.distsim.crf.ser,Sandoval,PERSON,122254,4,1
+ae27cdc0-2503-47f3-9432-c18d3c55fb40,45269487,423928,english.all.3class.distsim.crf.ser,Luis Cresencio Sandoval,PERSON,122254,3,1
+af0df77f-c75a-46a1-918f-60a74021b419,45388073,424547,english.all.3class.distsim.crf.ser,John Sherrington,PERSON,888340,7,1
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45151205,423612,english.all.3class.distsim.crf.ser,Sanders,PERSON,3994,7,1
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45268751,423927,english.all.3class.distsim.crf.ser,Bernie Sanders,PERSON,3994,2,1
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45154005,423614,english.all.3class.distsim.crf.ser,Bernie Sanders,PERSON,3994,9,1
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45151165,423612,english.all.3class.distsim.crf.ser,Bernie Sanders,PERSON,3994,1,2
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45151180,423612,english.all.3class.distsim.crf.ser,Bernie Sanders,PERSON,3994,3,1
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45154040,423614,english.all.3class.distsim.crf.ser,Bernie,PERSON,3994,16,3
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45385642,424544,english.all.3class.distsim.crf.ser,Sanders,PERSON,30727,5,5
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45385644,424544,english.all.3class.distsim.crf.ser,Sanders,PERSON,30727,5,5
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45385654,424544,english.all.3class.distsim.crf.ser,Sanders,PERSON,30727,6,3
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45151190,423612,english.all.3class.distsim.crf.ser,Sanders,PERSON,3994,4,3
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45268756,423927,english.all.3class.distsim.crf.ser,Sanders,PERSON,3994,3,1
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45385638,424544,english.all.3class.distsim.crf.ser,Sanders,PERSON,30727,5,1
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45385653,424544,english.all.3class.distsim.crf.ser,Sanders,PERSON,30727,6,3
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45385662,424544,english.all.3class.distsim.crf.ser,Sanders,PERSON,30727,7,1
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45154011,423614,english.all.3class.distsim.crf.ser,Sanders,PERSON,3994,12,1
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45151173,423612,english.all.3class.distsim.crf.ser,Sanders,PERSON,3994,2,1
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45151189,423612,english.all.3class.distsim.crf.ser,Sanders,PERSON,3994,4,3
+b13cfe03-1629-490f-bb1d-f28ec0b39f2b,45157732,423616,english.all.3class.distsim.crf.ser,Anna Sanders,PERSON,885164,11,1
+b1aae1da-30b3-45ae-9db3-0d5a8d314868,45318231,424195,english.all.3class.distsim.crf.ser,Daniel Webster,PERSON,165485,2,1
+b1aae1da-30b3-45ae-9db3-0d5a8d314868,45318233,424195,english.all.3class.distsim.crf.ser,Trina Webster,PERSON,887497,3,1
+b1aae1da-30b3-45ae-9db3-0d5a8d314868,45318247,424195,english.all.3class.distsim.crf.ser,Mrs Webster,PERSON,887499,12,1
+b1aae1da-30b3-45ae-9db3-0d5a8d314868,45318255,424195,english.all.3class.distsim.crf.ser,Mrs Webster,PERSON,887499,15,2
+b2119d2a-b6d7-486b-a33a-d240fae46b5b,45298805,424085,english.all.3class.distsim.crf.ser,Richard Colangelo,PERSON,871756,15,1
+b2d5c639-d7e9-401f-86c7-756d6a5d48e8,45271672,423930,english.all.3class.distsim.crf.ser,Marta,PERSON,129983,6,1
+b3fbb8c7-d4e3-4daa-8029-13eb424751e4,15304688,305370,english.all.3class.distsim.crf.ser,Iveson,PERSON,546291,14,5
+b3fbb8c7-d4e3-4daa-8029-13eb424751e4,15304675,305370,english.all.3class.distsim.crf.ser,Mike Iveson,PERSON,546291,10,3
+b5099f91-2f32-4a86-a339-0905337502ad,45349410,424392,english.all.3class.distsim.crf.ser,Obama,PERSON,319,9,2
+b5099f91-2f32-4a86-a339-0905337502ad,45349401,424392,english.all.3class.distsim.crf.ser,Obama,PERSON,319,7,1
+b5099f91-2f32-4a86-a339-0905337502ad,45349407,424392,english.all.3class.distsim.crf.ser,Obama,PERSON,319,8,3
+b5099f91-2f32-4a86-a339-0905337502ad,45351559,424394,english.all.3class.distsim.crf.ser,Obama,PERSON,319,5,1
+b5819e6e-80ca-4cfa-9003-a07b01828cb6,45157700,423616,english.all.3class.distsim.crf.ser,de Blasio,PERSON,3447,7,2
+b5819e6e-80ca-4cfa-9003-a07b01828cb6,45157729,423616,english.all.3class.distsim.crf.ser,De Blasio,PERSON,12795,11,1
+b5819e6e-80ca-4cfa-9003-a07b01828cb6,45157670,423616,english.all.3class.distsim.crf.ser,Bill de Blasio,PERSON,3447,1,1
+b5819e6e-80ca-4cfa-9003-a07b01828cb6,45157680,423616,english.all.3class.distsim.crf.ser,de Blasio,PERSON,3447,2,1
+b5819e6e-80ca-4cfa-9003-a07b01828cb6,45157682,423616,english.all.3class.distsim.crf.ser,De Blasio,PERSON,12795,2,2
+b72d1166-8689-48df-b056-c55b1cbfe084,45365227,424505,english.all.3class.distsim.crf.ser,Frank Gatson,PERSON,387866,6,1
+b7d4d5d1-5240-49c4-8d5a-4cd47d9c357d,45237512,423773,english.all.3class.distsim.crf.ser,Noah Syndergaard,PERSON,64611,4,2
+b8b7f624-6f9a-4a7d-8fae-25c8b85a2e68,45331324,424348,english.all.3class.distsim.crf.ser,Phillip Hammond,PERSON,181649,6,1
+b8df0b75-65f1-4a7e-9fa0-2629d11b18bd,27303921,331842,english.all.3class.distsim.crf.ser,Jud Fry,PERSON,258707,14,1
+b911d437-7acc-497c-bf4a-76ddcfd7d330,45232310,423769,english.all.3class.distsim.crf.ser,Guerin Hays,PERSON,554896,7,1
+b9befc3c-c828-4095-afc8-09915f5c8e52,45273618,423932,english.all.3class.distsim.crf.ser,Louis Casiano,PERSON,63237,10,1
+ba7d120b-c1c6-4e1c-a438-fd5554918053,31202720,320418,english.all.3class.distsim.crf.ser,Houdyshell,PERSON,763110,23,2
+ba7d120b-c1c6-4e1c-a438-fd5554918053,31202417,320418,english.all.3class.distsim.crf.ser,Jayne Houdyshell,PERSON,763110,5,1
+baf53f6e-8246-4c15-992e-3e036c7c6f15,45389090,424548,english.all.3class.distsim.crf.ser,Meghan,PERSON,2321,6,1
+baf53f6e-8246-4c15-992e-3e036c7c6f15,45389083,424548,english.all.3class.distsim.crf.ser,Meghan,PERSON,2321,4,1
+baf53f6e-8246-4c15-992e-3e036c7c6f15,45389076,424548,english.all.3class.distsim.crf.ser,Meghan,PERSON,2321,1,1
+bc14109d-0f72-43a4-abb8-d80df585574a,15304700,305370,english.all.3class.distsim.crf.ser,Williams,PERSON,39813,16,2
+bc14109d-0f72-43a4-abb8-d80df585574a,15304709,305370,english.all.3class.distsim.crf.ser,Williams,PERSON,39813,18,3
+be77a271-a75a-484f-b7a6-2ef6d95f4d3c,45365240,424505,english.all.3class.distsim.crf.ser,Ola Osundairo,PERSON,394567,15,1
+be77a271-a75a-484f-b7a6-2ef6d95f4d3c,45365280,424505,english.all.3class.distsim.crf.ser,Osundairo,PERSON,394567,31,1
+bedc7343-4e5b-4b33-82ed-c3218052ae0b,45241656,423777,english.all.3class.distsim.crf.ser,Alicea,PERSON,886487,7,1
+bedc7343-4e5b-4b33-82ed-c3218052ae0b,45241652,423777,english.all.3class.distsim.crf.ser,Alicea,PERSON,886487,6,1
+bedc7343-4e5b-4b33-82ed-c3218052ae0b,45241642,423777,english.all.3class.distsim.crf.ser,Oscar Alicea,PERSON,886487,2,1
+bedc7343-4e5b-4b33-82ed-c3218052ae0b,45241646,423777,english.all.3class.distsim.crf.ser,Alicea,PERSON,886487,3,1
+bedc7343-4e5b-4b33-82ed-c3218052ae0b,45241649,423777,english.all.3class.distsim.crf.ser,Alicea,PERSON,886487,4,1
+bf06dbab-4a15-4395-87bb-1a08fe144ed5,15304660,305370,english.all.3class.distsim.crf.ser,Rachel Hauck,PERSON,244734,6,2
+bf0b6fdf-60ec-45ba-be13-d9932535fcb6,45273595,423932,english.all.3class.distsim.crf.ser,Delmar,PERSON,118671,4,2
+bf0b6fdf-60ec-45ba-be13-d9932535fcb6,45273583,423932,english.all.3class.distsim.crf.ser,Rich Delmar,PERSON,118671,2,1
+bf80a656-ab32-47c9-b585-4858cc980f37,45389084,424548,english.all.3class.distsim.crf.ser,Archie Harrison,PERSON,699224,4,1
+c0a8b5e5-a289-461a-98fa-01bf75cb6600,45298799,424085,english.all.3class.distsim.crf.ser,Michelle Troconis,PERSON,834591,14,1
+c0c36e4a-99da-4a03-b854-1df7d5a55376,45388076,424547,english.all.3class.distsim.crf.ser,Nathalie Lieven,PERSON,870495,8,1
+c1a3c4f0-d8aa-41de-bb7e-d371447aeb47,31202483,320418,english.all.3class.distsim.crf.ser,Lears,PERSON,763113,10,1
+c1d7ecce-8b0b-45da-81f3-49a71bc3386a,45321375,424237,english.all.3class.distsim.crf.ser,Sanchez,PERSON,887519,6,1
+c1d7ecce-8b0b-45da-81f3-49a71bc3386a,45321341,424237,english.all.3class.distsim.crf.ser,Tisha Sanchez,PERSON,887519,2,1
+c1d7ecce-8b0b-45da-81f3-49a71bc3386a,45321363,424237,english.all.3class.distsim.crf.ser,Sanchez,PERSON,887519,5,1
+c1d7ecce-8b0b-45da-81f3-49a71bc3386a,45321347,424237,english.all.3class.distsim.crf.ser,Sanchez,PERSON,887519,3,1
+c36d6deb-feaa-4b08-8ee2-94d8f423c52c,45296783,424083,english.all.3class.distsim.crf.ser,John,PERSON,887145,5,2
+c43eefe5-a403-41cb-b716-108fcbaba945,22317043,283956,english.all.3class.distsim.crf.ser,Alexander,PERSON,642616,6,2
+c43eefe5-a403-41cb-b716-108fcbaba945,22317055,283956,english.all.3class.distsim.crf.ser,Alexander,PERSON,642616,10,2
+c43eefe5-a403-41cb-b716-108fcbaba945,22317049,283956,english.all.3class.distsim.crf.ser,Alexander,PERSON,642616,8,2
+c43eefe5-a403-41cb-b716-108fcbaba945,22317042,283956,english.all.3class.distsim.crf.ser,Jace Alexander,PERSON,642616,6,1
+c43eefe5-a403-41cb-b716-108fcbaba945,22317057,283956,english.all.3class.distsim.crf.ser,Alexander,PERSON,642616,11,2
+c4ea73a6-396a-4983-bca2-09040f01488e,31202513,320418,english.all.3class.distsim.crf.ser,Aisling O'Sullivan,PERSON,763114,12,1
+c4ea73a6-396a-4983-bca2-09040f01488e,31202763,320418,english.all.3class.distsim.crf.ser,O'Sullivan,PERSON,763114,24,2
+c54cdb8c-e079-44b2-880d-5447691f87d2,45385663,424544,english.all.3class.distsim.crf.ser,Warren,PERSON,7084,7,1
+c54cdb8c-e079-44b2-880d-5447691f87d2,45151174,423612,english.all.3class.distsim.crf.ser,Warren,PERSON,2588,2,1
+c54cdb8c-e079-44b2-880d-5447691f87d2,45151191,423612,english.all.3class.distsim.crf.ser,Warren,PERSON,2588,4,3
+c54cdb8c-e079-44b2-880d-5447691f87d2,45385639,424544,english.all.3class.distsim.crf.ser,Warren,PERSON,7084,5,1
+c54cdb8c-e079-44b2-880d-5447691f87d2,45385641,424544,english.all.3class.distsim.crf.ser,Warren,PERSON,7084,5,3
+c54cdb8c-e079-44b2-880d-5447691f87d2,45385645,424544,english.all.3class.distsim.crf.ser,Warren,PERSON,7084,5,5
+c5c46f6e-03af-40ee-8c8e-55f74cb241d4,45237485,423773,english.all.3class.distsim.crf.ser,Brodie Van Wagenen,PERSON,116330,2,1
+c5c46f6e-03af-40ee-8c8e-55f74cb241d4,45237552,423773,english.all.3class.distsim.crf.ser,Van Wagenen,PERSON,116330,14,2
+c5c46f6e-03af-40ee-8c8e-55f74cb241d4,45237496,423773,english.all.3class.distsim.crf.ser,Van Wagenen,PERSON,116330,3,1
+c6c691ec-9d8b-4214-8527-892efcc08c66,45323288,424239,english.all.3class.distsim.crf.ser,Herman,PERSON,887549,6,1
+c6c691ec-9d8b-4214-8527-892efcc08c66,45323283,424239,english.all.3class.distsim.crf.ser,Erica Herman,PERSON,887549,5,2
+c75284fb-040c-45d4-9a3d-2507536541cb,31202584,320418,english.all.3class.distsim.crf.ser,Daniel Craig,PERSON,31200,18,1
+c77bc0dc-d3ec-4c47-8bd0-4ae6a158b0fe,45365268,424505,english.all.3class.distsim.crf.ser,Rahm Emmanuel,PERSON,387692,26,1
+cd77550e-0fa3-4d6a-9da0-faa8e4639c8f,45233353,423770,english.all.3class.distsim.crf.ser,Cox,PERSON,868001,27,1
+cd77550e-0fa3-4d6a-9da0-faa8e4639c8f,45233362,423770,english.all.3class.distsim.crf.ser,Cox,PERSON,886400,28,2
+cd77550e-0fa3-4d6a-9da0-faa8e4639c8f,45233320,423770,english.all.3class.distsim.crf.ser,Cox,PERSON,16347,20,1
+cd77550e-0fa3-4d6a-9da0-faa8e4639c8f,45233360,423770,english.all.3class.distsim.crf.ser,Will Cox,PERSON,886400,28,1
+cda1cc45-c93a-4e7f-b39b-02c47507e973,45389112,424548,english.all.3class.distsim.crf.ser,Camilla,PERSON,13700,15,1
+ceb554b6-33ab-4955-bf0e-205071df738f,31202735,320418,english.all.3class.distsim.crf.ser,Edmund,PERSON,193011,23,2
+cf25dd8e-63da-4e15-af91-0bd0e792ccaf,45351557,424394,english.all.3class.distsim.crf.ser,Hannity,PERSON,22451,5,1
+cf25dd8e-63da-4e15-af91-0bd0e792ccaf,45351553,424394,english.all.3class.distsim.crf.ser,Hannity,PERSON,22451,4,1
+cf25dd8e-63da-4e15-af91-0bd0e792ccaf,45351536,424394,english.all.3class.distsim.crf.ser,Sean Hannity,PERSON,22451,1,1
+cf25dd8e-63da-4e15-af91-0bd0e792ccaf,45351541,424394,english.all.3class.distsim.crf.ser,Hannity,PERSON,22451,2,3
+cf25dd8e-63da-4e15-af91-0bd0e792ccaf,45351579,424394,english.all.3class.distsim.crf.ser,Hannity,PERSON,22451,8,1
+cf25dd8e-63da-4e15-af91-0bd0e792ccaf,45351565,424394,english.all.3class.distsim.crf.ser,Hannity,PERSON,22451,6,1
+cf25dd8e-63da-4e15-af91-0bd0e792ccaf,45351546,424394,english.all.3class.distsim.crf.ser,Hannity,PERSON,22451,3,1
+d08ea472-d94e-4c7f-833b-bbd883aaeace,45345125,424388,english.all.3class.distsim.crf.ser,Candelario,PERSON,887861,5,2
+d08ea472-d94e-4c7f-833b-bbd883aaeace,45345131,424388,english.all.3class.distsim.crf.ser,Candelario,PERSON,887861,6,1
+d08ea472-d94e-4c7f-833b-bbd883aaeace,45345113,424388,english.all.3class.distsim.crf.ser,Nelson Candelario,PERSON,887861,3,1
+d0c0926c-4bc1-4d30-9f07-08fd5cfe6373,45237521,423773,english.all.3class.distsim.crf.ser,Jeff Wilpon,PERSON,573367,5,1
+d11c8067-5707-4ae7-9303-db3297eee23a,45331350,424348,english.all.3class.distsim.crf.ser,Brexit,PERSON,416,11,1
+d4d022f7-7b4a-47c6-aecf-800323297c95,45238962,423774,english.all.3class.distsim.crf.ser,Tom Holland,PERSON,118851,8,1
+d5cf59c2-a243-4cf1-b9ba-b307b949320a,31202399,320418,english.all.3class.distsim.crf.ser,Jane Cox,PERSON,167889,3,2
+d7fcc445-ee04-4264-98f8-9de42825a60f,22317067,283956,english.all.3class.distsim.crf.ser,Kristin Hanggi,PERSON,642618,16,1
+d901ea8e-7e9b-46b1-8817-8af4e3c12ec0,31202551,320418,english.all.3class.distsim.crf.ser,Sean Carvajal,PERSON,763115,16,2
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289281,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,17,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289246,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,10,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289288,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,20,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289294,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,21,3
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289298,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,22,2
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289301,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,23,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289307,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,24,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289317,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,25,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289325,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,27,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289330,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,28,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289334,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,29,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289336,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,30,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289353,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,32,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289358,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,33,2
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289319,424080,english.all.3class.distsim.crf.ser,Mulvaney,PERSON,1856,25,2
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289221,424080,english.all.3class.distsim.crf.ser,Mick Mulvaney,PERSON,1856,3,1
+d9863bfc-479c-45b0-b1e8-eca2d3e00a2c,45289292,424080,english.all.3class.distsim.crf.ser,Mick Mulvaney,PERSON,1856,21,1
+d9a0db25-2764-451c-9a05-59c5e5667e9b,45265492,423924,english.all.3class.distsim.crf.ser,Sydney Loofe,PERSON,886858,6,1
+dd0b0bcd-d8ea-44ab-8f15-b4527c0388dd,45332348,424349,english.all.3class.distsim.crf.ser,Sasha Rakoff,PERSON,887709,17,1
+dd0b0bcd-d8ea-44ab-8f15-b4527c0388dd,45332350,424349,english.all.3class.distsim.crf.ser,Rakoff,PERSON,887709,19,1
+dd39b298-0fa0-41df-b183-dd01e557318a,31202587,320418,english.all.3class.distsim.crf.ser,David Oyelowo,PERSON,76828,18,1
+dde66658-36f9-4e81-ad46-0289a9582c8b,45295169,424082,english.all.3class.distsim.crf.ser,Nunes,PERSON,91932,7,1
+dde66658-36f9-4e81-ad46-0289a9582c8b,45295106,424082,english.all.3class.distsim.crf.ser,Devin Nunes,PERSON,91932,1,1
+dde66658-36f9-4e81-ad46-0289a9582c8b,45295116,424082,english.all.3class.distsim.crf.ser,Nunes,PERSON,91932,2,1
+dde66658-36f9-4e81-ad46-0289a9582c8b,45295150,424082,english.all.3class.distsim.crf.ser,Nunes,PERSON,91932,5,1
+dde66658-36f9-4e81-ad46-0289a9582c8b,45295174,424082,english.all.3class.distsim.crf.ser,Nunes,PERSON,91932,8,1
+de892034-fd97-4ca9-99a9-5aa2d8ecc058,45158692,423617,english.all.3class.distsim.crf.ser,R. Scott Stephenson,PERSON,885184,5,1
+e18b2bff-8077-4aa3-9642-f9c627a428ee,45298823,424085,english.all.3class.distsim.crf.ser,Maria Paronich,PERSON,583745,20,1
+e191aceb-d762-4c30-a6ca-18c8f166f70d,45269539,423928,english.all.3class.distsim.crf.ser,Ciudad Acuna,PERSON,886941,10,1
+e1ff340a-1daf-4c7c-98bb-f3fb39f5c5e0,27303940,331842,english.all.3class.distsim.crf.ser,Ali Hakim,PERSON,709458,16,2
+e1ff340a-1daf-4c7c-98bb-f3fb39f5c5e0,27303914,331842,english.all.3class.distsim.crf.ser,Ali Hakim,PERSON,709458,13,2
+e26bc765-69a6-4ca8-9643-ef3ba60f7e70,31202755,320418,english.all.3class.distsim.crf.ser,Marvel,PERSON,85558,24,1
+e26bc765-69a6-4ca8-9643-ef3ba60f7e70,31202415,320418,english.all.3class.distsim.crf.ser,Elizabeth Marvel,PERSON,85558,5,1
+e26bc765-69a6-4ca8-9643-ef3ba60f7e70,31202510,320418,english.all.3class.distsim.crf.ser,Elizabeth Marvel,PERSON,85558,12,1
+e2f28313-1d55-454c-b5c6-1d78ba844dad,45289346,424080,english.all.3class.distsim.crf.ser,John Yarmuth,PERSON,84260,31,4
+e42116da-e8c8-4c68-88db-b941f26b4def,27303912,331842,english.all.3class.distsim.crf.ser,Aunt Eller,PERSON,258702,13,2
+e4d32283-e6ce-4580-a5cf-318efe11f666,45269526,423928,english.all.3class.distsim.crf.ser,Rivas,PERSON,886939,9,1
+e4d32283-e6ce-4580-a5cf-318efe11f666,45269521,423928,english.all.3class.distsim.crf.ser,Enrique Rivas,PERSON,886939,8,1
+e4e0a674-d544-4a5c-8f00-526a044d202e,45233342,423770,english.all.3class.distsim.crf.ser,Sanchez Cardenas,PERSON,868752,25,1
+e4e0a674-d544-4a5c-8f00-526a044d202e,45233207,423770,english.all.3class.distsim.crf.ser,Rafael Sanchez Cardenas,PERSON,868752,3,1
+e4e0a674-d544-4a5c-8f00-526a044d202e,45233311,423770,english.all.3class.distsim.crf.ser,Sanchez Cardenas,PERSON,868752,19,1
+e4e0a674-d544-4a5c-8f00-526a044d202e,45233209,423770,english.all.3class.distsim.crf.ser,Sanchez Cardenas,PERSON,868752,4,1
+e4e0a674-d544-4a5c-8f00-526a044d202e,45233287,423770,english.all.3class.distsim.crf.ser,Sanchez Cardenas,PERSON,868752,16,1
+e4e0a674-d544-4a5c-8f00-526a044d202e,45233301,423770,english.all.3class.distsim.crf.ser,Sanchez Cardenas,PERSON,868752,18,1
+e4e0a674-d544-4a5c-8f00-526a044d202e,45233214,423770,english.all.3class.distsim.crf.ser,Sanchez Cardenas,PERSON,868752,5,1
+e6a49ed8-53f1-407b-a041-d7177640ae9b,45232311,423769,english.all.3class.distsim.crf.ser,Lucas Tomlinson,PERSON,3967,7,1
+e6a49ed8-53f1-407b-a041-d7177640ae9b,45324839,424240,english.all.3class.distsim.crf.ser,Lucas Tomlinson,PERSON,3967,15,1
+e7463347-ccae-4052-9828-038b8a4c6104,45301826,424087,english.all.3class.distsim.crf.ser,Matthews,PERSON,125023,3,1
+e7463347-ccae-4052-9828-038b8a4c6104,45301830,424087,english.all.3class.distsim.crf.ser,Matthews,PERSON,125023,5,1
+e7463347-ccae-4052-9828-038b8a4c6104,45301814,424087,english.all.3class.distsim.crf.ser,Chris Matthews,PERSON,125023,1,1
+e772f248-f04c-479d-9ae4-c2fd9cd62544,27303889,331842,english.all.3class.distsim.crf.ser,Scott Zielinski,PERSON,709453,10,4
+e77ea885-dc05-4eb6-8421-fd6e0ec57079,45117342,423455,english.all.3class.distsim.crf.ser,Perry Wright,PERSON,880228,2,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45296782,424083,english.all.3class.distsim.crf.ser,Mark,PERSON,6758,5,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45286555,424079,english.all.3class.distsim.crf.ser,Mark Meadows,PERSON,4140,1,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45324782,424240,english.all.3class.distsim.crf.ser,Mark Esper,PERSON,226714,1,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45365285,424505,english.all.3class.distsim.crf.ser,Mark Geragos,PERSON,272322,32,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45324834,424240,english.all.3class.distsim.crf.ser,Esper,PERSON,226714,14,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45324832,424240,english.all.3class.distsim.crf.ser,Esper,PERSON,226714,12,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45324787,424240,english.all.3class.distsim.crf.ser,Esper,PERSON,226714,2,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45324792,424240,english.all.3class.distsim.crf.ser,Esper,PERSON,226714,3,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45324815,424240,english.all.3class.distsim.crf.ser,Esper,PERSON,226714,9,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45324800,424240,english.all.3class.distsim.crf.ser,Esper,PERSON,226714,4,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45324806,424240,english.all.3class.distsim.crf.ser,Esper,PERSON,226714,5,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45324811,424240,english.all.3class.distsim.crf.ser,Esper,PERSON,226714,8,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45324808,424240,english.all.3class.distsim.crf.ser,Esper,PERSON,226714,7,1
+e8bbdb07-6b39-490c-afbb-3edc09737f1f,45286573,424079,english.all.3class.distsim.crf.ser,Meadows,PERSON,4140,5,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235473,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,11,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235479,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,12,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235527,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,24,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235511,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,20,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235505,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,18,2
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235491,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,14,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235484,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,13,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235424,423772,english.all.3class.distsim.crf.ser,Ron Martin,PERSON,886415,5,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235429,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,6,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235447,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,8,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235451,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,9,1
+e90f880a-ba80-4219-b021-2bc7fc5440cb,45235465,423772,english.all.3class.distsim.crf.ser,Martin,PERSON,886415,10,2
+e9691a1e-1286-407c-a6d1-5271c3c74ca3,45153991,423614,english.all.3class.distsim.crf.ser,Brazile,PERSON,2598,2,1
+e9691a1e-1286-407c-a6d1-5271c3c74ca3,45154038,423614,english.all.3class.distsim.crf.ser,Brazile,PERSON,2598,16,1
+e9691a1e-1286-407c-a6d1-5271c3c74ca3,45154044,423614,english.all.3class.distsim.crf.ser,Brazile,PERSON,2598,16,4
+e9691a1e-1286-407c-a6d1-5271c3c74ca3,45153994,423614,english.all.3class.distsim.crf.ser,Brazile,PERSON,2598,4,2
+e9691a1e-1286-407c-a6d1-5271c3c74ca3,45153986,423614,english.all.3class.distsim.crf.ser,Donna Brazile,PERSON,2598,1,1
+e99f32c5-1959-463d-906f-b60e78db9dab,45298783,424085,english.all.3class.distsim.crf.ser,Luft,PERSON,831624,11,1
+e99f32c5-1959-463d-906f-b60e78db9dab,45298755,424085,english.all.3class.distsim.crf.ser,Luft,PERSON,831624,6,1
+e99f32c5-1959-463d-906f-b60e78db9dab,45298790,424085,english.all.3class.distsim.crf.ser,Luft,PERSON,831624,12,1
+e99f32c5-1959-463d-906f-b60e78db9dab,45298748,424085,english.all.3class.distsim.crf.ser,Carrie Luft,PERSON,831624,4,1
+eaf3e7a9-cb2c-4193-ad8a-237c2329fdd3,45156251,423615,english.all.3class.distsim.crf.ser,G-Eazy,PERSON,43845,6,1
+eb150a04-457c-4fc3-ba2b-9880e0460700,45237529,423773,english.all.3class.distsim.crf.ser,Callaway,PERSON,64623,8,1
+eb150a04-457c-4fc3-ba2b-9880e0460700,45237473,423773,english.all.3class.distsim.crf.ser,Mickey Callaway,PERSON,64623,1,1
+eb150a04-457c-4fc3-ba2b-9880e0460700,45237553,423773,english.all.3class.distsim.crf.ser,Callaway,PERSON,64623,14,2
+eb150a04-457c-4fc3-ba2b-9880e0460700,45237538,423773,english.all.3class.distsim.crf.ser,Callaway,PERSON,64623,11,1
+eb150a04-457c-4fc3-ba2b-9880e0460700,45237531,423773,english.all.3class.distsim.crf.ser,Callaway,PERSON,64623,9,1
+eb150a04-457c-4fc3-ba2b-9880e0460700,45237506,423773,english.all.3class.distsim.crf.ser,Callaway,PERSON,64623,4,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365270,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,27,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365228,424505,english.all.3class.distsim.crf.ser,Jussie Smollett,PERSON,293894,6,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365230,424505,english.all.3class.distsim.crf.ser,Jussie Smollett,PERSON,293894,8,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365216,424505,english.all.3class.distsim.crf.ser,Jussie Smollett,PERSON,293894,1,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365242,424505,english.all.3class.distsim.crf.ser,Jussie Smollett,PERSON,293894,16,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365244,424505,english.all.3class.distsim.crf.ser,Jussie Smollett,PERSON,293894,18,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365254,424505,english.all.3class.distsim.crf.ser,Jussie Smollett,PERSON,293894,23,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365279,424505,english.all.3class.distsim.crf.ser,Jussie Smollett,PERSON,293894,31,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365223,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,5,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365220,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,4,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365252,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,22,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365248,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,20,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365262,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,24,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365284,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,32,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365234,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,11,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365264,424505,english.all.3class.distsim.crf.ser,Jussie,PERSON,293894,25,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365290,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,33,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365274,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,28,1
+eb266c42-389a-45c0-8d99-40b6b0042510,45365232,424505,english.all.3class.distsim.crf.ser,Smollett,PERSON,293894,9,1
+ebaaa167-aa51-470c-b0e3-d42718f2682a,45352775,424395,english.all.3class.distsim.crf.ser,Morabito,PERSON,887915,4,1
+ebaaa167-aa51-470c-b0e3-d42718f2682a,45352748,424395,english.all.3class.distsim.crf.ser,Rocco Morabito,PERSON,887915,2,1
+ebaaa167-aa51-470c-b0e3-d42718f2682a,45352760,424395,english.all.3class.distsim.crf.ser,Morabito,PERSON,887915,3,1
+ebaaa167-aa51-470c-b0e3-d42718f2682a,45352787,424395,english.all.3class.distsim.crf.ser,Morabito,PERSON,887915,6,1
+ebaaa167-aa51-470c-b0e3-d42718f2682a,45352776,424395,english.all.3class.distsim.crf.ser,Morabito,PERSON,887915,4,2
+ed6baa48-15ee-499c-8964-000b3420d076,45267614,423926,english.all.3class.distsim.crf.ser,Bill Maher,PERSON,15476,6,1
+edeca3aa-c6f7-4d7b-ab52-6577b168f657,31202553,320418,english.all.3class.distsim.crf.ser,Edgar,PERSON,20006,16,2
+ee775925-837a-4599-ad78-7210d8ff553f,45382370,424540,english.all.3class.distsim.crf.ser,Hobbs,PERSON,182448,2,1
+eef92f89-deb2-4185-a735-883203c92d4d,45159558,423618,english.all.3class.distsim.crf.ser,Christensen,PERSON,632539,15,1
+eef92f89-deb2-4185-a735-883203c92d4d,45159562,423618,english.all.3class.distsim.crf.ser,Christensen,PERSON,632539,16,1
+eef92f89-deb2-4185-a735-883203c92d4d,45159504,423618,english.all.3class.distsim.crf.ser,Christensen,PERSON,632539,5,2
+eef92f89-deb2-4185-a735-883203c92d4d,45159538,423618,english.all.3class.distsim.crf.ser,Christensen,PERSON,632539,12,2
+eef92f89-deb2-4185-a735-883203c92d4d,45159564,423618,english.all.3class.distsim.crf.ser,Christensen,PERSON,632539,16,2
+eef92f89-deb2-4185-a735-883203c92d4d,45159499,423618,english.all.3class.distsim.crf.ser,Brendt Christensen,PERSON,632539,3,1
+eef92f89-deb2-4185-a735-883203c92d4d,45159503,423618,english.all.3class.distsim.crf.ser,Christensen,PERSON,632539,5,1
+eef92f89-deb2-4185-a735-883203c92d4d,45159514,423618,english.all.3class.distsim.crf.ser,Christensen,PERSON,632539,9,2
+eef92f89-deb2-4185-a735-883203c92d4d,45159521,423618,english.all.3class.distsim.crf.ser,Christensen,PERSON,632539,10,1
+eef92f89-deb2-4185-a735-883203c92d4d,45159536,423618,english.all.3class.distsim.crf.ser,Christensen,PERSON,632539,12,1
+eef92f89-deb2-4185-a735-883203c92d4d,45159546,423618,english.all.3class.distsim.crf.ser,Christensen,PERSON,632539,13,1
+ef3a6b1f-424a-43c6-b8cb-9ee2cba8ae02,45234934,423771,english.all.3class.distsim.crf.ser,Biden,PERSON,5801,2,1
+ef3a6b1f-424a-43c6-b8cb-9ee2cba8ae02,45234939,423771,english.all.3class.distsim.crf.ser,Joe Biden,PERSON,5801,4,1
+ef3a6b1f-424a-43c6-b8cb-9ee2cba8ae02,45385655,424544,english.all.3class.distsim.crf.ser,Biden,PERSON,27122,6,3
+ef3a6b1f-424a-43c6-b8cb-9ee2cba8ae02,45234937,423771,english.all.3class.distsim.crf.ser,Joe Biden,PERSON,5801,3,1
+ef3a6b1f-424a-43c6-b8cb-9ee2cba8ae02,45272350,423931,english.all.3class.distsim.crf.ser,Joe Biden,PERSON,5801,10,1
+ef3a6b1f-424a-43c6-b8cb-9ee2cba8ae02,45385652,424544,english.all.3class.distsim.crf.ser,Biden,PERSON,27122,6,3
+ef3a6b1f-424a-43c6-b8cb-9ee2cba8ae02,45385661,424544,english.all.3class.distsim.crf.ser,Biden,PERSON,27122,7,1
+ef3a6b1f-424a-43c6-b8cb-9ee2cba8ae02,45234930,423771,english.all.3class.distsim.crf.ser,Joe Biden,PERSON,5801,1,1
+f14339a3-feb4-4265-95f4-09543d54e632,27303929,331842,english.all.3class.distsim.crf.ser,John Heginbotham,PERSON,611047,15,4
+f14950d9-19be-41ee-a115-90841615c411,27303911,331842,english.all.3class.distsim.crf.ser,Ali Stroker,PERSON,554733,13,2
+f14950d9-19be-41ee-a115-90841615c411,27303936,331842,english.all.3class.distsim.crf.ser,Stroker,PERSON,554733,16,1
+f1aaa145-29ec-4fb6-8d97-0ce8558d3f6b,45289366,424080,english.all.3class.distsim.crf.ser,Eric Ueland,PERSON,887093,35,1
+f1eaece9-77bb-4eda-8e9a-743d5bbe556e,45241638,423777,english.all.3class.distsim.crf.ser,Daniel Mederos,PERSON,886481,2,1
+f5c6ef14-4f6b-43b9-b200-7432349653fc,45157730,423616,english.all.3class.distsim.crf.ser,Dante,PERSON,14464,11,1
+f5c6ef14-4f6b-43b9-b200-7432349653fc,45157672,423616,english.all.3class.distsim.crf.ser,Dante,PERSON,14464,1,1
+f5c6ef14-4f6b-43b9-b200-7432349653fc,45157692,423616,english.all.3class.distsim.crf.ser,Dante,PERSON,14464,5,1
+f5c6ef14-4f6b-43b9-b200-7432349653fc,45157708,423616,english.all.3class.distsim.crf.ser,Dante,PERSON,14464,8,1
+f5c6ef14-4f6b-43b9-b200-7432349653fc,45157688,423616,english.all.3class.distsim.crf.ser,Dante,PERSON,14464,3,2
+f5c6ef14-4f6b-43b9-b200-7432349653fc,45157696,423616,english.all.3class.distsim.crf.ser,Dante,PERSON,14464,6,1
+f5c6ef14-4f6b-43b9-b200-7432349653fc,45157716,423616,english.all.3class.distsim.crf.ser,Dante,PERSON,14464,9,2
+f7c0f935-b779-4829-b281-bef8e377b1b5,31202383,320418,english.all.3class.distsim.crf.ser,Shakespeare,PERSON,4420,1,2
+f7c0f935-b779-4829-b281-bef8e377b1b5,31202395,320418,english.all.3class.distsim.crf.ser,Shakespeare,PERSON,4420,3,1
+f7c0f935-b779-4829-b281-bef8e377b1b5,31202578,320418,english.all.3class.distsim.crf.ser,Shakespeare,PERSON,4420,18,1
+f8e829fe-f2fb-45f9-b243-fb38582d03cb,45232254,423769,english.all.3class.distsim.crf.ser,Ted Cruz,PERSON,14706,1,1
+f8f6f465-8f7e-43d6-b4c5-48b87a67a1f9,45298771,424085,english.all.3class.distsim.crf.ser,Pattis,PERSON,106386,9,1
+f8f6f465-8f7e-43d6-b4c5-48b87a67a1f9,45298808,424085,english.all.3class.distsim.crf.ser,Pattis,PERSON,106386,16,1
+f8f6f465-8f7e-43d6-b4c5-48b87a67a1f9,45298784,424085,english.all.3class.distsim.crf.ser,Pattis,PERSON,106386,11,1
+f8f6f465-8f7e-43d6-b4c5-48b87a67a1f9,45298740,424085,english.all.3class.distsim.crf.ser,Norm Pattis,PERSON,106386,2,1
+f8f6f465-8f7e-43d6-b4c5-48b87a67a1f9,45298812,424085,english.all.3class.distsim.crf.ser,Pattis,PERSON,106386,18,1
+f8f6f465-8f7e-43d6-b4c5-48b87a67a1f9,45298765,424085,english.all.3class.distsim.crf.ser,Pattis,PERSON,106386,8,2
+f9de6004-8b92-4bde-a3df-3b4a86240543,45237507,423773,english.all.3class.distsim.crf.ser,Healey,PERSON,879796,4,1
+f9de6004-8b92-4bde-a3df-3b4a86240543,45237511,423773,english.all.3class.distsim.crf.ser,Healey,PERSON,879796,4,2
+f9de6004-8b92-4bde-a3df-3b4a86240543,45237493,423773,english.all.3class.distsim.crf.ser,Tim Healey,PERSON,879796,2,2
+f9de6004-8b92-4bde-a3df-3b4a86240543,45237519,423773,english.all.3class.distsim.crf.ser,Healey,PERSON,879796,5,1
+f9de6004-8b92-4bde-a3df-3b4a86240543,45237523,423773,english.all.3class.distsim.crf.ser,Healey,PERSON,879796,6,1
+f9de6004-8b92-4bde-a3df-3b4a86240543,45237535,423773,english.all.3class.distsim.crf.ser,Healey,PERSON,879796,10,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45349380,424392,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,2,2
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45349384,424392,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,3,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45349390,424392,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,5,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45349419,424392,english.all.3class.distsim.crf.ser,Nancy Pelosi,PERSON,3601,11,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45289266,424080,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,13,4
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45349415,424392,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,10,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45289282,424080,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,17,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45289284,424080,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,18,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45349395,424392,english.all.3class.distsim.crf.ser,Nancy,PERSON,3601,6,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45289286,424080,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,19,3
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45289293,424080,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,21,2
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45289302,424080,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,23,2
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45289348,424080,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,31,4
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45349375,424392,english.all.3class.distsim.crf.ser,Nancy Pelosi,PERSON,3601,1,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45241005,423776,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,7,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45241000,423776,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,5,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45240994,423776,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,4,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45240984,423776,english.all.3class.distsim.crf.ser,Pelosi,PERSON,3601,2,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45240978,423776,english.all.3class.distsim.crf.ser,Nancy Pelosi,PERSON,3601,1,1
+f9fc5161-391f-4364-bea0-0a09775f1bc8,45289225,424080,english.all.3class.distsim.crf.ser,Nancy Pelosi,PERSON,3601,3,1
+fb1169dd-3da6-41ac-9ed4-eeff1a49031a,27303925,331842,english.all.3class.distsim.crf.ser,Vaill,PERSON,709460,14,3
+fb1169dd-3da6-41ac-9ed4-eeff1a49031a,27303922,331842,english.all.3class.distsim.crf.ser,Patrick Vaill,PERSON,709460,14,1
+fb7574f6-c91a-496b-b339-7f8081f840a7,45298817,424085,english.all.3class.distsim.crf.ser,Dulos,PERSON,826832,19,2
+fb7574f6-c91a-496b-b339-7f8081f840a7,45298816,424085,english.all.3class.distsim.crf.ser,Dulos,PERSON,826832,19,1
+fb7574f6-c91a-496b-b339-7f8081f840a7,45298741,424085,english.all.3class.distsim.crf.ser,Fotis Dulos,PERSON,826832,2,1
+fb7574f6-c91a-496b-b339-7f8081f840a7,45298809,424085,english.all.3class.distsim.crf.ser,Fotis Dulos,PERSON,826832,16,1
+fb7574f6-c91a-496b-b339-7f8081f840a7,45298798,424085,english.all.3class.distsim.crf.ser,Fotis Dulos,PERSON,826832,14,1
+fb7574f6-c91a-496b-b339-7f8081f840a7,45298803,424085,english.all.3class.distsim.crf.ser,Fotis Dulos,PERSON,826832,15,1
+fb7574f6-c91a-496b-b339-7f8081f840a7,45298791,424085,english.all.3class.distsim.crf.ser,Fotis Dulos,PERSON,826832,12,3
+fb7574f6-c91a-496b-b339-7f8081f840a7,45298813,424085,english.all.3class.distsim.crf.ser,Dulos,PERSON,826832,18,1
+fbbaa532-95e2-4ac0-b4b5-97ee623956ae,31202674,320418,english.all.3class.distsim.crf.ser,Ann Roth,PERSON,763117,21,3
+fbc8b437-acd3-4476-9409-9f2c21e627b7,45117356,423455,english.all.3class.distsim.crf.ser,Nicole,PERSON,10930,6,2
+fbc8b437-acd3-4476-9409-9f2c21e627b7,45270761,423929,english.all.3class.distsim.crf.ser,Nicole Darrah,PERSON,6297,18,1
+fbc8b437-acd3-4476-9409-9f2c21e627b7,45117352,423455,english.all.3class.distsim.crf.ser,Nicole,PERSON,10930,4,1
+fbc8b437-acd3-4476-9409-9f2c21e627b7,45117361,423455,english.all.3class.distsim.crf.ser,Kidman,PERSON,10930,8,1
+fbc8b437-acd3-4476-9409-9f2c21e627b7,45117358,423455,english.all.3class.distsim.crf.ser,Kidman,PERSON,10930,7,1
+fbc8b437-acd3-4476-9409-9f2c21e627b7,45117350,423455,english.all.3class.distsim.crf.ser,Kidman,PERSON,10930,3,1
+fbc8b437-acd3-4476-9409-9f2c21e627b7,45117343,423455,english.all.3class.distsim.crf.ser,Kidman,PERSON,10930,2,2
+fbc8b437-acd3-4476-9409-9f2c21e627b7,45117338,423455,english.all.3class.distsim.crf.ser,Nicole Kidman,PERSON,10930,1,1
+fbc8b437-acd3-4476-9409-9f2c21e627b7,45117355,423455,english.all.3class.distsim.crf.ser,Nicole,PERSON,10930,6,1
+fbfda4ff-780c-46eb-901e-1bc7c2632fbc,45271668,423930,english.all.3class.distsim.crf.ser,Sinclair,PERSON,816935,6,1
+fbfda4ff-780c-46eb-901e-1bc7c2632fbc,45271659,423930,english.all.3class.distsim.crf.ser,Christine Sinclair,PERSON,816935,5,1
+fbfda4ff-780c-46eb-901e-1bc7c2632fbc,45271673,423930,english.all.3class.distsim.crf.ser,Sinclair,PERSON,816935,6,2
+fce78bf9-0396-4a93-8721-d246d2979431,45270722,423929,english.all.3class.distsim.crf.ser,Doubt,PERSON,886957,9,1
+fce78bf9-0396-4a93-8721-d246d2979431,45270700,423929,english.all.3class.distsim.crf.ser,Tim Doubt,PERSON,886957,2,1
+fce78bf9-0396-4a93-8721-d246d2979431,45270752,423929,english.all.3class.distsim.crf.ser,Doubt,PERSON,886957,16,2
+fce78bf9-0396-4a93-8721-d246d2979431,45270731,423929,english.all.3class.distsim.crf.ser,Doubt,PERSON,886957,12,1
+fe434fbd-a62b-43a4-8ce4-cdb4b9dd60e8,45238956,423774,english.all.3class.distsim.crf.ser,Nick Fury,PERSON,25576,7,1
+fe434fbd-a62b-43a4-8ce4-cdb4b9dd60e8,45238952,423774,english.all.3class.distsim.crf.ser,Nick Fury,PERSON,25576,5,1
+fe434fbd-a62b-43a4-8ce4-cdb4b9dd60e8,45238946,423774,english.all.3class.distsim.crf.ser,Nick Fury,PERSON,25576,2,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45382382,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,4,3
+ff820720-3080-4c9c-87c9-01bd8843b865,45342799,424355,english.all.3class.distsim.crf.ser,Johnson,PERSON,26754,4,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45382384,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,5,2
+ff820720-3080-4c9c-87c9-01bd8843b865,45382386,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,7,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45382395,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,10,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45382401,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,12,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45382398,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,11,2
+ff820720-3080-4c9c-87c9-01bd8843b865,45342763,424355,english.all.3class.distsim.crf.ser,Boris Johnson,PERSON,26754,1,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45342863,424355,english.all.3class.distsim.crf.ser,Boris Johnson,PERSON,26754,14,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45365247,424505,english.all.3class.distsim.crf.ser,Eddie Johnson,PERSON,49442,20,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45342787,424355,english.all.3class.distsim.crf.ser,Johnson,PERSON,26754,2,2
+ff820720-3080-4c9c-87c9-01bd8843b865,45382408,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,13,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45382415,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,14,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45382368,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,1,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45382374,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,3,1
+ff820720-3080-4c9c-87c9-01bd8843b865,45382419,424540,english.all.3class.distsim.crf.ser,Johnson,PERSON,6766,15,1
