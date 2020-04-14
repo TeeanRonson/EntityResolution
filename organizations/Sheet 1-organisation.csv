@@ -1,0 +1,518 @@
+id,article_id,model,name,type,entity_id,paragraph,sentence
+27303955,331842,english.all.3class.distsim.crf.ser,Bard College,ORGANIZATION,92610,20,3
+27303956,331842,english.all.3class.distsim.crf.ser,St. Ann 's Warehouse,ORGANIZATION,13418,20,3
+45387148,424546,english.all.3class.distsim.crf.ser,Fox News First,ORGANIZATION,6302,1,1
+45387151,424546,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,6302,2,1
+15304668,305370,english.all.3class.distsim.crf.ser,American Legion,ORGANIZATION,56097,8,3
+15304678,305370,english.all.3class.distsim.crf.ser,Supreme Court,ORGANIZATION,2594,11,3
+45289207,424080,english.all.3class.distsim.crf.ser,New Orleans Pelicans,ORGANIZATION,6533,1,1
+45289208,424080,english.all.3class.distsim.crf.ser,Duke,ORGANIZATION,1869,1,1
+45289210,424080,english.all.3class.distsim.crf.ser,NBA,ORGANIZATION,6532,1,1
+45289220,424080,english.all.3class.distsim.crf.ser,White House,ORGANIZATION,1061,3,1
+45289222,424080,english.all.3class.distsim.crf.ser,Treasury,ORGANIZATION,4112,3,1
+45289224,424080,english.all.3class.distsim.crf.ser,House,ORGANIZATION,1061,3,1
+45289233,424080,english.all.3class.distsim.crf.ser,Senate Appropriations Committee,ORGANIZATION,15212,4,1
+45289236,424080,english.all.3class.distsim.crf.ser,House,ORGANIZATION,1061,4,2
+45289248,424080,english.all.3class.distsim.crf.ser,Senate,ORGANIZATION,15212,10,2
+45289256,424080,english.all.3class.distsim.crf.ser,Capitol,ORGANIZATION,15232,12,2
+45289271,424080,english.all.3class.distsim.crf.ser,House,ORGANIZATION,1061,14,3
+45289272,424080,english.all.3class.distsim.crf.ser,Trump Administration,ORGANIZATION,3474,14,3
+45289276,424080,english.all.3class.distsim.crf.ser,Speaker 's Office,ORGANIZATION,887092,16,1
+45289308,424080,english.all.3class.distsim.crf.ser,House,ORGANIZATION,1061,24,2
+45289326,424080,english.all.3class.distsim.crf.ser,Pentagon,ORGANIZATION,1782,27,2
+45289327,424080,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,27,2
+45289333,424080,english.all.3class.distsim.crf.ser,Capitol Hill,ORGANIZATION,408,29,1
+45289343,424080,english.all.3class.distsim.crf.ser,House,ORGANIZATION,1061,31,2
+45289344,424080,english.all.3class.distsim.crf.ser,IRS,ORGANIZATION,395,31,3
+45289345,424080,english.all.3class.distsim.crf.ser,House Budget Committee,ORGANIZATION,84259,31,4
+45289354,424080,english.all.3class.distsim.crf.ser,Pentagon,ORGANIZATION,1782,32,2
+45289361,424080,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,34,3
+45289362,424080,english.all.3class.distsim.crf.ser,Obama Administration,ORGANIZATION,32548,34,3
+45289365,424080,english.all.3class.distsim.crf.ser,White House,ORGANIZATION,1061,35,1
+45289370,424080,english.all.3class.distsim.crf.ser,Senate,ORGANIZATION,15212,36,4
+45289371,424080,english.all.3class.distsim.crf.ser,Senate,ORGANIZATION,15212,36,5
+45289372,424080,english.all.3class.distsim.crf.ser,House,ORGANIZATION,1061,36,5
+45289378,424080,english.all.3class.distsim.crf.ser,GOP,ORGANIZATION,3431,38,5
+45289382,424080,english.all.3class.distsim.crf.ser,Defense,ORGANIZATION,3607,39,3
+22317045,283956,english.all.3class.distsim.crf.ser,NPR,ORGANIZATION,2991,7,1
+31202469,320418,english.all.3class.distsim.crf.ser,British Parliament,ORGANIZATION,70687,7,1
+31202643,320418,english.all.3class.distsim.crf.ser,Duke of Cornwall,ORGANIZATION,671301,20,3
+31202646,320418,english.all.3class.distsim.crf.ser,Russell Harvard,ORGANIZATION,279723,20,3
+45388070,424547,english.all.3class.distsim.crf.ser,Catholic News Agency,ORGANIZATION,8039,6,1
+45345091,424388,english.all.3class.distsim.crf.ser,Navy,ORGANIZATION,5817,1,1
+45345095,424388,english.all.3class.distsim.crf.ser,ISIS,ORGANIZATION,3002,1,1
+45345105,424388,english.all.3class.distsim.crf.ser,Navy,ORGANIZATION,5817,2,1
+45345145,424388,english.all.3class.distsim.crf.ser,ISIS,ORGANIZATION,3002,8,1
+45345157,424388,english.all.3class.distsim.crf.ser,ISIS,ORGANIZATION,3002,9,1
+45345175,424388,english.all.3class.distsim.crf.ser,Naval Criminal Investigative Service,ORGANIZATION,18835,12,1
+45345193,424388,english.all.3class.distsim.crf.ser,NCIS,ORGANIZATION,18835,14,1
+45389092,424548,english.all.3class.distsim.crf.ser,Soho Farmhouse,ORGANIZATION,348204,6,2
+45389118,424548,english.all.3class.distsim.crf.ser,Foreign Office,ORGANIZATION,11865,15,2
+45346867,424389,english.all.3class.distsim.crf.ser,Camden County Prosecutor 's Office,ORGANIZATION,887879,2,1
+45346869,424389,english.all.3class.distsim.crf.ser,Cooper University Hospital,ORGANIZATION,708191,3,2
+45349372,424392,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,1,1
+45349374,424392,english.all.3class.distsim.crf.ser,House,ORGANIZATION,388,1,1
+45349411,424392,english.all.3class.distsim.crf.ser,ABC News,ORGANIZATION,7760,9,2
+45348093,424390,english.all.3class.distsim.crf.ser,Fresno Police,ORGANIZATION,195540,2,1
+45350340,424393,english.all.3class.distsim.crf.ser,CNN,ORGANIZATION,4139,1,1
+45350347,424393,english.all.3class.distsim.crf.ser,White House,ORGANIZATION,1061,2,1
+45350365,424393,english.all.3class.distsim.crf.ser,CNN,ORGANIZATION,4139,6,1
+45350367,424393,english.all.3class.distsim.crf.ser,White House,ORGANIZATION,1061,6,1
+45349018,424391,english.all.3class.distsim.crf.ser,Chicago Sun Times,ORGANIZATION,188881,2,1
+45354732,424397,english.all.3class.distsim.crf.ser,Foreign Ministry,ORGANIZATION,3924,1,1
+45354748,424397,english.all.3class.distsim.crf.ser,U.S. Navy,ORGANIZATION,30582,2,2
+45354754,424397,english.all.3class.distsim.crf.ser,Reuters,ORGANIZATION,113,3,1
+45354786,424397,english.all.3class.distsim.crf.ser,Treasury,ORGANIZATION,4112,7,2
+45354795,424397,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,8,1
+45354805,424397,english.all.3class.distsim.crf.ser,U.S. Cyber Command,ORGANIZATION,75204,9,1
+45354807,424397,english.all.3class.distsim.crf.ser,U.S. Navy,ORGANIZATION,30582,9,1
+45354813,424397,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,10,1
+45318235,424195,english.all.3class.distsim.crf.ser,Dudley Council,ORGANIZATION,887498,4,1
+45318240,424195,english.all.3class.distsim.crf.ser,BBC,ORGANIZATION,31,5,1
+45318253,424195,english.all.3class.distsim.crf.ser,Earls High School,ORGANIZATION,887500,15,1
+45318258,424195,english.all.3class.distsim.crf.ser,Dudley Council,ORGANIZATION,887498,16,1
+45363429,424502,english.all.3class.distsim.crf.ser,Nice,ORGANIZATION,6948,10,1
+45365218,424505,english.all.3class.distsim.crf.ser,Chicago Police,ORGANIZATION,52424,3,1
+45365236,424505,english.all.3class.distsim.crf.ser,Chicago Police,ORGANIZATION,52424,14,1
+45365261,424505,english.all.3class.distsim.crf.ser,CBS,ORGANIZATION,1004,24,1
+45331316,424348,english.all.3class.distsim.crf.ser,Defence,ORGANIZATION,315,4,1
+45331326,424348,english.all.3class.distsim.crf.ser,NHS,ORGANIZATION,8290,7,1
+45331338,424348,english.all.3class.distsim.crf.ser,Nato,ORGANIZATION,1278,9,1
+45331346,424348,english.all.3class.distsim.crf.ser,foreign,ORGANIZATION,16362,11,1
+45331348,424348,english.all.3class.distsim.crf.ser,Nato,ORGANIZATION,1278,11,1
+45331354,424348,english.all.3class.distsim.crf.ser,Strategic Defence and Security Review,ORGANIZATION,763297,13,1
+45332335,424349,english.all.3class.distsim.crf.ser,Victorias,ORGANIZATION,887708,2,1
+45332338,424349,english.all.3class.distsim.crf.ser,Victorias,ORGANIZATION,887708,6,1
+45332340,424349,english.all.3class.distsim.crf.ser,CCTV,ORGANIZATION,5027,11,1
+45332342,424349,english.all.3class.distsim.crf.ser,Victorias,ORGANIZATION,887708,13,1
+45332344,424349,english.all.3class.distsim.crf.ser,Victorias,ORGANIZATION,887708,14,1
+45332355,424349,english.all.3class.distsim.crf.ser,United Voices of the World Union,ORGANIZATION,153400,22,1
+45332358,424349,english.all.3class.distsim.crf.ser,Manchester City Council,ORGANIZATION,46298,24,1
+45342767,424355,english.all.3class.distsim.crf.ser,BBC,ORGANIZATION,31,1,2
+45342771,424355,english.all.3class.distsim.crf.ser,Brexit,ORGANIZATION,305,1,2
+45342789,424355,english.all.3class.distsim.crf.ser,EU,ORGANIZATION,422,2,2
+45342797,424355,english.all.3class.distsim.crf.ser,BBC,ORGANIZATION,31,4,1
+45342809,424355,english.all.3class.distsim.crf.ser,Sussex,ORGANIZATION,1870,6,1
+45342813,424355,english.all.3class.distsim.crf.ser,Treasury,ORGANIZATION,4112,6,3
+45342817,424355,english.all.3class.distsim.crf.ser,BBC,ORGANIZATION,31,7,1
+45342841,424355,english.all.3class.distsim.crf.ser,BBC,ORGANIZATION,31,9,1
+45342865,424355,english.all.3class.distsim.crf.ser,Daily Telegraph,ORGANIZATION,13811,14,2
+45342869,424355,english.all.3class.distsim.crf.ser,Metro,ORGANIZATION,2249,14,4
+45342871,424355,english.all.3class.distsim.crf.ser,Duke,ORGANIZATION,1869,14,5
+45342873,424355,english.all.3class.distsim.crf.ser,Sussex,ORGANIZATION,1870,14,5
+45342888,424355,english.all.3class.distsim.crf.ser,New York Times,ORGANIZATION,321,24,2
+45342892,424355,english.all.3class.distsim.crf.ser,Cambridge University,ORGANIZATION,55915,26,1
+45316032,424191,english.all.3class.distsim.crf.ser,Mid Essex Clinical Commissioning Group,ORGANIZATION,887467,3,1
+45316034,424191,english.all.3class.distsim.crf.ser,CCG,ORGANIZATION,153036,3,1
+45316040,424191,english.all.3class.distsim.crf.ser,Public Health England,ORGANIZATION,16488,4,1
+45316042,424191,english.all.3class.distsim.crf.ser,CCG,ORGANIZATION,153036,4,2
+45316046,424191,english.all.3class.distsim.crf.ser,CCG,ORGANIZATION,153036,6,1
+45316062,424191,english.all.3class.distsim.crf.ser,CCG,ORGANIZATION,153036,8,1
+45316070,424191,english.all.3class.distsim.crf.ser,Mid Essex CCG,ORGANIZATION,887469,9,1
+45316078,424191,english.all.3class.distsim.crf.ser,NHS,ORGANIZATION,8290,10,1
+45261501,423886,english.all.3class.distsim.crf.ser,Home Office,ORGANIZATION,7659,24,1
+45261505,423886,english.all.3class.distsim.crf.ser,Home Office,ORGANIZATION,7659,29,1
+45261509,423886,english.all.3class.distsim.crf.ser,Home Office,ORGANIZATION,7659,30,2
+45353757,424396,english.all.3class.distsim.crf.ser,State,ORGANIZATION,332,3,2
+45352759,424395,english.all.3class.distsim.crf.ser,interior ministry,ORGANIZATION,367,3,1
+45352773,424395,english.all.3class.distsim.crf.ser,Sky News,ORGANIZATION,1873,4,1
+45352783,424395,english.all.3class.distsim.crf.ser,Sky News,ORGANIZATION,1873,5,1
+45322603,424238,english.all.3class.distsim.crf.ser,KCRA,ORGANIZATION,290819,2,1
+45319793,424236,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,1,1
+45319794,424236,english.all.3class.distsim.crf.ser,Department of Health and Human Services,ORGANIZATION,6060,1,1
+45319802,424236,english.all.3class.distsim.crf.ser,HHS,ORGANIZATION,6060,5,1
+45319803,424236,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,5,1
+45319805,424236,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,6,3
+45319816,424236,english.all.3class.distsim.crf.ser,CNN,ORGANIZATION,4139,8,1
+45319821,424236,english.all.3class.distsim.crf.ser,Housing and Urban Development,ORGANIZATION,3989,10,1
+45319823,424236,english.all.3class.distsim.crf.ser,HHS,ORGANIZATION,6060,13,2
+45323262,424239,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,2,1
+45323284,424239,english.all.3class.distsim.crf.ser,The Washington Post,ORGANIZATION,1339,5,2
+45323298,424239,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,9,1
+45323300,424239,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,9,1
+45351535,424394,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,1,1
+45351537,424394,english.all.3class.distsim.crf.ser,Democratic Party,ORGANIZATION,3436,1,1
+45351540,424394,english.all.3class.distsim.crf.ser,Democratic Party,ORGANIZATION,3436,2,3
+45351558,424394,english.all.3class.distsim.crf.ser,Democrats,ORGANIZATION,407,5,1
+45351564,424394,english.all.3class.distsim.crf.ser,Democratic Party,ORGANIZATION,3436,6,1
+45351576,424394,english.all.3class.distsim.crf.ser,Nation of Islam,ORGANIZATION,4264,7,1
+45321349,424237,english.all.3class.distsim.crf.ser,Dallas Morning News,ORGANIZATION,28609,3,1
+45321365,424237,english.all.3class.distsim.crf.ser,Irving,ORGANIZATION,112138,5,1
+45321369,424237,english.all.3class.distsim.crf.ser,KXAS-TV,ORGANIZATION,93448,5,2
+45286561,424079,english.all.3class.distsim.crf.ser,House Freedom Caucus,ORGANIZATION,3600,2,1
+45286575,424079,english.all.3class.distsim.crf.ser,Justice Department,ORGANIZATION,2877,5,1
+45286583,424079,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,6,2
+45286597,424079,english.all.3class.distsim.crf.ser,Justice Department,ORGANIZATION,2877,9,1
+45286600,424079,english.all.3class.distsim.crf.ser,DOJ,ORGANIZATION,8813,10,1
+45286601,424079,english.all.3class.distsim.crf.ser,Durham,ORGANIZATION,18558,10,1
+45286611,424079,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,11,1
+45286612,424079,english.all.3class.distsim.crf.ser,CIA,ORGANIZATION,968,11,1
+45286613,424079,english.all.3class.distsim.crf.ser,Cambridge University,ORGANIZATION,55915,11,1
+45286620,424079,english.all.3class.distsim.crf.ser,House Judiciary Committee,ORGANIZATION,26078,12,1
+45286629,424079,english.all.3class.distsim.crf.ser,DOJ,ORGANIZATION,8813,13,1
+45286631,424079,english.all.3class.distsim.crf.ser,Democratic National Committee,ORGANIZATION,2579,13,1
+45286632,424079,english.all.3class.distsim.crf.ser,DNC,ORGANIZATION,2579,13,1
+45324781,424240,english.all.3class.distsim.crf.ser,defense,ORGANIZATION,3607,1,1
+45324783,424240,english.all.3class.distsim.crf.ser,Pentagon,ORGANIZATION,1782,1,1
+45324784,424240,english.all.3class.distsim.crf.ser,Defense Department,ORGANIZATION,4033,1,1
+45324788,424240,english.all.3class.distsim.crf.ser,National Defense Strategy,ORGANIZATION,47711,2,2
+45324801,424240,english.all.3class.distsim.crf.ser,United States Army,ORGANIZATION,12582,4,1
+45324802,424240,english.all.3class.distsim.crf.ser,National Guard,ORGANIZATION,10022,4,2
+45324803,424240,english.all.3class.distsim.crf.ser,Reserve Soldiers,ORGANIZATION,887577,4,2
+45324804,424240,english.all.3class.distsim.crf.ser,Pentagon,ORGANIZATION,1782,4,2
+45324816,424240,english.all.3class.distsim.crf.ser,United States Military Academy,ORGANIZATION,138189,9,1
+45324819,424240,english.all.3class.distsim.crf.ser,101st Airborne Division,ORGANIZATION,59491,10,2
+45324825,424240,english.all.3class.distsim.crf.ser,District of Columbia National Guard,ORGANIZATION,887578,11,1
+45324826,424240,english.all.3class.distsim.crf.ser,Army Reserve,ORGANIZATION,88452,11,1
+45324830,424240,english.all.3class.distsim.crf.ser,Regular Army,ORGANIZATION,887579,12,1
+45324831,424240,english.all.3class.distsim.crf.ser,National Guard,ORGANIZATION,887578,12,1
+45324838,424240,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,15,1
+45295105,424082,english.all.3class.distsim.crf.ser,House Intelligence Committee Ranking,ORGANIZATION,625260,1,1
+45295132,424082,english.all.3class.distsim.crf.ser,DNC,ORGANIZATION,39636,3,1
+45295133,424082,english.all.3class.distsim.crf.ser,Fusion GPS,ORGANIZATION,109737,3,1
+45295139,424082,english.all.3class.distsim.crf.ser,Department of Justice,ORGANIZATION,8813,4,2
+45295151,424082,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,5,1
+45295152,424082,english.all.3class.distsim.crf.ser,State Department,ORGANIZATION,5095,5,1
+45295165,424082,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,6,2
+45295170,424082,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,7,1
+45295171,424082,english.all.3class.distsim.crf.ser,Justice Department,ORGANIZATION,2877,7,1
+45298739,424085,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,2,1
+45298778,424085,english.all.3class.distsim.crf.ser,Brown University,ORGANIZATION,21598,10,2
+45298822,424085,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,20,1
+45297602,424084,english.all.3class.distsim.crf.ser,CarMax,ORGANIZATION,78983,1,1
+45297608,424084,english.all.3class.distsim.crf.ser,Bakersfield Fire Department,ORGANIZATION,887155,2,1
+45297610,424084,english.all.3class.distsim.crf.ser,Bakersfield Californian,ORGANIZATION,90377,2,2
+45297612,424084,english.all.3class.distsim.crf.ser,CarMax,ORGANIZATION,78983,3,1
+45297614,424084,english.all.3class.distsim.crf.ser,Bakersfield Fire Department,ORGANIZATION,887155,5,1
+45296776,424083,english.all.3class.distsim.crf.ser,Crazy Socks,ORGANIZATION,887146,1,1
+45301813,424087,english.all.3class.distsim.crf.ser,MSNBC,ORGANIZATION,2878,1,1
+45301832,424087,english.all.3class.distsim.crf.ser,NSC,ORGANIZATION,4596,6,3
+45300545,424086,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,1,1
+45300555,424086,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,2,1
+45300572,424086,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,5,1
+45300578,424086,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,6,1
+45300580,424086,english.all.3class.distsim.crf.ser,Judicial Watch,ORGANIZATION,30048,6,1
+45300582,424086,english.all.3class.distsim.crf.ser,DOJ,ORGANIZATION,8813,6,3
+45300588,424086,english.all.3class.distsim.crf.ser,Senate Appropriations Committee,ORGANIZATION,15212,7,1
+45300590,424086,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,8,2
+45265488,423924,english.all.3class.distsim.crf.ser,WOWT,ORGANIZATION,886856,2,1
+45265496,423924,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,10,1
+45272310,423931,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,2,1
+45269468,423928,english.all.3class.distsim.crf.ser,National Guard,ORGANIZATION,10022,1,1
+45269475,423928,english.all.3class.distsim.crf.ser,National Guard,ORGANIZATION,10022,2,1
+45269486,423928,english.all.3class.distsim.crf.ser,Defense,ORGANIZATION,3607,3,1
+45269494,423928,english.all.3class.distsim.crf.ser,AFP,ORGANIZATION,11437,4,1
+45269522,423928,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,8,1
+45269544,423928,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,12,1
+45270695,423929,english.all.3class.distsim.crf.ser,University of Utah,ORGANIZATION,49466,1,1
+45270711,423929,english.all.3class.distsim.crf.ser,Salt Lake City Police Department,ORGANIZATION,70044,4,2
+45270734,423929,english.all.3class.distsim.crf.ser,University of Utah,ORGANIZATION,49466,13,1
+45270740,423929,english.all.3class.distsim.crf.ser,The University of Utah,ORGANIZATION,49514,14,1
+45270756,423929,english.all.3class.distsim.crf.ser,Salt Lake City Police Department,ORGANIZATION,70044,17,1
+45270760,423929,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,18,1
+45270762,423929,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,18,1
+45274881,423933,english.all.3class.distsim.crf.ser,GOP,ORGANIZATION,3431,1,2
+45274888,423933,english.all.3class.distsim.crf.ser,Republican party,ORGANIZATION,1862,3,3
+45274909,423933,english.all.3class.distsim.crf.ser,GOP,ORGANIZATION,3431,8,1
+45232272,423769,english.all.3class.distsim.crf.ser,Treasury,ORGANIZATION,4112,3,2
+45232280,423769,english.all.3class.distsim.crf.ser,Navy,ORGANIZATION,5817,4,1
+45232290,423769,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,5,1
+45232294,423769,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,5,2
+45232296,423769,english.all.3class.distsim.crf.ser,Cyber Command,ORGANIZATION,340442,5,2
+45232301,423769,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,6,1
+45232309,423769,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,7,1
+45232312,423769,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,7,1
+45268750,423927,english.all.3class.distsim.crf.ser,New Yorker,ORGANIZATION,3262,2,1
+45268752,423927,english.all.3class.distsim.crf.ser,Wall Street,ORGANIZATION,54835,2,1
+45268758,423927,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,6,2
+45273572,423932,english.all.3class.distsim.crf.ser,Treasury Department,ORGANIZATION,6575,1,1
+45273580,423932,english.all.3class.distsim.crf.ser,Senate,ORGANIZATION,376,2,1
+45273589,423932,english.all.3class.distsim.crf.ser,White House,ORGANIZATION,1061,3,1
+45273594,423932,english.all.3class.distsim.crf.ser,Senate,ORGANIZATION,376,4,1
+45273602,423932,english.all.3class.distsim.crf.ser,Treasury,ORGANIZATION,6575,6,1
+45273611,423932,english.all.3class.distsim.crf.ser,Union Army,ORGANIZATION,115667,9,2
+45273616,423932,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,10,1
+45273619,423932,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,10,1
+45239814,423775,english.all.3class.distsim.crf.ser,Administrative Hearing Commission,ORGANIZATION,633955,5,1
+45239819,423775,english.all.3class.distsim.crf.ser,Administrative Hearing Commission,ORGANIZATION,633955,6,1
+45239821,423775,english.all.3class.distsim.crf.ser,Reproductive Health Services,ORGANIZATION,748811,6,1
+45239830,423775,english.all.3class.distsim.crf.ser,AHC,ORGANIZATION,633955,9,1
+45239836,423775,english.all.3class.distsim.crf.ser,U.S. Supreme Court,ORGANIZATION,20883,10,1
+45239843,423775,english.all.3class.distsim.crf.ser,Missouri Department of Health and Senior Services,ORGANIZATION,198126,11,2
+45239845,423775,english.all.3class.distsim.crf.ser,The Associated Press,ORGANIZATION,3926,11,2
+45239857,423775,english.all.3class.distsim.crf.ser,Supreme Court,ORGANIZATION,20883,12,1
+45239869,423775,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,3926,15,1
+45237472,423773,english.all.3class.distsim.crf.ser,New York Mets,ORGANIZATION,87506,1,1
+45237475,423773,english.all.3class.distsim.crf.ser,Chicago Cubs,ORGANIZATION,95736,1,1
+45237486,423773,english.all.3class.distsim.crf.ser,Mets,ORGANIZATION,87506,2,1
+45237487,423773,english.all.3class.distsim.crf.ser,Philadelphia Phillies,ORGANIZATION,9750,2,1
+45237488,423773,english.all.3class.distsim.crf.ser,Citizens Bank Park,ORGANIZATION,790238,2,1
+45237492,423773,english.all.3class.distsim.crf.ser,Newsday,ORGANIZATION,10738,2,2
+45237508,423773,english.all.3class.distsim.crf.ser,Mets,ORGANIZATION,87506,4,1
+45237518,423773,english.all.3class.distsim.crf.ser,Newsday,ORGANIZATION,10738,5,1
+45237520,423773,english.all.3class.distsim.crf.ser,Mets,ORGANIZATION,87506,5,1
+45237526,423773,english.all.3class.distsim.crf.ser,Mets,ORGANIZATION,87506,7,1
+45237527,423773,english.all.3class.distsim.crf.ser,Mets,ORGANIZATION,87506,7,1
+45237534,423773,english.all.3class.distsim.crf.ser,Mets,ORGANIZATION,87506,10,1
+45237544,423773,english.all.3class.distsim.crf.ser,Phillies,ORGANIZATION,9750,13,1
+45237550,423773,english.all.3class.distsim.crf.ser,Mets,ORGANIZATION,87506,14,1
+45237551,423773,english.all.3class.distsim.crf.ser,Atlanta Braves,ORGANIZATION,9748,14,1
+45237555,423773,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,15,1
+45266497,423925,english.all.3class.distsim.crf.ser,Instagram,ORGANIZATION,928,2,1
+45266506,423925,english.all.3class.distsim.crf.ser,Estee Lauder,ORGANIZATION,200622,6,1
+45266514,423925,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,9,1
+45385629,424544,english.all.3class.distsim.crf.ser,NBC,ORGANIZATION,4138,2,1
+45385643,424544,english.all.3class.distsim.crf.ser,NBC,ORGANIZATION,4138,5,5
+45238967,423774,english.all.3class.distsim.crf.ser,Sony,ORGANIZATION,4872,9,1
+45238968,423774,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,9,1
+45235418,423772,english.all.3class.distsim.crf.ser,North County Police Cooperative,ORGANIZATION,879768,3,1
+45235437,423772,english.all.3class.distsim.crf.ser,North County Police Cooperative,ORGANIZATION,879768,7,1
+45235440,423772,english.all.3class.distsim.crf.ser,Clay Wellston Food Market Restaurant,ORGANIZATION,879770,7,1
+45235497,423772,english.all.3class.distsim.crf.ser,North County Police Cooperative,ORGANIZATION,879768,15,1
+45235517,423772,english.all.3class.distsim.crf.ser,North County Police Cooperative,ORGANIZATION,879768,21,1
+45235524,423772,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,23,1
+45235533,423772,english.all.3class.distsim.crf.ser,North County Police Cooperative,ORGANIZATION,879768,27,1
+45235535,423772,english.all.3class.distsim.crf.ser,North County Police Cooperative 's Facebook,ORGANIZATION,879773,27,1
+45235540,423772,english.all.3class.distsim.crf.ser,North County Police Cooperative,ORGANIZATION,879773,28,1
+45153985,423614,english.all.3class.distsim.crf.ser,DNC,ORGANIZATION,39636,1,1
+45154004,423614,english.all.3class.distsim.crf.ser,Capitol,ORGANIZATION,15232,9,1
+45154026,423614,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,15,1
+45241639,423777,english.all.3class.distsim.crf.ser,Nashua Police Department,ORGANIZATION,886483,2,1
+45241640,423777,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,2,1
+45241655,423777,english.all.3class.distsim.crf.ser,WHDH,ORGANIZATION,315374,7,1
+45384644,424543,english.all.3class.distsim.crf.ser,Riversmead School,ORGANIZATION,888308,3,1
+45384653,424543,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,5,1
+45384677,424543,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,12,1
+45384694,424543,english.all.3class.distsim.crf.ser,Marriott,ORGANIZATION,25972,17,2
+45151182,423612,english.all.3class.distsim.crf.ser,Buick LaCrosse,ORGANIZATION,101917,3,1
+45151183,423612,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,3,1
+45151193,423612,english.all.3class.distsim.crf.ser,Senate,ORGANIZATION,376,4,3
+45151197,423612,english.all.3class.distsim.crf.ser,House,ORGANIZATION,388,5,1
+45151202,423612,english.all.3class.distsim.crf.ser,Clinton College,ORGANIZATION,553459,7,1
+45240977,423776,english.all.3class.distsim.crf.ser,Democratic House,ORGANIZATION,23730,1,1
+45240980,423776,english.all.3class.distsim.crf.ser,House,ORGANIZATION,23730,1,1
+45240993,423776,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,4,1
+45241002,423776,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,5,1
+45384207,424542,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,2,1
+45384209,424542,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,7,1
+45156261,423615,english.all.3class.distsim.crf.ser,Rolling Stone,ORGANIZATION,655,12,1
+45157684,423616,english.all.3class.distsim.crf.ser,NBC,ORGANIZATION,4138,2,2
+45157731,423616,english.all.3class.distsim.crf.ser,New York Daily News,ORGANIZATION,3663,11,1
+45157737,423616,english.all.3class.distsim.crf.ser,CNN,ORGANIZATION,4139,12,1
+45157739,423616,english.all.3class.distsim.crf.ser,New York Post,ORGANIZATION,5081,12,1
+45233224,423770,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,7,1
+45233261,423770,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,11,1
+45233277,423770,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,14,1
+45233278,423770,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,14,1
+45233303,423770,english.all.3class.distsim.crf.ser,Ministry of Public Health,ORGANIZATION,257517,18,2
+45233304,423770,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,18,2
+45233318,423770,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,20,1
+45233329,423770,english.all.3class.distsim.crf.ser,WTOP,ORGANIZATION,101725,22,1
+45233355,423770,english.all.3class.distsim.crf.ser,Cox,ORGANIZATION,16331,27,2
+45233361,423770,english.all.3class.distsim.crf.ser,U.S. Embassy,ORGANIZATION,12110,28,2
+45159491,423618,english.all.3class.distsim.crf.ser,University of Illinois,ORGANIZATION,5606,1,1
+45159528,423618,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,11,1
+45159555,423618,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,14,1
+45159567,423618,english.all.3class.distsim.crf.ser,University of Illinois,ORGANIZATION,5606,17,1
+45159576,423618,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,19,1
+45110382,423450,english.all.3class.distsim.crf.ser,KFC,ORGANIZATION,12212,1,1
+45110385,423450,english.all.3class.distsim.crf.ser,Michelin Star,ORGANIZATION,858130,1,1
+45110393,423450,english.all.3class.distsim.crf.ser,KFC,ORGANIZATION,12212,2,1
+45110403,423450,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,4,1
+45110404,423450,english.all.3class.distsim.crf.ser,Kentucky Fried Chicken,ORGANIZATION,12212,4,1
+45110405,423450,english.all.3class.distsim.crf.ser,Michelin Star,ORGANIZATION,858130,4,1
+45110409,423450,english.all.3class.distsim.crf.ser,Michelin Star,ORGANIZATION,858130,5,1
+45110415,423450,english.all.3class.distsim.crf.ser,Michelin,ORGANIZATION,858130,6,2
+45110418,423450,english.all.3class.distsim.crf.ser,Michelin Star,ORGANIZATION,858130,6,3
+45110419,423450,english.all.3class.distsim.crf.ser,Netflix,ORGANIZATION,2804,6,3
+45110424,423450,english.all.3class.distsim.crf.ser,KFC,ORGANIZATION,12212,7,1
+45110425,423450,english.all.3class.distsim.crf.ser,KFC,ORGANIZATION,12212,7,1
+45110426,423450,english.all.3class.distsim.crf.ser,KFC,ORGANIZATION,12212,7,3
+45110431,423450,english.all.3class.distsim.crf.ser,KFC,ORGANIZATION,12212,8,1
+45110435,423450,english.all.3class.distsim.crf.ser,KFC,ORGANIZATION,12212,9,1
+45110436,423450,english.all.3class.distsim.crf.ser,KFC,ORGANIZATION,12212,9,1
+45110441,423450,english.all.3class.distsim.crf.ser,KFC,ORGANIZATION,12212,10,1
+45110444,423450,english.all.3class.distsim.crf.ser,KFC,ORGANIZATION,12212,11,2
+45382409,424540,english.all.3class.distsim.crf.ser,Instagram,ORGANIZATION,928,13,1
+45382411,424540,english.all.3class.distsim.crf.ser,New York University,ORGANIZATION,1327,13,1
+45117344,423455,english.all.3class.distsim.crf.ser,HBO,ORGANIZATION,5436,2,2
+45116112,423454,english.all.3class.distsim.crf.ser,UNESCO World Heritage,ORGANIZATION,40844,5,1
+45116118,423454,english.all.3class.distsim.crf.ser,WAFA,ORGANIZATION,240562,7,1
+45116119,423454,english.all.3class.distsim.crf.ser,WAFA,ORGANIZATION,240562,7,2
+45116123,423454,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,9,1
+45118832,423457,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,6,2
+45111562,423451,english.all.3class.distsim.crf.ser,Oregon Liquor Control Commission,ORGANIZATION,86707,3,1
+45111570,423451,english.all.3class.distsim.crf.ser,Senate,ORGANIZATION,376,5,1
+45111572,423451,english.all.3class.distsim.crf.ser,Oregon Liquor Control Board,ORGANIZATION,884555,5,1
+45111573,423451,english.all.3class.distsim.crf.ser,Senate,ORGANIZATION,376,5,1
+45111593,423451,english.all.3class.distsim.crf.ser,Craft Cannabis Alliance,ORGANIZATION,884557,8,1
+45111595,423451,english.all.3class.distsim.crf.ser,Los Angeles Times,ORGANIZATION,6470,8,1
+45113113,423452,english.all.3class.distsim.crf.ser,Chevrolet Corvette,ORGANIZATION,556931,1,1
+45113119,423452,english.all.3class.distsim.crf.ser,Towers Foundation,ORGANIZATION,161697,4,1
+45113122,423452,english.all.3class.distsim.crf.ser,NASCAR,ORGANIZATION,38158,5,1
+45114422,423453,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,1,1
+45114434,423453,english.all.3class.distsim.crf.ser,FBI,ORGANIZATION,156,3,1
+45114435,423453,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,3,1
+45114438,423453,english.all.3class.distsim.crf.ser,BBC News,ORGANIZATION,531,3,1
+45114449,423453,english.all.3class.distsim.crf.ser,Cambridge Analytica,ORGANIZATION,19889,5,1
+45114451,423453,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,5,1
+45114457,423453,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,6,1
+45114458,423453,english.all.3class.distsim.crf.ser,BBC,ORGANIZATION,531,6,2
+45114482,423453,english.all.3class.distsim.crf.ser,Labour Party,ORGANIZATION,16429,8,1
+45114489,423453,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,9,2
+45114495,423453,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,10,1
+45114498,423453,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,11,1
+45114499,423453,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,11,1
+45118173,423456,english.all.3class.distsim.crf.ser,GOP,ORGANIZATION,3431,3,1
+45118176,423456,english.all.3class.distsim.crf.ser,RNC,ORGANIZATION,14334,4,1
+45118177,423456,english.all.3class.distsim.crf.ser,Democratic National Committee,ORGANIZATION,2579,4,1
+45118179,423456,english.all.3class.distsim.crf.ser,House of Representatives,ORGANIZATION,1863,5,1
+45118181,423456,english.all.3class.distsim.crf.ser,GOP,ORGANIZATION,3431,6,1
+45118186,423456,english.all.3class.distsim.crf.ser,Trump Make America Great Again Committee,ORGANIZATION,265294,7,1
+45118187,423456,english.all.3class.distsim.crf.ser,TMAGAC,ORGANIZATION,884672,7,1
+45118189,423456,english.all.3class.distsim.crf.ser,Republican National Committee,ORGANIZATION,14334,7,2
+45118195,423456,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,9,1
+45161106,423619,english.all.3class.distsim.crf.ser,National Student Clearinghouse Research Center,ORGANIZATION,885218,6,4
+45161108,423619,english.all.3class.distsim.crf.ser,Pell Grants,ORGANIZATION,200345,7,3
+45161111,423619,english.all.3class.distsim.crf.ser,ReUp Education,ORGANIZATION,885219,8,1
+45161113,423619,english.all.3class.distsim.crf.ser,Western Governors University,ORGANIZATION,885220,14,2
+45161116,423619,english.all.3class.distsim.crf.ser,Kenzie Academy,ORGANIZATION,885221,16,1
+45161117,423619,english.all.3class.distsim.crf.ser,Lambda School,ORGANIZATION,77275,16,1
+45034780,423289,english.all.3class.distsim.crf.ser,NBA,ORGANIZATION,6532,2,1
+45034785,423289,english.all.3class.distsim.crf.ser,U.S. Centers for Disease Control and Prevention,ORGANIZATION,19386,3,1
+45034786,423289,english.all.3class.distsim.crf.ser,YouTube,ORGANIZATION,5036,3,1
+45034795,423289,english.all.3class.distsim.crf.ser,World Health Organization,ORGANIZATION,21937,5,2
+45034796,423289,english.all.3class.distsim.crf.ser,U.S. State Department,ORGANIZATION,3922,5,3
+45034797,423289,english.all.3class.distsim.crf.ser,CDC,ORGANIZATION,5877,5,3
+45034803,423289,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,6,1
+45034824,423289,english.all.3class.distsim.crf.ser,PSA,ORGANIZATION,23532,9,1
+45034828,423289,english.all.3class.distsim.crf.ser,CDC Foundation,ORGANIZATION,883216,9,1
+45034834,423289,english.all.3class.distsim.crf.ser,CDC,ORGANIZATION,883216,9,1
+45040007,423292,english.all.3class.distsim.crf.ser,Facebook,ORGANIZATION,423,4,1
+45040011,423292,english.all.3class.distsim.crf.ser,World Wildlife Fund,ORGANIZATION,16727,6,1
+45040013,423292,english.all.3class.distsim.crf.ser,National Geographic,ORGANIZATION,19862,7,1
+45043305,423295,english.all.3class.distsim.crf.ser,Ford Mustang,ORGANIZATION,58119,1,1
+45043310,423295,english.all.3class.distsim.crf.ser,Mustangs,ORGANIZATION,58122,7,1
+45043311,423295,english.all.3class.distsim.crf.ser,Aviar Motors,ORGANIZATION,86365,7,2
+45038020,423291,english.all.3class.distsim.crf.ser,Supreme Court,ORGANIZATION,2594,1,1
+45038034,423291,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,3,2
+45038040,423291,english.all.3class.distsim.crf.ser,Supreme Court,ORGANIZATION,2594,5,1
+45038044,423291,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,6,1
+45038051,423291,english.all.3class.distsim.crf.ser,The Court,ORGANIZATION,6491,8,1
+45038053,423291,english.all.3class.distsim.crf.ser,The Court,ORGANIZATION,6491,8,2
+45038054,423291,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,8,2
+45038071,423291,english.all.3class.distsim.crf.ser,Apple,ORGANIZATION,3097,12,3
+45038075,423291,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,13,1
+45040501,423293,english.all.3class.distsim.crf.ser,International Olympic Committee,ORGANIZATION,42349,2,1
+45040526,423293,english.all.3class.distsim.crf.ser,IOC,ORGANIZATION,42349,5,1
+45040530,423293,english.all.3class.distsim.crf.ser,IOC,ORGANIZATION,42349,6,1
+45040551,423293,english.all.3class.distsim.crf.ser,IOC,ORGANIZATION,42349,9,1
+45040561,423293,english.all.3class.distsim.crf.ser,ABBA,ORGANIZATION,24100,10,1
+45040563,423293,english.all.3class.distsim.crf.ser,ABBA,ORGANIZATION,24100,10,1
+45040565,423293,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,11,1
+45046024,423297,english.all.3class.distsim.crf.ser,MTV,ORGANIZATION,14098,2,1
+45046025,423297,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,2,3
+45046037,423297,english.all.3class.distsim.crf.ser,MTV,ORGANIZATION,14098,8,1
+45386275,424545,english.all.3class.distsim.crf.ser,University of Western Australia,ORGANIZATION,86407,3,1
+45041893,423294,english.all.3class.distsim.crf.ser,Customs Enforcement,ORGANIZATION,9595,2,1
+45041897,423294,english.all.3class.distsim.crf.ser,Republican,ORGANIZATION,406,4,1
+45041903,423294,english.all.3class.distsim.crf.ser,Washington Examiner,ORGANIZATION,9201,5,1
+45041904,423294,english.all.3class.distsim.crf.ser,Acting Department of Homeland Security,ORGANIZATION,883293,5,1
+45041905,423294,english.all.3class.distsim.crf.ser,DHS,ORGANIZATION,3480,5,1
+45041907,423294,english.all.3class.distsim.crf.ser,Washington Post,ORGANIZATION,2819,5,1
+45041914,423294,english.all.3class.distsim.crf.ser,U.S. Customs,ORGANIZATION,16886,6,1
+45041915,423294,english.all.3class.distsim.crf.ser,CBP,ORGANIZATION,4177,6,1
+45041931,423294,english.all.3class.distsim.crf.ser,Center for Immigration Studies,ORGANIZATION,3419,9,1
+45041935,423294,english.all.3class.distsim.crf.ser,Democratic Party,ORGANIZATION,3436,9,2
+45041936,423294,english.all.3class.distsim.crf.ser,FEC,ORGANIZATION,14103,9,3
+45041937,423294,english.all.3class.distsim.crf.ser,Republican Party,ORGANIZATION,1862,9,3
+45041947,423294,english.all.3class.distsim.crf.ser,CBP,ORGANIZATION,4177,11,1
+45041955,423294,english.all.3class.distsim.crf.ser,CBP,ORGANIZATION,4177,12,2
+45041963,423294,english.all.3class.distsim.crf.ser,DHS,ORGANIZATION,3480,15,3
+45047469,423298,english.all.3class.distsim.crf.ser,Lakeland Police Department,ORGANIZATION,595911,2,2
+45047477,423298,english.all.3class.distsim.crf.ser,Lakeland Police Department,ORGANIZATION,595911,3,1
+45047510,423298,english.all.3class.distsim.crf.ser,WFLA,ORGANIZATION,22372,13,1
+45047513,423298,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,15,1
+44977534,423133,english.all.3class.distsim.crf.ser,Trump,ORGANIZATION,392,2,1
+44977545,423133,english.all.3class.distsim.crf.ser,Instagram,ORGANIZATION,928,3,1
+44977571,423133,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,6,2
+45152171,423613,english.all.3class.distsim.crf.ser,Navy,ORGANIZATION,5817,4,1
+45152180,423613,english.all.3class.distsim.crf.ser,Pentagon,ORGANIZATION,1782,5,1
+45152199,423613,english.all.3class.distsim.crf.ser,U.N.,ORGANIZATION,189,7,2
+45152215,423613,english.all.3class.distsim.crf.ser,Abraham Lincoln Carrier Strike Group,ORGANIZATION,788938,10,2
+45152221,423613,english.all.3class.distsim.crf.ser,National Defense Strategy Commission,ORGANIZATION,208983,12,1
+45152224,423613,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,14,1
+45152225,423613,english.all.3class.distsim.crf.ser,Navy,ORGANIZATION,5817,14,1
+45152228,423613,english.all.3class.distsim.crf.ser,Navy,ORGANIZATION,5817,15,1
+45152229,423613,english.all.3class.distsim.crf.ser,Navy,ORGANIZATION,5817,15,2
+45152248,423613,english.all.3class.distsim.crf.ser,Navy,ORGANIZATION,5817,18,1
+45152256,423613,english.all.3class.distsim.crf.ser,U.S. Navy,ORGANIZATION,30582,19,1
+45152259,423613,english.all.3class.distsim.crf.ser,U.S. Navy,ORGANIZATION,30582,20,2
+45383580,424541,english.all.3class.distsim.crf.ser,Playboy,ORGANIZATION,2893,1,1
+45383592,424541,english.all.3class.distsim.crf.ser,Waves for Water,ORGANIZATION,888287,2,2
+45383600,424541,english.all.3class.distsim.crf.ser,Playboy,ORGANIZATION,2893,3,2
+45383605,424541,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,4,1
+44983383,423137,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,1,1
+44983386,423137,english.all.3class.distsim.crf.ser,U.S. Cyber Command,ORGANIZATION,75204,2,1
+44983387,423137,english.all.3class.distsim.crf.ser,U.S. Navy,ORGANIZATION,30582,2,1
+44983392,423137,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,3,1
+44983402,423137,english.all.3class.distsim.crf.ser,White House,ORGANIZATION,1061,4,3
+44983403,423137,english.all.3class.distsim.crf.ser,Pentagon,ORGANIZATION,1782,4,3
+44983421,423137,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,8,1
+44983429,423137,english.all.3class.distsim.crf.ser,State,ORGANIZATION,332,10,1
+44983452,423137,english.all.3class.distsim.crf.ser,Pentagon,ORGANIZATION,1782,13,1
+44983455,423137,english.all.3class.distsim.crf.ser,Army,ORGANIZATION,1,13,2
+44983459,423137,english.all.3class.distsim.crf.ser,Air Force,ORGANIZATION,3667,14,1
+44982843,423136,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,10,1
+45044540,423296,english.all.3class.distsim.crf.ser,USC Information Sciences Institute,ORGANIZATION,883323,2,1
+45044543,423296,english.all.3class.distsim.crf.ser,House,ORGANIZATION,388,3,1
+45044546,423296,english.all.3class.distsim.crf.ser,USC,ORGANIZATION,883323,4,2
+44989706,423142,english.all.3class.distsim.crf.ser,White House,ORGANIZATION,1061,1,1
+44989708,423142,english.all.3class.distsim.crf.ser,House Oversight Committee,ORGANIZATION,53531,1,1
+44989719,423142,english.all.3class.distsim.crf.ser,White House,ORGANIZATION,1061,3,1
+44989720,423142,english.all.3class.distsim.crf.ser,Office of Special Counsel,ORGANIZATION,107792,3,1
+44989721,423142,english.all.3class.distsim.crf.ser,OSC,ORGANIZATION,107792,3,1
+44989724,423142,english.all.3class.distsim.crf.ser,OSC,ORGANIZATION,107792,3,1
+44989726,423142,english.all.3class.distsim.crf.ser,Trump Administration,ORGANIZATION,3474,3,1
+44989727,423142,english.all.3class.distsim.crf.ser,The Committee,ORGANIZATION,58035,3,2
+44989731,423142,english.all.3class.distsim.crf.ser,OSC,ORGANIZATION,107792,4,1
+44989736,423142,english.all.3class.distsim.crf.ser,Fox & Friends,ORGANIZATION,2054,5,1
+44989738,423142,english.all.3class.distsim.crf.ser,White House,ORGANIZATION,1061,5,1
+44989742,423142,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,6,1
+44989744,423142,english.all.3class.distsim.crf.ser,Office of Special Counsel,ORGANIZATION,107792,8,5
+44989748,423142,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,9,1
+44987603,423140,english.all.3class.distsim.crf.ser,Macomb Daily,ORGANIZATION,882560,3,1
+44987612,423140,english.all.3class.distsim.crf.ser,Macomb Daily,ORGANIZATION,882560,5,2
+44987614,423140,english.all.3class.distsim.crf.ser,St. Clair Shores Police Department,ORGANIZATION,201828,6,1
+44987620,423140,english.all.3class.distsim.crf.ser,Associated Press,ORGANIZATION,320,9,1
+45035613,423290,english.all.3class.distsim.crf.ser,Customs Enforcement,ORGANIZATION,9595,1,1
+45035620,423290,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,2,1
+45035625,423290,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,2,2
+45035631,423290,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,3,1
+45035632,423290,english.all.3class.distsim.crf.ser,Homeland Security,ORGANIZATION,410,3,1
+45035634,423290,english.all.3class.distsim.crf.ser,DHS,ORGANIZATION,410,3,1
+45035637,423290,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,4,1
+45035647,423290,english.all.3class.distsim.crf.ser,The Washington Post,ORGANIZATION,1339,5,1
+45035649,423290,english.all.3class.distsim.crf.ser,Post,ORGANIZATION,1339,5,2
+45035661,423290,english.all.3class.distsim.crf.ser,DHS,ORGANIZATION,410,6,1
+45035664,423290,english.all.3class.distsim.crf.ser,Homeland Security,ORGANIZATION,410,7,1
+45035669,423290,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,9,1
+45035674,423290,english.all.3class.distsim.crf.ser,DHS,ORGANIZATION,410,10,1
+45035675,423290,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,10,1
+45035678,423290,english.all.3class.distsim.crf.ser,The Washington Examiner,ORGANIZATION,9215,11,1
+45035683,423290,english.all.3class.distsim.crf.ser,DHS,ORGANIZATION,410,12,1
+45035684,423290,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,12,1
+45035689,423290,english.all.3class.distsim.crf.ser,Post,ORGANIZATION,1339,13,1
+45035691,423290,english.all.3class.distsim.crf.ser,Customs Enforcement,ORGANIZATION,9595,13,2
+45035704,423290,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,17,1
+45035707,423290,english.all.3class.distsim.crf.ser,Congress,ORGANIZATION,387,17,1
+45035710,423290,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,19,1
+44986712,423139,english.all.3class.distsim.crf.ser,SpaceX,ORGANIZATION,5447,2,1
+44986720,423139,english.all.3class.distsim.crf.ser,SpaceX,ORGANIZATION,5447,7,1
+44981463,423135,english.all.3class.distsim.crf.ser,MSNBC,ORGANIZATION,2878,1,1
+44981466,423135,english.all.3class.distsim.crf.ser,NBC News Democratic,ORGANIZATION,882474,1,1
+44981489,423135,english.all.3class.distsim.crf.ser,MSNBC,ORGANIZATION,2878,4,1
+44981499,423135,english.all.3class.distsim.crf.ser,NBC,ORGANIZATION,2878,7,1
+44981500,423135,english.all.3class.distsim.crf.ser,DNC,ORGANIZATION,39636,7,1
+44981523,423135,english.all.3class.distsim.crf.ser,MSNBC,ORGANIZATION,2878,11,1
+44981526,423135,english.all.3class.distsim.crf.ser,Fox News,ORGANIZATION,1860,13,1

@@ -1,0 +1,653 @@
+id,article_id,model,name,type,entity_id,paragraph,sentence
+27303856,331842,english.all.3class.distsim.crf.ser,Broadway,LOCATION,2551,1,1
+27303860,331842,english.all.3class.distsim.crf.ser,Oklahoma,LOCATION,1332,1,2
+27303861,331842,english.all.3class.distsim.crf.ser,Square Theater,LOCATION,546338,1,2
+27303865,331842,english.all.3class.distsim.crf.ser,United States of America,LOCATION,2882,5,2
+27303869,331842,english.all.3class.distsim.crf.ser,Broadway,LOCATION,2551,6,1
+27303871,331842,english.all.3class.distsim.crf.ser,Oklahoma,LOCATION,1332,6,3
+27303881,331842,english.all.3class.distsim.crf.ser,London,LOCATION,217,8,4
+27303884,331842,english.all.3class.distsim.crf.ser,Oklahoma,LOCATION,1332,9,2
+27303923,331842,english.all.3class.distsim.crf.ser,Laurey,LOCATION,258695,14,1
+27303928,331842,english.all.3class.distsim.crf.ser,Oklahoma,LOCATION,1332,15,1
+27303946,331842,english.all.3class.distsim.crf.ser,Laurey,LOCATION,258695,17,2
+27303957,331842,english.all.3class.distsim.crf.ser,Brooklyn,LOCATION,3445,20,3
+15304651,305370,english.all.3class.distsim.crf.ser,Broadway,LOCATION,2551,4,3
+15304652,305370,english.all.3class.distsim.crf.ser,Helen Hayes Theater,LOCATION,236247,4,3
+15304654,305370,english.all.3class.distsim.crf.ser,Broadway,LOCATION,2551,5,3
+15304661,305370,english.all.3class.distsim.crf.ser,Broadway,LOCATION,2551,6,2
+15304662,305370,english.all.3class.distsim.crf.ser,New York Theater Workshop,LOCATION,46712,6,2
+15304663,305370,english.all.3class.distsim.crf.ser,Broadway,LOCATION,2551,6,3
+45289212,424080,english.all.3class.distsim.crf.ser,Capitol Hill,LOCATION,389,2,1
+45289226,424080,english.all.3class.distsim.crf.ser,D-Calif.,LOCATION,8033,3,1
+45289235,424080,english.all.3class.distsim.crf.ser,R-Ala.,LOCATION,44065,4,1
+45289238,424080,english.all.3class.distsim.crf.ser,R-Calif.,LOCATION,4000,4,2
+45289250,424080,english.all.3class.distsim.crf.ser,R-Ky.,LOCATION,27562,10,2
+45289257,424080,english.all.3class.distsim.crf.ser,Washington,LOCATION,165,12,3
+45289263,424080,english.all.3class.distsim.crf.ser,White House,LOCATION,1063,13,2
+45289270,424080,english.all.3class.distsim.crf.ser,Washington,LOCATION,165,14,2
+45289297,424080,english.all.3class.distsim.crf.ser,South Carolina,LOCATION,2632,22,2
+45289310,424080,english.all.3class.distsim.crf.ser,D-Md,LOCATION,79005,24,2
+45289320,424080,english.all.3class.distsim.crf.ser,White House,LOCATION,1063,25,2
+45289347,424080,english.all.3class.distsim.crf.ser,D-Ky.,LOCATION,72031,31,4
+45289383,424080,english.all.3class.distsim.crf.ser,White House,LOCATION,1063,39,3
+45289384,424080,english.all.3class.distsim.crf.ser,Pentagon,LOCATION,3985,39,3
+45289388,424080,english.all.3class.distsim.crf.ser,Washington,LOCATION,165,40,3
+22317036,283956,english.all.3class.distsim.crf.ser,Brooklyn,LOCATION,3445,5,2
+22317037,283956,english.all.3class.distsim.crf.ser,Dobbs Ferry,LOCATION,255432,5,2
+22317038,283956,english.all.3class.distsim.crf.ser,N.Y.,LOCATION,1328,5,2
+22317072,283956,english.all.3class.distsim.crf.ser,Arizona,LOCATION,394,17,2
+31202465,320418,english.all.3class.distsim.crf.ser,London,LOCATION,217,7,1
+31202473,320418,english.all.3class.distsim.crf.ser,Broadway,LOCATION,2551,7,3
+31202480,320418,english.all.3class.distsim.crf.ser,New York,LOCATION,1328,8,2
+31202504,320418,english.all.3class.distsim.crf.ser,Goneril,LOCATION,668883,12,1
+31202581,320418,english.all.3class.distsim.crf.ser,New York,LOCATION,1328,18,1
+31202601,320418,english.all.3class.distsim.crf.ser,Broadway,LOCATION,2551,19,1
+31202649,320418,english.all.3class.distsim.crf.ser,Cornwall,LOCATION,8273,20,4
+31202725,320418,english.all.3class.distsim.crf.ser,Gloucester,LOCATION,130722,23,2
+31202759,320418,english.all.3class.distsim.crf.ser,Goneril,LOCATION,668883,24,1
+45388062,424547,english.all.3class.distsim.crf.ser,Britain,LOCATION,93,4,1
+45388064,424547,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,5,1
+45388074,424547,english.all.3class.distsim.crf.ser,Westminster,LOCATION,11705,7,1
+45345089,424388,english.all.3class.distsim.crf.ser,SAN DIEGO,LOCATION,9518,1,1
+45345159,424388,english.all.3class.distsim.crf.ser,Iraq,LOCATION,123,9,1
+45389077,424548,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,1,1
+45389085,424548,english.all.3class.distsim.crf.ser,Windsor Castle,LOCATION,33508,4,3
+45389093,424548,english.all.3class.distsim.crf.ser,Oxfordshire,LOCATION,27406,6,2
+45389098,424548,english.all.3class.distsim.crf.ser,UK,LOCATION,37,11,1
+45389099,424548,english.all.3class.distsim.crf.ser,Buckingham Palace,LOCATION,1867,11,2
+45389113,424548,english.all.3class.distsim.crf.ser,Africa,LOCATION,2074,15,1
+45389114,424548,english.all.3class.distsim.crf.ser,Caribbean,LOCATION,3314,15,1
+45389116,424548,english.all.3class.distsim.crf.ser,Israel,LOCATION,1444,15,1
+45389117,424548,english.all.3class.distsim.crf.ser,Jordan,LOCATION,5754,15,1
+45346860,424389,english.all.3class.distsim.crf.ser,New Jersey,LOCATION,3432,1,1
+45346861,424389,english.all.3class.distsim.crf.ser,Camden,LOCATION,54496,1,1
+45346875,424389,english.all.3class.distsim.crf.ser,Camden County,LOCATION,59223,5,1
+45349385,424392,english.all.3class.distsim.crf.ser,New York,LOCATION,1328,3,1
+45349391,424392,english.all.3class.distsim.crf.ser,San Francisco,LOCATION,7127,5,1
+45349396,424392,english.all.3class.distsim.crf.ser,San Francisco,LOCATION,7127,6,1
+45349420,424392,english.all.3class.distsim.crf.ser,Obama,LOCATION,7027,11,1
+45348088,424390,english.all.3class.distsim.crf.ser,Fresno,LOCATION,9520,1,1
+45348096,424390,english.all.3class.distsim.crf.ser,Fresno,LOCATION,9520,3,1
+45348102,424390,english.all.3class.distsim.crf.ser,Fresno,LOCATION,9520,6,1
+45350343,424393,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,1,1
+45350348,424393,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,2,1
+45350358,424393,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,4,1
+45350360,424393,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,4,2
+45350361,424393,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,4,2
+45350366,424393,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,6,1
+45349008,424391,english.all.3class.distsim.crf.ser,Illinois,LOCATION,2460,1,1
+45349009,424391,english.all.3class.distsim.crf.ser,Chicago,LOCATION,2781,1,1
+45349016,424391,english.all.3class.distsim.crf.ser,Aurora,LOCATION,2198,2,1
+45349017,424391,english.all.3class.distsim.crf.ser,Ill.,LOCATION,2460,2,1
+45349021,424391,english.all.3class.distsim.crf.ser,Chicago,LOCATION,2781,3,3
+45349025,424391,english.all.3class.distsim.crf.ser,Kane County Jail,LOCATION,887890,4,1
+45354731,424397,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,1,1
+45354733,424397,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,1,1
+45354742,424397,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,2,1
+45354743,424397,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,2,1
+45354744,424397,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,2,1
+45354745,424397,english.all.3class.distsim.crf.ser,Washington,LOCATION,165,2,1
+45354746,424397,english.all.3class.distsim.crf.ser,Strait of Hormuz,LOCATION,162764,2,1
+45354747,424397,english.all.3class.distsim.crf.ser,Tehran,LOCATION,2398,2,2
+45354764,424397,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,5,1
+45354766,424397,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,5,1
+45354797,424397,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,8,1
+45354799,424397,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,8,1
+45318239,424195,english.all.3class.distsim.crf.ser,Halesowen,LOCATION,404882,5,1
+45318241,424195,english.all.3class.distsim.crf.ser,England,LOCATION,228,5,1
+45318254,424195,english.all.3class.distsim.crf.ser,Dudley,LOCATION,129669,15,1
+45363422,424502,english.all.3class.distsim.crf.ser,England,LOCATION,228,7,1
+45363423,424502,english.all.3class.distsim.crf.ser,Northern Ireland,LOCATION,1095,7,1
+45363427,424502,english.all.3class.distsim.crf.ser,Heathrow Airport,LOCATION,79036,9,1
+45365224,424505,english.all.3class.distsim.crf.ser,Chicago,LOCATION,2781,5,1
+45365250,424505,english.all.3class.distsim.crf.ser,US,LOCATION,150,21,1
+45365259,424505,english.all.3class.distsim.crf.ser,Illinois,LOCATION,2460,24,1
+45365267,424505,english.all.3class.distsim.crf.ser,Chicago,LOCATION,2781,26,1
+45365273,424505,english.all.3class.distsim.crf.ser,Chicago,LOCATION,2781,28,1
+45365276,424505,english.all.3class.distsim.crf.ser,Chicago,LOCATION,2781,30,1
+45365289,424505,english.all.3class.distsim.crf.ser,Chicago,LOCATION,2781,33,1
+45331312,424348,english.all.3class.distsim.crf.ser,UK,LOCATION,37,3,1
+45331329,424348,english.all.3class.distsim.crf.ser,Britain,LOCATION,93,8,1
+45331330,424348,english.all.3class.distsim.crf.ser,Britain,LOCATION,93,8,1
+45331336,424348,english.all.3class.distsim.crf.ser,US,LOCATION,150,9,1
+45331340,424348,english.all.3class.distsim.crf.ser,UK,LOCATION,37,10,1
+45331347,424348,english.all.3class.distsim.crf.ser,US,LOCATION,150,11,1
+45331349,424348,english.all.3class.distsim.crf.ser,UK,LOCATION,37,11,1
+45331352,424348,english.all.3class.distsim.crf.ser,UK,LOCATION,37,12,1
+45332336,424349,english.all.3class.distsim.crf.ser,Manchester,LOCATION,23,2,1
+45332346,424349,english.all.3class.distsim.crf.ser,Manchester,LOCATION,23,16,1
+45332356,424349,english.all.3class.distsim.crf.ser,Manchester,LOCATION,23,22,1
+45342765,424355,english.all.3class.distsim.crf.ser,London,LOCATION,217,1,2
+45342783,424355,english.all.3class.distsim.crf.ser,UK,LOCATION,37,2,1
+45342785,424355,english.all.3class.distsim.crf.ser,EU,LOCATION,421,2,1
+45342811,424355,english.all.3class.distsim.crf.ser,Windsor,LOCATION,13812,6,1
+45342835,424355,english.all.3class.distsim.crf.ser,England,LOCATION,228,8,4
+45342837,424355,english.all.3class.distsim.crf.ser,Northern Ireland,LOCATION,1095,8,4
+45342847,424355,english.all.3class.distsim.crf.ser,Bergen,LOCATION,138001,10,1
+45342849,424355,english.all.3class.distsim.crf.ser,Norway,LOCATION,108,10,2
+45342876,424355,english.all.3class.distsim.crf.ser,Essex,LOCATION,1695,16,1
+45342878,424355,english.all.3class.distsim.crf.ser,Manchester,LOCATION,23,17,1
+45342883,424355,english.all.3class.distsim.crf.ser,Versailles,LOCATION,372,20,1
+45342884,424355,english.all.3class.distsim.crf.ser,Germany,LOCATION,69,20,1
+45342886,424355,english.all.3class.distsim.crf.ser,Atlantic,LOCATION,2780,23,1
+45342890,424355,english.all.3class.distsim.crf.ser,India,LOCATION,1091,25,1
+45316005,424191,english.all.3class.distsim.crf.ser,Essex,LOCATION,1695,2,1
+45316026,424191,english.all.3class.distsim.crf.ser,Braintree,LOCATION,333961,3,1
+45316028,424191,english.all.3class.distsim.crf.ser,Chelmsford,LOCATION,1697,3,1
+45316054,424191,english.all.3class.distsim.crf.ser,Basildon,LOCATION,15826,7,1
+45316056,424191,english.all.3class.distsim.crf.ser,Southend,LOCATION,129811,7,1
+45316058,424191,english.all.3class.distsim.crf.ser,Braintree,LOCATION,333961,7,1
+45316080,424191,english.all.3class.distsim.crf.ser,Essex,LOCATION,1695,10,1
+45316082,424191,english.all.3class.distsim.crf.ser,Public Health England,LOCATION,16490,10,1
+45261451,423886,english.all.3class.distsim.crf.ser,UK,LOCATION,37,1,1
+45261455,423886,english.all.3class.distsim.crf.ser,UK,LOCATION,37,2,1
+45261463,423886,english.all.3class.distsim.crf.ser,Derby,LOCATION,16584,6,1
+45261464,423886,english.all.3class.distsim.crf.ser,Cardiff,LOCATION,24,6,1
+45261465,423886,english.all.3class.distsim.crf.ser,Birmingham,LOCATION,22,6,2
+45261466,423886,english.all.3class.distsim.crf.ser,Liverpool,LOCATION,7866,6,2
+45261467,423886,english.all.3class.distsim.crf.ser,Croydon,LOCATION,48670,6,2
+45261468,423886,english.all.3class.distsim.crf.ser,Wakefield,LOCATION,84989,6,2
+45261469,423886,english.all.3class.distsim.crf.ser,Glasgow,LOCATION,25,6,2
+45261471,423886,english.all.3class.distsim.crf.ser,UK,LOCATION,37,7,1
+45261475,423886,english.all.3class.distsim.crf.ser,Middle East,LOCATION,582,8,1
+45261483,423886,english.all.3class.distsim.crf.ser,UK,LOCATION,37,18,1
+45261485,423886,english.all.3class.distsim.crf.ser,Ipswich,LOCATION,38316,19,1
+45261487,423886,english.all.3class.distsim.crf.ser,UK,LOCATION,37,20,1
+45353745,424396,english.all.3class.distsim.crf.ser,South Carolina,LOCATION,2632,1,1
+45353748,424396,english.all.3class.distsim.crf.ser,Oconee County,LOCATION,887939,2,1
+45353754,424396,english.all.3class.distsim.crf.ser,Seneca,LOCATION,66647,3,1
+45353755,424396,english.all.3class.distsim.crf.ser,S.C.,LOCATION,2632,3,1
+45352741,424395,english.all.3class.distsim.crf.ser,Uruguay,LOCATION,13939,1,1
+45352742,424395,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,1,1
+45352749,424395,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,2,1
+45352750,424395,english.all.3class.distsim.crf.ser,South America,LOCATION,9268,2,1
+45352751,424395,english.all.3class.distsim.crf.ser,UK,LOCATION,37,2,1
+45352758,424395,english.all.3class.distsim.crf.ser,Uruguay,LOCATION,13939,3,1
+45352761,424395,english.all.3class.distsim.crf.ser,Central Prison,LOCATION,887916,3,1
+45352762,424395,english.all.3class.distsim.crf.ser,Uruguay,LOCATION,13939,3,1
+45352763,424395,english.all.3class.distsim.crf.ser,Montevideo,LOCATION,142711,3,1
+45352771,424395,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,4,1
+45352774,424395,english.all.3class.distsim.crf.ser,Montevideo,LOCATION,142711,4,1
+45352781,424395,english.all.3class.distsim.crf.ser,Montevideo,LOCATION,142711,5,1
+45352782,424395,english.all.3class.distsim.crf.ser,Uruguay,LOCATION,13939,5,1
+45352788,424395,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,6,1
+45352789,424395,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,6,1
+45322598,424238,english.all.3class.distsim.crf.ser,Ohio,LOCATION,2963,1,1
+45322599,424238,english.all.3class.distsim.crf.ser,Yosemite National Park,LOCATION,48184,1,1
+45322605,424238,english.all.3class.distsim.crf.ser,Yosemite,LOCATION,48184,3,1
+45323254,424239,english.all.3class.distsim.crf.ser,Florida,LOCATION,897,1,1
+45323273,424239,english.all.3class.distsim.crf.ser,Palm Beach County,LOCATION,11463,4,1
+45323276,424239,english.all.3class.distsim.crf.ser,Jupiter,LOCATION,5578,4,1
+45323278,424239,english.all.3class.distsim.crf.ser,Fla.,LOCATION,8242,4,1
+45351547,424394,english.all.3class.distsim.crf.ser,South Bend,LOCATION,35009,3,1
+45351548,424394,english.all.3class.distsim.crf.ser,Ind.,LOCATION,29019,3,1
+45351563,424394,english.all.3class.distsim.crf.ser,Biden-Obama,LOCATION,875254,6,1
+45351573,424394,english.all.3class.distsim.crf.ser,D-Mass.,LOCATION,14305,7,1
+45351575,424394,english.all.3class.distsim.crf.ser,D-N.J.,LOCATION,14312,7,1
+45321333,424237,english.all.3class.distsim.crf.ser,Texas,LOCATION,2605,1,1
+45321353,424237,english.all.3class.distsim.crf.ser,Dallas County,LOCATION,194930,4,1
+45321367,424237,english.all.3class.distsim.crf.ser,Dallas County,LOCATION,194930,5,1
+45286554,424079,english.all.3class.distsim.crf.ser,Russia,LOCATION,963,1,1
+45286559,424079,english.all.3class.distsim.crf.ser,Connecticut,LOCATION,2596,2,1
+45286572,424079,english.all.3class.distsim.crf.ser,R-Ohio,LOCATION,59616,5,1
+45286574,424079,english.all.3class.distsim.crf.ser,North Carolina,LOCATION,4141,5,1
+45286580,424079,english.all.3class.distsim.crf.ser,United States,LOCATION,150,6,1
+45286581,424079,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,6,1
+45286596,424079,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,9,1
+45286615,424079,english.all.3class.distsim.crf.ser,Russia,LOCATION,963,11,1
+45286622,424079,english.all.3class.distsim.crf.ser,D-N.Y.,LOCATION,10339,12,1
+45286623,424079,english.all.3class.distsim.crf.ser,Durham,LOCATION,7553,12,1
+45293636,424081,english.all.3class.distsim.crf.ser,Germany,LOCATION,69,1,1
+45293639,424081,english.all.3class.distsim.crf.ser,Germany,LOCATION,69,2,1
+45293640,424081,english.all.3class.distsim.crf.ser,Limburg-Ahlbach,LOCATION,887119,2,1
+45324812,424240,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,8,1
+45324820,424240,english.all.3class.distsim.crf.ser,Europe,LOCATION,160,10,3
+45324824,424240,english.all.3class.distsim.crf.ser,Virginia,LOCATION,2466,11,1
+45295117,424082,english.all.3class.distsim.crf.ser,R-Calif.,LOCATION,4000,2,1
+45295120,424082,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,2,1
+45295123,424082,english.all.3class.distsim.crf.ser,Russia,LOCATION,963,2,1
+45295140,424082,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,4,2
+45295141,424082,english.all.3class.distsim.crf.ser,Connecticut,LOCATION,2596,4,2
+45295175,424082,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,8,1
+45295177,424082,english.all.3class.distsim.crf.ser,United States,LOCATION,150,9,1
+45298734,424085,english.all.3class.distsim.crf.ser,Connecticut,LOCATION,2596,1,1
+45298745,424085,english.all.3class.distsim.crf.ser,Hollywood,LOCATION,340,3,1
+45298757,424085,english.all.3class.distsim.crf.ser,New Canaan,LOCATION,10147,6,1
+45298761,424085,english.all.3class.distsim.crf.ser,New Canaan,LOCATION,10147,7,1
+45298767,424085,english.all.3class.distsim.crf.ser,New York,LOCATION,1328,8,2
+45298770,424085,english.all.3class.distsim.crf.ser,New Cannan,LOCATION,887160,9,1
+45298777,424085,english.all.3class.distsim.crf.ser,Greece,LOCATION,5400,10,2
+45298779,424085,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,10,2
+45298804,424085,english.all.3class.distsim.crf.ser,New Canaan,LOCATION,10147,15,1
+45297603,424084,english.all.3class.distsim.crf.ser,Bakersfield,LOCATION,30170,1,1
+45297604,424084,english.all.3class.distsim.crf.ser,Calif.,LOCATION,988,1,1
+45297609,424084,english.all.3class.distsim.crf.ser,South Bakersfield,LOCATION,887156,2,1
+45296779,424083,english.all.3class.distsim.crf.ser,New York,LOCATION,1328,2,1
+45301816,424087,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,1,1
+45301821,424087,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,2,1
+45301822,424087,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,2,1
+45301828,424087,english.all.3class.distsim.crf.ser,Iraq,LOCATION,123,4,1
+45301837,424087,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,7,1
+45265478,423924,english.all.3class.distsim.crf.ser,Nebraska,LOCATION,2645,1,1
+45265484,423924,english.all.3class.distsim.crf.ser,Aubrey Trail,LOCATION,886854,2,1
+45265486,423924,english.all.3class.distsim.crf.ser,Wilber,LOCATION,886855,2,1
+45265487,423924,english.all.3class.distsim.crf.ser,Lincoln,LOCATION,20303,2,1
+45265494,423924,english.all.3class.distsim.crf.ser,Loofe,LOCATION,886859,8,1
+45271625,423930,english.all.3class.distsim.crf.ser,PARIS,LOCATION,26,1,1
+45271627,423930,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,1,1
+45271628,423930,english.all.3class.distsim.crf.ser,Canada,LOCATION,2451,1,1
+45271635,423930,english.all.3class.distsim.crf.ser,Canada,LOCATION,2451,2,2
+45271644,423930,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,3,1
+45271645,423930,english.all.3class.distsim.crf.ser,Germany,LOCATION,69,3,2
+45271646,423930,english.all.3class.distsim.crf.ser,Rennes,LOCATION,48168,3,2
+45271647,423930,english.all.3class.distsim.crf.ser,Germany,LOCATION,69,3,3
+45271648,423930,english.all.3class.distsim.crf.ser,Nigeria,LOCATION,497,3,3
+45271652,423930,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,4,1
+45271653,423930,english.all.3class.distsim.crf.ser,Germany,LOCATION,69,4,1
+45271654,423930,english.all.3class.distsim.crf.ser,Canada,LOCATION,2451,4,1
+45271669,423930,english.all.3class.distsim.crf.ser,Canada,LOCATION,2451,6,1
+45271670,423930,english.all.3class.distsim.crf.ser,Netherlands,LOCATION,2416,6,1
+45271671,423930,english.all.3class.distsim.crf.ser,Brazil,LOCATION,194,6,1
+45271674,423930,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,6,2
+45271677,423930,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,7,1
+45271678,423930,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,7,1
+45271680,423930,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,8,1
+45271683,423930,english.all.3class.distsim.crf.ser,Canada,LOCATION,2451,9,1
+45271684,423930,english.all.3class.distsim.crf.ser,England,LOCATION,228,9,1
+45272318,423931,english.all.3class.distsim.crf.ser,South Bend,LOCATION,35009,3,1
+45272329,423931,english.all.3class.distsim.crf.ser,South Carolina,LOCATION,2632,5,1
+45272332,423931,english.all.3class.distsim.crf.ser,South Carolina,LOCATION,2632,6,1
+45269469,423928,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,1,1
+45269470,423928,english.all.3class.distsim.crf.ser,Central America,LOCATION,3422,1,1
+45269474,423928,english.all.3class.distsim.crf.ser,Mexico,LOCATION,396,2,1
+45269476,423928,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,2,1
+45269484,423928,english.all.3class.distsim.crf.ser,Caribbean,LOCATION,3314,3,1
+45269485,423928,english.all.3class.distsim.crf.ser,Cancun,LOCATION,19179,3,1
+45269488,423928,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,3,1
+45269489,423928,english.all.3class.distsim.crf.ser,Mexico,LOCATION,396,3,2
+45269490,423928,english.all.3class.distsim.crf.ser,United States,LOCATION,150,3,2
+45269501,423928,english.all.3class.distsim.crf.ser,Nuevo Laredo,LOCATION,205687,5,1
+45269502,423928,english.all.3class.distsim.crf.ser,United States,LOCATION,150,5,1
+45269503,423928,english.all.3class.distsim.crf.ser,Washington,LOCATION,165,5,2
+45269504,423928,english.all.3class.distsim.crf.ser,Mexico City,LOCATION,11167,5,2
+45269505,423928,english.all.3class.distsim.crf.ser,Mexico,LOCATION,11167,5,2
+45269506,423928,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,5,2
+45269509,423928,english.all.3class.distsim.crf.ser,Nuevo Laredo,LOCATION,205687,6,1
+45269510,423928,english.all.3class.distsim.crf.ser,Mexico,LOCATION,11167,6,1
+45269514,423928,english.all.3class.distsim.crf.ser,California-Mexico,LOCATION,117742,7,1
+45269515,423928,english.all.3class.distsim.crf.ser,Ciudad Juarez-El Paso,LOCATION,886938,7,1
+45269516,423928,english.all.3class.distsim.crf.ser,Texas,LOCATION,2605,7,1
+45269520,423928,english.all.3class.distsim.crf.ser,Nuevo Laredo,LOCATION,205687,8,1
+45269528,423928,english.all.3class.distsim.crf.ser,Nuevo Laredo,LOCATION,205687,9,1
+45269536,423928,english.all.3class.distsim.crf.ser,Nuevo Laredo,LOCATION,205687,10,1
+45269537,423928,english.all.3class.distsim.crf.ser,Roma,LOCATION,30300,10,1
+45269538,423928,english.all.3class.distsim.crf.ser,Texas,LOCATION,2605,10,1
+45269540,423928,english.all.3class.distsim.crf.ser,Coahuila,LOCATION,68186,10,1
+45269542,423928,english.all.3class.distsim.crf.ser,Mexico,LOCATION,117742,11,1
+45270694,423929,english.all.3class.distsim.crf.ser,Salt Lake City,LOCATION,9900,1,1
+45270696,423929,english.all.3class.distsim.crf.ser,Utah,LOCATION,2643,1,1
+45270699,423929,english.all.3class.distsim.crf.ser,Salt Lake City,LOCATION,9900,2,1
+45270709,423929,english.all.3class.distsim.crf.ser,Salt Lake City,LOCATION,9900,4,1
+45270710,423929,english.all.3class.distsim.crf.ser,Los Angeles,LOCATION,1319,4,1
+45270713,423929,english.all.3class.distsim.crf.ser,Hatch Park,LOCATION,886958,4,2
+45270714,423929,english.all.3class.distsim.crf.ser,North Salt Lake,LOCATION,877532,4,2
+45270730,423929,english.all.3class.distsim.crf.ser,Hatch Park,LOCATION,886958,12,1
+45270751,423929,english.all.3class.distsim.crf.ser,Salt Lake City,LOCATION,9900,16,2
+45274883,423933,english.all.3class.distsim.crf.ser,California,LOCATION,988,2,1
+45274887,423933,english.all.3class.distsim.crf.ser,America,LOCATION,697,3,2
+45274898,423933,english.all.3class.distsim.crf.ser,America,LOCATION,697,5,1
+45274902,423933,english.all.3class.distsim.crf.ser,California,LOCATION,988,6,1
+45274903,423933,english.all.3class.distsim.crf.ser,Placer County,LOCATION,69349,6,1
+45232255,423769,english.all.3class.distsim.crf.ser,R-Texas,LOCATION,19580,1,1
+45232256,423769,english.all.3class.distsim.crf.ser,Tehran,LOCATION,2398,1,1
+45232259,423769,english.all.3class.distsim.crf.ser,Washington Free Beacon,LOCATION,34476,2,1
+45232269,423769,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,3,1
+45232271,423769,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,3,1
+45232274,423769,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,3,2
+45232279,423769,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,4,1
+45232281,423769,english.all.3class.distsim.crf.ser,Strait of Hormuz,LOCATION,162764,4,1
+45232282,423769,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,4,2
+45232291,423769,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,5,1
+45232292,423769,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,5,1
+45232295,423769,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,5,2
+45232302,423769,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,6,1
+45232303,423769,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,6,1
+45232304,423769,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,6,2
+45268745,423927,english.all.3class.distsim.crf.ser,D-NY,LOCATION,57061,1,1
+45268746,423927,english.all.3class.distsim.crf.ser,Capitol Hill,LOCATION,389,1,1
+45268755,423927,english.all.3class.distsim.crf.ser,America,LOCATION,697,3,1
+45273582,423932,english.all.3class.distsim.crf.ser,D-N.Y.,LOCATION,10339,2,1
+45239804,423775,english.all.3class.distsim.crf.ser,Missouri,LOCATION,2675,1,1
+45239808,423775,english.all.3class.distsim.crf.ser,St. Louis,LOCATION,4051,2,1
+45239810,423775,english.all.3class.distsim.crf.ser,St. Louis,LOCATION,4051,2,1
+45239822,423775,english.all.3class.distsim.crf.ser,St. Louis Region,LOCATION,817966,6,1
+45239824,423775,english.all.3class.distsim.crf.ser,Missouri,LOCATION,2675,7,1
+45239835,423775,english.all.3class.distsim.crf.ser,Missouri,LOCATION,2675,10,1
+45239855,423775,english.all.3class.distsim.crf.ser,Missouri,LOCATION,2675,12,1
+45239865,423775,english.all.3class.distsim.crf.ser,Missouri,LOCATION,2675,14,1
+45237489,423773,english.all.3class.distsim.crf.ser,Philadelphia,LOCATION,342,2,1
+45237490,423773,english.all.3class.distsim.crf.ser,Callaway,LOCATION,199203,2,2
+45237497,423773,english.all.3class.distsim.crf.ser,Callaway,LOCATION,199203,3,1
+45237509,423773,english.all.3class.distsim.crf.ser,Wrigley Field,LOCATION,126106,4,1
+45266510,423925,english.all.3class.distsim.crf.ser,Hulu,LOCATION,13299,8,1
+45234947,423771,english.all.3class.distsim.crf.ser,South,LOCATION,8231,10,1
+45238948,423774,english.all.3class.distsim.crf.ser,Reddit,LOCATION,275,4,1
+45238951,423774,english.all.3class.distsim.crf.ser,Reddit,LOCATION,275,5,1
+45238963,423774,english.all.3class.distsim.crf.ser,Zendaya,LOCATION,129971,8,1
+45235409,423772,english.all.3class.distsim.crf.ser,North Carolina,LOCATION,4141,1,1
+45235410,423772,english.all.3class.distsim.crf.ser,Missouri,LOCATION,2675,1,1
+45235411,423772,english.all.3class.distsim.crf.ser,North St. Louis County,LOCATION,825953,1,1
+45235441,423772,english.all.3class.distsim.crf.ser,St. Louis,LOCATION,825953,7,1
+45235443,423772,english.all.3class.distsim.crf.ser,St. Louis,LOCATION,825953,7,2
+45235521,423772,english.all.3class.distsim.crf.ser,North Carolina,LOCATION,4141,22,1
+45153990,423614,english.all.3class.distsim.crf.ser,America,LOCATION,697,2,1
+45154000,423614,english.all.3class.distsim.crf.ser,D-Mass.,LOCATION,14305,8,1
+45154007,423614,english.all.3class.distsim.crf.ser,I-Vt.,LOCATION,3995,9,1
+45154020,423614,english.all.3class.distsim.crf.ser,D-Minn,LOCATION,194451,13,1
+45154022,423614,english.all.3class.distsim.crf.ser,D-N.Y.,LOCATION,10339,13,1
+45154036,423614,english.all.3class.distsim.crf.ser,America,LOCATION,697,16,1
+45241632,423777,english.all.3class.distsim.crf.ser,New Hampshire,LOCATION,9171,1,1
+45384645,424543,english.all.3class.distsim.crf.ser,Cheshunt,LOCATION,32139,3,1
+45384646,424543,english.all.3class.distsim.crf.ser,Hertfordshire,LOCATION,23695,3,1
+45384647,424543,english.all.3class.distsim.crf.ser,England,LOCATION,228,3,1
+45384673,424543,english.all.3class.distsim.crf.ser,Texas,LOCATION,2605,11,1
+45384675,424543,english.all.3class.distsim.crf.ser,Cheshunt,LOCATION,32139,11,1
+45384691,424543,english.all.3class.distsim.crf.ser,California,LOCATION,988,16,2
+45384702,424543,english.all.3class.distsim.crf.ser,Paris,LOCATION,26,19,1
+45384703,424543,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,19,2
+45242375,423778,english.all.3class.distsim.crf.ser,New Jersey,LOCATION,3432,1,1
+45242377,423778,english.all.3class.distsim.crf.ser,Brigantine,LOCATION,621653,2,1
+45242382,423778,english.all.3class.distsim.crf.ser,New Jersey,LOCATION,3432,5,1
+45242383,423778,english.all.3class.distsim.crf.ser,New Jersey,LOCATION,3432,5,2
+45151166,423612,english.all.3class.distsim.crf.ser,I-Vt.,LOCATION,3995,1,2
+45151168,423612,english.all.3class.distsim.crf.ser,D-Mass.,LOCATION,14305,1,2
+45151192,423612,english.all.3class.distsim.crf.ser,White House,LOCATION,1063,4,3
+45151203,423612,english.all.3class.distsim.crf.ser,Rock Hill,LOCATION,47777,7,1
+45151204,423612,english.all.3class.distsim.crf.ser,S.C.,LOCATION,2632,7,1
+45240979,423776,english.all.3class.distsim.crf.ser,D-Calif.,LOCATION,8033,1,1
+45240986,423776,english.all.3class.distsim.crf.ser,America,LOCATION,697,2,1
+45240995,423776,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,4,1
+45240996,423776,english.all.3class.distsim.crf.ser,United States,LOCATION,150,4,1
+45241006,423776,english.all.3class.distsim.crf.ser,United States,LOCATION,150,7,1
+45158673,423617,english.all.3class.distsim.crf.ser,Philadelphia,LOCATION,342,2,1
+45158681,423617,english.all.3class.distsim.crf.ser,New York,LOCATION,1328,3,1
+45158693,423617,english.all.3class.distsim.crf.ser,America,LOCATION,697,5,1
+45158699,423617,english.all.3class.distsim.crf.ser,U.K.,LOCATION,37,7,1
+45156253,423615,english.all.3class.distsim.crf.ser,Bay Area,LOCATION,9428,6,2
+45157668,423616,english.all.3class.distsim.crf.ser,New York City,LOCATION,517,1,1
+45157710,423616,english.all.3class.distsim.crf.ser,New York City,LOCATION,517,8,1
+45157712,423616,english.all.3class.distsim.crf.ser,Staten Island,LOCATION,4479,8,1
+45157720,423616,english.all.3class.distsim.crf.ser,New York City,LOCATION,517,10,1
+45233205,423770,english.all.3class.distsim.crf.ser,Maryland,LOCATION,9114,1,1
+45233216,423770,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,5,1
+45233228,423770,english.all.3class.distsim.crf.ser,Maryland,LOCATION,9114,7,1
+45233242,423770,english.all.3class.distsim.crf.ser,Grand Bahia Principe La Romana,LOCATION,853689,8,1
+45233244,423770,english.all.3class.distsim.crf.ser,United States,LOCATION,150,8,2
+45233248,423770,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,9,3
+45233262,423770,english.all.3class.distsim.crf.ser,Virginia,LOCATION,2466,11,1
+45233263,423770,english.all.3class.distsim.crf.ser,Pennsylvania,LOCATION,2653,11,1
+45233269,423770,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,12,1
+45233272,423770,english.all.3class.distsim.crf.ser,Dominican Republic,LOCATION,12863,13,1
+45233273,423770,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,13,3
+45233279,423770,english.all.3class.distsim.crf.ser,Dominican Republic,LOCATION,12863,14,1
+45233281,423770,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,15,1
+45233289,423770,english.all.3class.distsim.crf.ser,Glenarden,LOCATION,886398,16,1
+45233290,423770,english.all.3class.distsim.crf.ser,Maryland,LOCATION,9114,16,1
+45233305,423770,english.all.3class.distsim.crf.ser,Caribbean,LOCATION,3314,18,2
+45233307,423770,english.all.3class.distsim.crf.ser,Dominican Republic,LOCATION,12863,18,3
+45233333,423770,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,23,1
+45233344,423770,english.all.3class.distsim.crf.ser,New Jersey,LOCATION,3432,25,1
+45233346,423770,english.all.3class.distsim.crf.ser,New York,LOCATION,1328,25,1
+45233354,423770,english.all.3class.distsim.crf.ser,New York,LOCATION,1328,27,2
+45233363,423770,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,28,2
+45159492,423618,english.all.3class.distsim.crf.ser,China,LOCATION,151,1,1
+45159495,423618,english.all.3class.distsim.crf.ser,Peoria,LOCATION,61209,2,1
+45159496,423618,english.all.3class.distsim.crf.ser,Ill.,LOCATION,2460,2,1
+45159506,423618,english.all.3class.distsim.crf.ser,Illinois,LOCATION,2460,7,1
+45159509,423618,english.all.3class.distsim.crf.ser,Illinois,LOCATION,2460,8,1
+45159510,423618,english.all.3class.distsim.crf.ser,Illinois,LOCATION,2460,8,2
+45159523,423618,english.all.3class.distsim.crf.ser,Stevens Point,LOCATION,96118,10,1
+45159524,423618,english.all.3class.distsim.crf.ser,Wisconsin,LOCATION,2640,10,1
+45159525,423618,english.all.3class.distsim.crf.ser,Wisconsin,LOCATION,2640,10,1
+45159526,423618,english.all.3class.distsim.crf.ser,Champaign,LOCATION,89595,10,2
+45159540,423618,english.all.3class.distsim.crf.ser,Urbana,LOCATION,52530,12,2
+45159541,423618,english.all.3class.distsim.crf.ser,Champaign,LOCATION,89595,12,2
+45159542,423618,english.all.3class.distsim.crf.ser,Chicago,LOCATION,2781,12,2
+45159568,423618,english.all.3class.distsim.crf.ser,Champaign,LOCATION,89595,17,1
+45159573,423618,english.all.3class.distsim.crf.ser,Illinois,LOCATION,2460,18,1
+45159574,423618,english.all.3class.distsim.crf.ser,China,LOCATION,151,18,1
+45110383,423450,english.all.3class.distsim.crf.ser,Australia,LOCATION,163,1,1
+45110384,423450,english.all.3class.distsim.crf.ser,Outback,LOCATION,44620,1,1
+45110394,423450,english.all.3class.distsim.crf.ser,Alice Springs,LOCATION,227545,2,1
+45110395,423450,english.all.3class.distsim.crf.ser,Northern Territory,LOCATION,167064,2,1
+45110396,423450,english.all.3class.distsim.crf.ser,Metro,LOCATION,2233,2,1
+45110397,423450,english.all.3class.distsim.crf.ser,Australia,LOCATION,163,2,1
+45110416,423450,english.all.3class.distsim.crf.ser,Bangkok,LOCATION,5172,6,3
+45110417,423450,english.all.3class.distsim.crf.ser,Thailand,LOCATION,5170,6,3
+45110427,423450,english.all.3class.distsim.crf.ser,Metro,LOCATION,2233,7,3
+45110437,423450,english.all.3class.distsim.crf.ser,Metro,LOCATION,2233,9,1
+45110445,423450,english.all.3class.distsim.crf.ser,Metro,LOCATION,2233,11,2
+45382375,424540,english.all.3class.distsim.crf.ser,Florida,LOCATION,897,3,1
+45382380,424540,english.all.3class.distsim.crf.ser,Instagram,LOCATION,938,4,1
+45382390,424540,english.all.3class.distsim.crf.ser,Florida,LOCATION,897,8,1
+45117364,423455,english.all.3class.distsim.crf.ser,New York City,LOCATION,517,9,1
+45116097,423454,english.all.3class.distsim.crf.ser,Bethlehem,LOCATION,595,1,1
+45116100,423454,english.all.3class.distsim.crf.ser,Bethlehem,LOCATION,595,2,1
+45116105,423454,english.all.3class.distsim.crf.ser,West Bank,LOCATION,9818,3,1
+45116113,423454,english.all.3class.distsim.crf.ser,Nativity,LOCATION,9828,5,1
+45116114,423454,english.all.3class.distsim.crf.ser,Jerusalem,LOCATION,1452,5,1
+45116121,423454,english.all.3class.distsim.crf.ser,West Bank,LOCATION,9818,8,1
+45118828,423457,english.all.3class.distsim.crf.ser,Manchester,LOCATION,23,2,1
+45118829,423457,english.all.3class.distsim.crf.ser,London,LOCATION,217,2,1
+45118830,423457,english.all.3class.distsim.crf.ser,Birmingham,LOCATION,22,2,1
+45118834,423457,english.all.3class.distsim.crf.ser,UK,LOCATION,37,8,1
+45111556,423451,english.all.3class.distsim.crf.ser,Oregon,LOCATION,2203,1,1
+45111558,423451,english.all.3class.distsim.crf.ser,Oregon,LOCATION,2203,2,1
+45111563,423451,english.all.3class.distsim.crf.ser,Oregon,LOCATION,2203,3,1
+45111564,423451,english.all.3class.distsim.crf.ser,Oregon,LOCATION,2203,3,2
+45111578,423451,english.all.3class.distsim.crf.ser,Salem,LOCATION,77142,6,1
+45111579,423451,english.all.3class.distsim.crf.ser,Washington D.C.,LOCATION,483,6,1
+45111582,423451,english.all.3class.distsim.crf.ser,Oregon,LOCATION,2203,7,1
+45111590,423451,english.all.3class.distsim.crf.ser,Nevada,LOCATION,2847,8,1
+45111591,423451,english.all.3class.distsim.crf.ser,Florida,LOCATION,897,8,1
+45111594,423451,english.all.3class.distsim.crf.ser,Oregon,LOCATION,2203,8,1
+45111596,423451,english.all.3class.distsim.crf.ser,Oregon,LOCATION,2203,8,2
+45119448,423458,english.all.3class.distsim.crf.ser,Michigan,LOCATION,2988,1,1
+45119452,423458,english.all.3class.distsim.crf.ser,Beaumont Hospital,LOCATION,753086,2,1
+45119466,423458,english.all.3class.distsim.crf.ser,Livonia,LOCATION,86792,5,1
+45119471,423458,english.all.3class.distsim.crf.ser,Beaumont,LOCATION,753086,6,1
+45119977,423459,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,1,1
+45119983,423459,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,2,1
+45119984,423459,english.all.3class.distsim.crf.ser,Spain,LOCATION,893,2,2
+45119990,423459,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,3,1
+45119993,423459,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,3,2
+45120002,423459,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,4,1
+45120003,423459,english.all.3class.distsim.crf.ser,Thailand,LOCATION,5170,4,1
+45120004,423459,english.all.3class.distsim.crf.ser,Chile,LOCATION,16463,4,1
+45120005,423459,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,4,1
+45120006,423459,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,4,2
+45120007,423459,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,4,3
+45120015,423459,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,6,1
+45120016,423459,english.all.3class.distsim.crf.ser,France,LOCATION,73,6,1
+45120017,423459,english.all.3class.distsim.crf.ser,France,LOCATION,73,6,2
+45120018,423459,english.all.3class.distsim.crf.ser,Brazil,LOCATION,194,6,2
+45113115,423452,english.all.3class.distsim.crf.ser,Connecticut,LOCATION,2596,2,1
+45114423,423453,english.all.3class.distsim.crf.ser,Russia,LOCATION,963,1,1
+45114427,423453,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,2,1
+45114436,423453,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,3,1
+45114443,423453,english.all.3class.distsim.crf.ser,Silicon Valley,LOCATION,4820,4,1
+45114461,423453,english.all.3class.distsim.crf.ser,Brexit,LOCATION,297,6,6
+45114472,423453,english.all.3class.distsim.crf.ser,Brexit,LOCATION,297,7,1
+45114473,423453,english.all.3class.distsim.crf.ser,United Kingdom,LOCATION,37,7,1
+45114474,423453,english.all.3class.distsim.crf.ser,Menlo Park,LOCATION,26208,7,2
+45114475,423453,english.all.3class.distsim.crf.ser,Calif.,LOCATION,988,7,2
+45114476,423453,english.all.3class.distsim.crf.ser,Russia,LOCATION,963,7,2
+45114477,423453,english.all.3class.distsim.crf.ser,Brexit,LOCATION,297,7,2
+45114488,423453,english.all.3class.distsim.crf.ser,Sputnik,LOCATION,10904,9,2
+45114494,423453,english.all.3class.distsim.crf.ser,U.K.,LOCATION,37,10,1
+45118191,423456,english.all.3class.distsim.crf.ser,Orlando,LOCATION,9089,8,2
+45161100,423619,english.all.3class.distsim.crf.ser,D-Mass.,LOCATION,14305,1,2
+45161102,423619,english.all.3class.distsim.crf.ser,I-Vt.,LOCATION,3995,1,2
+45161104,423619,english.all.3class.distsim.crf.ser,United States,LOCATION,150,4,1
+45034774,423289,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,1,1
+45034781,423289,english.all.3class.distsim.crf.ser,Congo,LOCATION,3037,2,1
+45034787,423289,english.all.3class.distsim.crf.ser,Democratic Republic of Congo,LOCATION,20597,3,2
+45034789,423289,english.all.3class.distsim.crf.ser,Congo,LOCATION,20597,4,1
+45034794,423289,english.all.3class.distsim.crf.ser,Congo,LOCATION,20597,5,1
+45034802,423289,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,6,1
+45034808,423289,english.all.3class.distsim.crf.ser,Congo,LOCATION,20597,8,2
+45034810,423289,english.all.3class.distsim.crf.ser,Congo,LOCATION,20597,8,3
+45034830,423289,english.all.3class.distsim.crf.ser,Atlanta,LOCATION,5630,9,1
+45034845,423289,english.all.3class.distsim.crf.ser,Kinshasa,LOCATION,14219,11,2
+45034847,423289,english.all.3class.distsim.crf.ser,Kiswahili,LOCATION,883217,12,1
+45039994,423292,english.all.3class.distsim.crf.ser,Florida,LOCATION,897,1,1
+45039995,423292,english.all.3class.distsim.crf.ser,Tampa Bay,LOCATION,4990,1,1
+45040000,423292,english.all.3class.distsim.crf.ser,Tampa,LOCATION,4990,2,1
+45040009,423292,english.all.3class.distsim.crf.ser,Tampa,LOCATION,4990,5,1
+45043307,423295,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,6,2
+45038028,423291,english.all.3class.distsim.crf.ser,United States,LOCATION,150,2,1
+45040496,423293,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,1,1
+45040502,423293,english.all.3class.distsim.crf.ser,Milan,LOCATION,5433,2,1
+45040503,423293,english.all.3class.distsim.crf.ser,Cortina d'Ampezzo,LOCATION,587972,2,1
+45040504,423293,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,2,1
+45040509,423293,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,3,1
+45040510,423293,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,3,1
+45040511,423293,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,3,2
+45040512,423293,english.all.3class.distsim.crf.ser,Turin,LOCATION,22240,3,2
+45040518,423293,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,4,1
+45040519,423293,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,4,2
+45040520,423293,english.all.3class.distsim.crf.ser,Stockholm,LOCATION,24143,4,2
+45040524,423293,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,5,1
+45040525,423293,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,5,1
+45040531,423293,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,6,1
+45040532,423293,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,6,1
+45040538,423293,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,7,1
+45040539,423293,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,7,1
+45040540,423293,english.all.3class.distsim.crf.ser,Milan,LOCATION,5433,7,2
+45040542,423293,english.all.3class.distsim.crf.ser,Italy,LOCATION,1180,8,1
+45040549,423293,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,9,1
+45040552,423293,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,9,1
+45040553,423293,english.all.3class.distsim.crf.ser,Stockholm,LOCATION,24143,9,2
+45040559,423293,english.all.3class.distsim.crf.ser,Stockholm,LOCATION,24143,10,1
+45040562,423293,english.all.3class.distsim.crf.ser,Sweden,LOCATION,588,10,1
+45386267,424545,english.all.3class.distsim.crf.ser,Australia,LOCATION,163,1,1
+45386270,424545,english.all.3class.distsim.crf.ser,Western Australia,LOCATION,42418,2,3
+45386271,424545,english.all.3class.distsim.crf.ser,Pilbara,LOCATION,213025,2,3
+45386281,424545,english.all.3class.distsim.crf.ser,Australia,LOCATION,42418,6,1
+45386282,424545,english.all.3class.distsim.crf.ser,Pilbara,LOCATION,213025,6,1
+45386283,424545,english.all.3class.distsim.crf.ser,Pacific,LOCATION,1247,6,2
+45041889,423294,english.all.3class.distsim.crf.ser,United States,LOCATION,150,1,1
+45041892,423294,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,2,1
+45041957,423294,english.all.3class.distsim.crf.ser,United States,LOCATION,150,12,3
+45047460,423298,english.all.3class.distsim.crf.ser,Florida,LOCATION,897,1,1
+45047479,423298,english.all.3class.distsim.crf.ser,Polk County,LOCATION,74304,3,1
+45047492,423298,english.all.3class.distsim.crf.ser,Polk County Jail,LOCATION,125316,9,1
+45047504,423298,english.all.3class.distsim.crf.ser,Hillsborough County,LOCATION,57851,12,1
+45047508,423298,english.all.3class.distsim.crf.ser,Lakeland,LOCATION,22363,13,1
+44977535,423133,english.all.3class.distsim.crf.ser,White House,LOCATION,1063,2,1
+44977555,423133,english.all.3class.distsim.crf.ser,Pennsylvania,LOCATION,2653,4,1
+44977561,423133,english.all.3class.distsim.crf.ser,United States,LOCATION,150,5,1
+44977562,423133,english.all.3class.distsim.crf.ser,United States,LOCATION,150,5,2
+44977563,423133,english.all.3class.distsim.crf.ser,United States,LOCATION,150,5,2
+44977573,423133,english.all.3class.distsim.crf.ser,United States,LOCATION,150,6,2
+45152153,423613,english.all.3class.distsim.crf.ser,Gulf of Oman,LOCATION,190525,1,1
+45152154,423613,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,1,1
+45152155,423613,english.all.3class.distsim.crf.ser,Middle East,LOCATION,582,1,1
+45152161,423613,english.all.3class.distsim.crf.ser,United States,LOCATION,150,2,2
+45152162,423613,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,2,2
+45152163,423613,english.all.3class.distsim.crf.ser,Asia,LOCATION,161,2,2
+45152164,423613,english.all.3class.distsim.crf.ser,Europe,LOCATION,160,2,2
+45152165,423613,english.all.3class.distsim.crf.ser,America,LOCATION,697,2,2
+45152168,423613,english.all.3class.distsim.crf.ser,Middle East,LOCATION,582,3,1
+45152169,423613,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,3,1
+45152181,423613,english.all.3class.distsim.crf.ser,Asia,LOCATION,161,5,1
+45152182,423613,english.all.3class.distsim.crf.ser,Europe,LOCATION,160,5,1
+45152183,423613,english.all.3class.distsim.crf.ser,Middle East,LOCATION,582,5,1
+45152184,423613,english.all.3class.distsim.crf.ser,Asia-Pacific,LOCATION,40642,5,2
+45152185,423613,english.all.3class.distsim.crf.ser,Middle East,LOCATION,582,5,2
+45152189,423613,english.all.3class.distsim.crf.ser,Pacific,LOCATION,40642,6,1
+45152190,423613,english.all.3class.distsim.crf.ser,Atlantic,LOCATION,2780,6,1
+45152191,423613,english.all.3class.distsim.crf.ser,Mediterranean,LOCATION,2075,6,1
+45152196,423613,english.all.3class.distsim.crf.ser,Tehran,LOCATION,2398,7,1
+45152197,423613,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,7,1
+45152198,423613,english.all.3class.distsim.crf.ser,Tehran,LOCATION,2398,7,2
+45152203,423613,english.all.3class.distsim.crf.ser,Tehran,LOCATION,2398,8,1
+45152211,423613,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,10,1
+45152212,423613,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,10,1
+45152213,423613,english.all.3class.distsim.crf.ser,Middle East,LOCATION,582,10,1
+45152214,423613,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,10,1
+45152216,423613,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,10,2
+45152217,423613,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,10,3
+45152220,423613,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,12,1
+45152233,423613,english.all.3class.distsim.crf.ser,America,LOCATION,697,16,1
+45152234,423613,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,16,1
+45152235,423613,english.all.3class.distsim.crf.ser,Tehran,LOCATION,2398,16,2
+45152240,423613,english.all.3class.distsim.crf.ser,United States,LOCATION,150,17,1
+45152241,423613,english.all.3class.distsim.crf.ser,Mediterranean,LOCATION,2075,17,1
+45152242,423613,english.all.3class.distsim.crf.ser,Middle East,LOCATION,582,17,1
+45152243,423613,english.all.3class.distsim.crf.ser,Pacific,LOCATION,40642,17,1
+45152249,423613,english.all.3class.distsim.crf.ser,Spain,LOCATION,893,18,1
+45152250,423613,english.all.3class.distsim.crf.ser,Japan,LOCATION,181,18,1
+45152251,423613,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,18,1
+45152255,423613,english.all.3class.distsim.crf.ser,United States,LOCATION,150,19,1
+45152257,423613,english.all.3class.distsim.crf.ser,Middle East,LOCATION,582,19,2
+45383588,424541,english.all.3class.distsim.crf.ser,Toa Baja,LOCATION,888286,2,1
+45383589,424541,english.all.3class.distsim.crf.ser,San Juan,LOCATION,10567,2,1
+45383590,424541,english.all.3class.distsim.crf.ser,Puerto Rico,LOCATION,8087,2,1
+45383591,424541,english.all.3class.distsim.crf.ser,Los Angeles,LOCATION,1319,2,1
+45383593,424541,english.all.3class.distsim.crf.ser,Puerto Rico,LOCATION,8087,2,2
+45383599,424541,english.all.3class.distsim.crf.ser,Los Angeles,LOCATION,1319,3,1
+45383601,424541,english.all.3class.distsim.crf.ser,Puerto Rico,LOCATION,8087,3,3
+45383607,424541,english.all.3class.distsim.crf.ser,Los Angeles,LOCATION,1319,5,2
+44983380,423137,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,1,1
+44983381,423137,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,1,1
+44983393,423137,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,3,1
+44983395,423137,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,3,1
+44983397,423137,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,3,2
+44983405,423137,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,4,3
+44983408,423137,english.all.3class.distsim.crf.ser,Israel,LOCATION,1444,6,2
+44983414,423137,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,7,1
+44983415,423137,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,7,1
+44983417,423137,english.all.3class.distsim.crf.ser,Middle East,LOCATION,582,7,2
+44983420,423137,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,8,1
+44983423,423137,english.all.3class.distsim.crf.ser,Tehran,LOCATION,2398,9,1
+44983431,423137,english.all.3class.distsim.crf.ser,Saudi Arabia,LOCATION,965,10,1
+44983432,423137,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,10,1
+44983435,423137,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,11,1
+44983442,423137,english.all.3class.distsim.crf.ser,Gulf of Oman,LOCATION,190525,12,1
+44983443,423137,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,12,1
+44983444,423137,english.all.3class.distsim.crf.ser,Gulf,LOCATION,190525,12,1
+44983445,423137,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,12,1
+44983447,423137,english.all.3class.distsim.crf.ser,Iran,LOCATION,962,12,2
+44983458,423137,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,14,1
+44982832,423136,english.all.3class.distsim.crf.ser,India,LOCATION,1091,1,1
+44982835,423136,english.all.3class.distsim.crf.ser,Queensland Amusement Park,LOCATION,882490,2,1
+44982836,423136,english.all.3class.distsim.crf.ser,Chennai,LOCATION,73015,2,1
+44982844,423136,english.all.3class.distsim.crf.ser,Queensland Amusement Park,LOCATION,882490,10,1
+44989741,423142,english.all.3class.distsim.crf.ser,West Wing,LOCATION,5714,6,1
+44987580,423140,english.all.3class.distsim.crf.ser,Soviet Union,LOCATION,10895,2,1
+44987582,423140,english.all.3class.distsim.crf.ser,Finland,LOCATION,6169,2,1
+44987584,423140,english.all.3class.distsim.crf.ser,St. Clair Shores Civic Arena,LOCATION,882558,2,1
+44987586,423140,english.all.3class.distsim.crf.ser,Michigan,LOCATION,2988,2,1
+44987598,423140,english.all.3class.distsim.crf.ser,St. Clair Shores,LOCATION,882558,3,1
+44987608,423140,english.all.3class.distsim.crf.ser,St. Clair Shores,LOCATION,882558,4,2
+44987618,423140,english.all.3class.distsim.crf.ser,Team USA,LOCATION,306698,8,1
+45035648,423290,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,5,1
+45035651,423290,english.all.3class.distsim.crf.ser,Houston,LOCATION,2983,5,2
+45035652,423290,english.all.3class.distsim.crf.ser,Chicago,LOCATION,2781,5,2
+45035653,423290,english.all.3class.distsim.crf.ser,Miami,LOCATION,3944,5,2
+45035654,423290,english.all.3class.distsim.crf.ser,Los Angeles,LOCATION,1319,5,2
+45035671,423290,english.all.3class.distsim.crf.ser,Miroff,LOCATION,883223,9,1
+45035690,423290,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,13,1
+45035697,423290,english.all.3class.distsim.crf.ser,United States,LOCATION,150,16,1
+44986714,423139,english.all.3class.distsim.crf.ser,Red Planet,LOCATION,16762,2,1
+44986716,423139,english.all.3class.distsim.crf.ser,Mars,LOCATION,1891,5,1
+44986722,423139,english.all.3class.distsim.crf.ser,Mars,LOCATION,1891,8,2
+44981467,423135,english.all.3class.distsim.crf.ser,Miami,LOCATION,3944,1,1
+44981478,423135,english.all.3class.distsim.crf.ser,I-Vt.,LOCATION,3995,2,3
+44981480,423135,english.all.3class.distsim.crf.ser,D-Calif.,LOCATION,8033,2,3
+44981483,423135,english.all.3class.distsim.crf.ser,D-Mass.,LOCATION,14305,2,5
+44981509,423135,english.all.3class.distsim.crf.ser,Auschwitz Memorial,LOCATION,325028,8,2
+44981512,423135,english.all.3class.distsim.crf.ser,D-N.Y.,LOCATION,10339,8,2
+44981513,423135,english.all.3class.distsim.crf.ser,U.S.,LOCATION,150,8,2
+44981522,423135,english.all.3class.distsim.crf.ser,Auschwitz Memorial,LOCATION,325028,11,1
