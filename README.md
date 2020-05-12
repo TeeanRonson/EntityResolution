@@ -76,12 +76,12 @@ Papers & Resources:
 - https://www.youtube.com/watch?v=2Drw9plALIM
 - https://arxiv.org/pdf/1710.00597.pdf
 - https://www.semanticscholar.org/paper/A-Machine-Learning-approach-to-Generic-Entity-in-of-Moir-Dean/6b1aa95d366cf692945361c66588ab80c5801880
-- https://dedupe.io/developers/
-- 
+- https://pathmind.com/wiki/word2vec
+- https://www.slideshare.net/BenjaminBengfort/a-primer-on-entity-resolution
 
 ## Implementation: Create multiple models for Entity Resolution / Record Linkage
-
-## Evaluation: Execute the models against the Quantum Criticism database, an existing database of news articles
+- https://pypi.org/project/fuzzywuzzy/
+- https://dedupe.io/developers/
 
 
 ## **Dedupe**
@@ -108,7 +108,7 @@ These uncertainPairs are identified using a combination of **blocking , affine g
 
 Active learning is the so-called special sauce behind Dedupe. As in most supervised machine learning tasks, the challenge is to get labeled data that the model can learn from.
 
-1. **Blocking**
+**Blocking**
 1. Blocking is used to reduce the number of overall record comparisons that need to be made.
 Dedupe’s method of blocking involves engineering subsets of feature vectors (these are called ‘predicates’) that can be compared across records. For example: 
 - the first three digits of the phone number
@@ -118,9 +118,10 @@ Dedupe’s method of blocking involves engineering subsets of feature vectors (t
 2. Records are then grouped, or blocked, by matching predicates so that only records with matching predicates will be compared to each other during the active learning phase. 
 3. The blocks are developed by computing the edit distance between predicates across records.
 4. This edit distance is called Affine Gap Distance
-2. **Affine Gap Distance**
+**Affine Gap Distance**
 1. In this algorithm, subsequent consecutive deletions or insertions are cheaper. We assign a value of 1 to insert, delete, and substitution of characters, and assign a value of 0.5 to consecutive insertions. 
-3. **Active Learning**
+
+**Active Learning**
 1. The active learning phase in Dedupe is essentially an extended user-labeling session, which can be short if you have a small dataset and can take longer if your dataset is large.
 2. The relative weight of these different feature vectors can be learned during the active learning process and expressed numerically to ensure that features that will be most predictive of matches will be heavier in the overall matching schema.
 3. As the user labels more and more tuples, Dedupe gradually relearns the weights, recalculates the edit distances between records, and updates its list of the most uncertain pairs to propose to the user for labeling.
