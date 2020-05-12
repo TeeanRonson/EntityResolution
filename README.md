@@ -100,8 +100,6 @@ The advantage of this approach is more pronounced when certain feature vectors o
 
 Dedupe lets the user nominate the features they believe will be most useful:
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ebd91f53-e50d-4090-9cae-f0c1a15349f5/Screenshot_2020-03-07_at_19.23.48.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ebd91f53-e50d-4090-9cae-f0c1a15349f5/Screenshot_2020-03-07_at_19.23.48.png)
-
 Dedupe scans the data to create tuples of records that it will propose to the user to label as being either matches, not matches, or possible matches. 
 
 ### Features of Dedupe
