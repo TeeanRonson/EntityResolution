@@ -7,10 +7,10 @@ In much real-world data, we do not have a way of absolutely deciding whether two
 People are pretty good at making these calls, if they have enough information. For example, I would be pretty confident that the following two records are the about the same person.
 
 
-|first name | last name | Topic                   | hours   |
+| first name | last name | Topic                   | hours   |
 | --- | --- | --- |
-|David      | Guy-Brizan   | Machine Learning   | 2pm - 4pm Thurs |
-|D          | Guy-Brizan   | Algorithms |   2pm - 4pm Tuesdays|
+| David      | Guy-Brizan   | Machine Learning   | 2pm - 4pm Thurs |
+| D          | Guy-Brizan   | Algorithms |   2pm - 4pm Tuesdays|
 
 If we have to decide which records in our data are about the same person or organization, then we could just go through by hand, compare every record, and decide which records are about the same entity.
 
