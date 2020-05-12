@@ -1,69 +1,126 @@
-# EntityResolution
-Building a Model for Entity Resolution of People, Places, and Organisations
+## What is Entity Resolution
 
-### What is ER?
-Entity Resolution refers to the task of finding all mentions of same -real world entity within a knowledge base or across multiple knowledge bases. This can be achieved through linking and grouping.For example, there could be different ways of addressing the same person in text, different addresses for businesses, or photos of a particular object.
+Entity Resolution is the task of disambiguating manifestations of real world entities in various records or mentions by linking and grouping. For example, there could be different ways of addressing the same person in text, different addresses for businesses, or photos of a particular object. 
 
-The goal of ER is to "resolve" entities, by identifying the records that represent the same entity and reconciling them to obtain one record per entity.
+## What is the problem statement?
 
-![alt text](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1276%2F1*6Vm_6I9dB3VPZeUrq8QUpQ.jpeg&f=1&nofb=1)
+What is an entity? An entity as a unique thing (a person, a business, a product) with a set of attributes that describe it (a name, an address, a shape, a title, a price, etc.). 
 
-### ER Motivation 
-In the modern world, the speed and volume of data has increased exponentially. Thus making inference across networks and semantic relationships between entities a greater challenge to overcome. Entity resolution can reduce the complexity by proposing canonicalised references to entities and deduplicating and linking entities.
+That single entity may have multiple references across data sources, such as a person with two different email addresses, a company with two different phone numbers, or a product listed on two different websites.
 
+If we want to ask questions about all the unique people, or businesses, or products in a dataset, we must find a method for producing an annotated version of that dataset that contains unique entities.
 
-### ER Tasks 
-- Deduplication: The process of clustering/grouping records or mentions that represent the same real world entity.
-- Record Linkage: The process of matching records from one deduplicated knowledge base to another.
-- Canonicalisation: The process of converting data with more than one possible representation into a standard form.
-- Reference Matching: The process of matching noisy records to clean ones in a deduplicated reference table.
+## Applications
 
+This clearly has many applications, particularly in government and public health data, web search, comparison shopping, law enforcement, and more.
 
-# NLP
-Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken. NLP is a component of artificial intelligence (AI).
-The ultimate objective of NLP is to read, decipher, understand, and make sense of the human languages in a manner that is valuable.
+Entity Resolution can reduce the complexity by proposing canonicalized references to particular entities and deduplicating and linking entities. Deduplication significantly reduced the complexity of the network from a ninth order graph to a much simpler fourth order graph, of significantly less size.
 
-Comprehensively understanding the human language requires understanding both the words and how the concepts are connected to deliver the intended message.
+## Challenges
 
-### What techniques do we use in NLP?
-Syntactic analysis and semantic analysis are the main techniques used to complete Natural Language Processing tasks.
+Challenges to the ER discipline, least of which is the fact that there is no unified theory and, ironically, ER itself goes by many names! Other challenges like language ambiguity, poor data entry, missing values, changing attributes and formatting, as well as abbreviations and truncation mean that ER is a discipline that includes not just databases and information retrieval, but also natural language processing and machine learning.
 
-### Syntax
-Syntax refers to the arrangement of words in a sentence such that they make grammatical sense.
-In NLP, syntactic analysis is used to assess how the natural language aligns with the grammatical rules.
-Computer algorithms are used to apply grammatical rules to a group of words and derive meaning from them.
+Entity resolution is not a new problem, but thanks to Python and new machine learning libraries, it is an increasingly achievable objective.
 
-### Semantics
-Semantics refers to the meaning that is conveyed by a text. Semantic analysis is one of the difficult aspects of Natural Language Processing that has not been fully resolved yet.
-It involves applying computer algorithms to understand the meaning and interpretation of words and how sentences are structured.
+## Entity Resolution Tasks
 
-#### F measure 
-The F1 score is the harmonic mean of the precision and recall, where an F1 score reaches its best value at 1 (perfect precision and recall) and worst at 0.
+The three primary tasks involved in entity resolution are deduplication, record linkage, and canonicalization:
 
-#### True Positive 
+1. **Deduplication:** eliminating duplicate (exact) copies of repeated data.
+2. **Record linkage:** identifying records that reference the same entity across different sources OR match records from one deduplicated data store to another.
+3. **Canonicalization:** converting data with more than one possible representation into a standard form.
 
-#### False Positive 
+## Evaluating Entity Resolution Tasks
 
-#### Precision 
-Precision is the fraction of relevant instances among the retrieved instances. p is the number of correct positive results divided by the number of all positive results returned by the classifier
+For pairwise metrics we consider Precision and Recall (e.g. F1 scores), as well as the cardinality of the number of predicted matching pairs.
 
-precision is "how useful the search results are", and recall is "how complete the results are".
+## How to work with data in Entity Resolution
 
-#### Recall 
-is the fraction of the total amount of relevant instances that were actually retrieved.r is the number of correct positive results divided by the number of all relevant samples (all samples that should have been identified as positive)
-
-### V measure 
-The V-Measure is defined as the harmonic mean of homogeneity and completeness. of the clustering. Both these measures can be expressed in terms of the mutual information and entropy measures of the information theory. Homogeneity is maximized when each cluster contains elements of as few different classes as possible.
-
-### Entropy
+1. Data Preparation - VERY IMPORTANT
+1. The first tasks are schema and data normalization. 
+2. Schema attributes are matched (e.g. contact number vs phone number), and compound attributes like addresses are normalized.
+3. Data normalization involves converting all strings to upper or lower case and removing whitespace. Data cleaning and dictionary lookups are also important.
+2. The goal: 
+1. To construct, for a pair of records, a “comparison vector” of similarity scores of each component attribute.
+2.  Similarity scores can simply be Boolean (match or non-match) or they can be real values with distance functions.
+3. Pairwise-Matching 
+1. After we have constructed a vector of component-wise similarities for a pair of records, we must compute the probability that the pair of records is a match.
+2. Two simple proposals are to use a weighted sum or average of component similarity scores, and to use thresholds.
 
 
-# Neural Network 
-Learning in a neural network is allowing the computer to find the right weights and biases for each neuron in the network. 
-In a Neural Network, neurons fired up in the first layer will activate other neutrons in the second layer until we arrive at the final layer which is a guess of what the outcome is based on how many choices we have. 
+## **Dedupe**
 
-# Papers
-https://www.sciencedirect.com/science/article/pii/S1877050916324796
+Dedupe is a library that uses machine learning to perform deduplication and entity resolution quickly on structured data.
+
+1. It can remove duplicate entries from within a single dataset
+2. It can also do record linkage across disparate datasets. 
+3. Dedupe also scales fairly well 
+
+### How it works
+
+Rather than treating each record as a single long string, Dedupe cleverly exploits the structure of the input data to instead compare the records field by field. 
+
+The advantage of this approach is more pronounced when certain feature vectors of records are much more likely to assist in identifying matches.
+
+Dedupe lets the user nominate the features they believe will be most useful:
+
+![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ebd91f53-e50d-4090-9cae-f0c1a15349f5/Screenshot_2020-03-07_at_19.23.48.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ebd91f53-e50d-4090-9cae-f0c1a15349f5/Screenshot_2020-03-07_at_19.23.48.png)
+
+Dedupe scans the data to create tuples of records that it will propose to the user to label as being either matches, not matches, or possible matches. 
+
+### Features of Dedupe
+
+These uncertainPairs are identified using a combination of **blocking , affine gap distance, and active learning.**
+
+Active learning is the so-called special sauce behind Dedupe. As in most supervised machine learning tasks, the challenge is to get labeled data that the model can learn from.
+
+1. **Blocking**
+1. Blocking is used to reduce the number of overall record comparisons that need to be made.
+Dedupe’s method of blocking involves engineering subsets of feature vectors (these are called ‘predicates’) that can be compared across records. For example: 
+- the first three digits of the phone number
+- the full name
+- the first five characters of the name
+- a random 4-gram within the city name
+2. Records are then grouped, or blocked, by matching predicates so that only records with matching predicates will be compared to each other during the active learning phase. 
+3. The blocks are developed by computing the edit distance between predicates across records.
+4. This edit distance is called Affine Gap Distance
+2. **Affine Gap Distance**
+1. In this algorithm, subsequent consecutive deletions or insertions are cheaper. We assign a value of 1 to insert, delete, and substitution of characters, and assign a value of 0.5 to consecutive insertions. 
+3. **Active Learning**
+1. The active learning phase in Dedupe is essentially an extended user-labeling session, which can be short if you have a small dataset and can take longer if your dataset is large.
+2. The relative weight of these different feature vectors can be learned during the active learning process and expressed numerically to ensure that features that will be most predictive of matches will be heavier in the overall matching schema.
+3. As the user labels more and more tuples, Dedupe gradually relearns the weights, recalculates the edit distances between records, and updates its list of the most uncertain pairs to propose to the user for labeling.
 
 
+# Traditional Entity Resolution Techniques
 
+**Deterministic, Rule-Based Approaches**
+
+The traditional approach to this problem has been to write a series of rules. For example, if there’s
+are records with “Bob” as the first name as well as “Robert,” you could write a rule says “If ​*first_name*
+= ‘bob’, then convert to ‘Robert.’”
+
+**OpenRefine vs Dedupe**
+
+Many people use OpenRefine, the former Google Refine. It’s free, and a great tool for normalizing
+data. We recommend you use it ​*after ​*using Dedupe, however, for the following reasons:
+
+- OpenRefine doesn’t perform well beyond tens of thousands of records. Dedupe, on the
+other hand, has easily handled several millions rows of data at a time.
+- It doesn’t allow you to consider multiple attributes of a record at a time. And the single
+attribute clustering requires human review for every cluster that’s created. In contrast,
+- OpenRefine destroys the data that you provided, eliminating your ability to trace how a given record got into a cluster. So it’s not auditable. Dedupe never destroys data, so you can
+always go back and see how you got from A to B.
+
+On the other hand, OpenRefine is a g​reat ​tool for normalizing. 
+
+Use cases of Dedupe.io to:
+● Find duplicate rows in a spreadsheet
+● Link two or more datasets (as spreadsheets) and find overlapping records
+● Continuously match new data to their “golden” datasets
+
+*Entity Resolution with Machine Learning: A Scalable Foundation for Data Quality*
+
+Dedupe lets you use as many attributes as you like simultaneously, getting you to “good”
+
+clusters quickly.
