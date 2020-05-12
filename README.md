@@ -58,12 +58,30 @@ For pairwise metrics we consider Precision and Recall (e.g. F1 scores), as well 
 1. The first tasks are schema and data normalization. 
 2. Schema attributes are matched (e.g. contact number vs phone number), and compound attributes like addresses are normalized.
 3. Data normalization involves converting all strings to upper or lower case and removing whitespace. Data cleaning and dictionary lookups are also important.
-2. The goal: 
+
+The goal: 
 1. To construct, for a pair of records, a “comparison vector” of similarity scores of each component attribute.
 2.  Similarity scores can simply be Boolean (match or non-match) or they can be real values with distance functions.
 3. Pairwise-Matching 
 1. After we have constructed a vector of component-wise similarities for a pair of records, we must compute the probability that the pair of records is a match.
 2. Two simple proposals are to use a weighted sum or average of component similarity scores, and to use thresholds.
+
+
+# Scope of work
+
+## Research: Understand existing SOTA systems for Entity Resolution and Record Linkage
+
+Papers & Resources: 
+- https://www.researchgate.net/publication/222669271_Entity_identification_for_heterogeneous_database_integration_-_A_multiple_classifier_system_approach_and_empirical_evaluation
+- https://www.youtube.com/watch?v=2Drw9plALIM
+- https://arxiv.org/pdf/1710.00597.pdf
+- https://www.semanticscholar.org/paper/A-Machine-Learning-approach-to-Generic-Entity-in-of-Moir-Dean/6b1aa95d366cf692945361c66588ab80c5801880
+- https://dedupe.io/developers/
+- 
+
+## Implementation: Create multiple models for Entity Resolution / Record Linkage
+
+## Evaluation: Execute the models against the Quantum Criticism database, an existing database of news articles
 
 
 ## **Dedupe**
@@ -158,3 +176,6 @@ clusters quickly.
  - Note however we really would rather not have to set the weights manually every time and it can be very tricky to know which fields are going to matter. Even if we know that some fields are more important than others, how do we quantify that? Is it 2 times more important or 1.3 times?
 
 - At scale, Dedupe does help us do this already using regularized logistic regression. If we supply pairs of records that we label as either being duplicates or distinct, then Dedupe.io will learn a set of weights such that the record distance can easily be transformed into our best estimate of the probability that a pair of records are duplicates.
+
+- Breaking up the data into more granular entries helps in the String matching and Active learning process immensely
+- Human involvement is still very important during the training phase
