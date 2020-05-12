@@ -6,6 +6,7 @@ In much real-world data, we do not have a way of absolutely deciding whether two
 
 People are pretty good at making these calls, if they have enough information. For example, I would be pretty confident that the following two records are the about the same person.
 
+
 |first name | last name | Topic                   | hours   |
 | --- | --- | --- |
 |David      | Guy-Brizan   | Machine Learning   | 2pm - 4pm Thurs |
