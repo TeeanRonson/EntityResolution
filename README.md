@@ -8,7 +8,7 @@ People are pretty good at making these calls, if they have enough information. F
 
 
 | first name | last name | Topic                   | hours   |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | David      | Guy-Brizan   | Machine Learning   | 2pm - 4pm Thurs |
 | D          | Guy-Brizan   | Algorithms |   2pm - 4pm Tuesdays|
 
