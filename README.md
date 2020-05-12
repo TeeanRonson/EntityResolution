@@ -152,8 +152,9 @@ clusters quickly.
   Paragraph Number 
   Sentence Number 
   Article Id 
-
+  
   Here we can manually adjust and give increased weights to First Name, Last name, and Article Id, while decreasing the weights for Paragraph and Sentence.
-  - Note however we really would rather not have to set the weights manually every time and it can be very tricky to know which fields are going to matter. Even if we know that some fields are more important than others, how do we quantify that? Is it 2 times more important or 1.3 times?
+  
+ - Note however we really would rather not have to set the weights manually every time and it can be very tricky to know which fields are going to matter. Even if we know that some fields are more important than others, how do we quantify that? Is it 2 times more important or 1.3 times?
 
-At scale, Dedupe does help us do this already using regularized logistic regression. If we supply pairs of records that we label as either being duplicates or distinct, then Dedupe.io will learn a set of weights such that the record distance can easily be transformed into our best estimate of the probability that a pair of records are duplicates.
+- At scale, Dedupe does help us do this already using regularized logistic regression. If we supply pairs of records that we label as either being duplicates or distinct, then Dedupe.io will learn a set of weights such that the record distance can easily be transformed into our best estimate of the probability that a pair of records are duplicates.
