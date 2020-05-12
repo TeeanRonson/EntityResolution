@@ -139,27 +139,23 @@ are records with “Bob” as the first name as well as “Robert,” you could 
 **OpenRefine vs Dedupe**
 
 Many people use OpenRefine, the former Google Refine. It’s free, and a great tool for normalizing
-data. We recommend you use it ​*after ​*using Dedupe, however, for the following reasons:
+data. We can use it here but take note of the following:
 
-- OpenRefine doesn’t perform well beyond tens of thousands of records. Dedupe, on the
-other hand, has easily handled several millions rows of data at a time.
+- OpenRefine doesn’t perform well beyond tens of thousands of records. 
 - It doesn’t allow you to consider multiple attributes of a record at a time. And the single
-attribute clustering requires human review for every cluster that’s created. In contrast,
-- OpenRefine destroys the data that you provided, eliminating your ability to trace how a given record got into a cluster. So it’s not auditable. Dedupe never destroys data, so you can
-always go back and see how you got from A to B.
+attribute clustering requires human review for every cluster that’s created. 
+- OpenRefine destroys the data that you provided, eliminating your ability to trace how a given record got into a cluster. So it’s not auditable. 
 
-On the other hand, OpenRefine is a g​reat ​tool for normalizing. 
+Nonetheless, OpenRefine is a great tool for normalizing. 
 
 Use cases of Dedupe.io to:
-● Find duplicate rows in a spreadsheet
-● Link two or more datasets (as spreadsheets) and find overlapping records
-● Continuously match new data to their “golden” datasets
+- Find duplicate rows in a spreadsheet
+- Link two or more datasets (as spreadsheets) and find overlapping records
+- Continuously match new data to their “golden” datasets
 
 *Entity Resolution with Machine Learning: A Scalable Foundation for Data Quality*
 
-Dedupe lets you use as many attributes as you like simultaneously, getting you to “good”
-
-clusters quickly.
+Dedupe lets you use as many attributes as you like simultaneously, getting you to “good” clusters quickly.
 
 
 # Key Takeaways and Future Work 
