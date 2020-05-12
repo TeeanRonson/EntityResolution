@@ -1,3 +1,20 @@
+# Entity Resolution Problem Statement
+
+Journalists, academics, and businesses work hard to get big masses of data to learn about what people or organizations are doing. Unfortunately, once we get the data, we often can’t answer our questions because we can’t tell who is who.
+
+In much real-world data, we do not have a way of absolutely deciding whether two records, say David Guy-Brizan and D Guy-Brizan are referring to the same person. If these were records of Professors at the University of San Francisco data, did a David Guy-Brizan give two lectures on two separate topics or did Desmond Guy-Brizan give the lecture on the second topic? Perhaps it could even be on completely separate topics.
+
+People are pretty good at making these calls, if they have enough information. For example, I would be pretty confident that the following two records are the about the same person.
+
+|first name | last name | Topic                   | hours   |
+| --- | --- | --- |
+|David      | Guy-Brizan   | Machine Learning   | 2pm - 4pm Thurs |
+|D          | Guy-Brizan   | Algorithms |   2pm - 4pm Tuesdays|
+
+If we have to decide which records in our data are about the same person or organization, then we could just go through by hand, compare every record, and decide which records are about the same entity.
+
+This is very, very boring and can take a long time. 
+
 ## What is Entity Resolution
 
 Entity Resolution is the task of disambiguating manifestations of real world entities in various records or mentions by linking and grouping. For example, there could be different ways of addressing the same person in text, different addresses for businesses, or photos of a particular object. 
