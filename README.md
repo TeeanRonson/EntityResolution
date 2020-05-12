@@ -174,3 +174,4 @@ Dedupe lets you use as many attributes as you like simultaneously, getting you t
 
 - Breaking up the data into more granular entries helps in the String matching and Active learning process immensely
 - Human involvement is still very important during the training phase
+- Adopt more methods to break up entry fields for a more nuanced comparison
