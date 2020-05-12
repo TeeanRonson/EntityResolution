@@ -142,3 +142,15 @@ Use cases of Dedupe.io to:
 Dedupe lets you use as many attributes as you like simultaneously, getting you to “good”
 
 clusters quickly.
+
+
+# Key Takeaways and Future Work 
+- A possible approach to tweak the existing model is to adjust the weights associated with each comparison field. 
+- For instance, supposed we have the fields: 
+  First name
+  Last Name
+  Paragraph Number 
+  Sentence Number 
+  Article Id 
+
+  Here we can manually adjust and give increased weights to First Name, Last name, and Article Id, while decreasing the weights for Paragraph and Sentence. This can be used to compare against the Active Learning approach of weight distribution. 
