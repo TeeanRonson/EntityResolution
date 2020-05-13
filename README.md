@@ -78,11 +78,15 @@ Papers & Resources:
 - https://www.semanticscholar.org/paper/A-Machine-Learning-approach-to-Generic-Entity-in-of-Moir-Dean/6b1aa95d366cf692945361c66588ab80c5801880
 - https://pathmind.com/wiki/word2vec
 - https://www.slideshare.net/BenjaminBengfort/a-primer-on-entity-resolution
+- https://source.opennews.org/articles/introducing-cvsdedupe/
+- https://www.cs.utexas.edu/~ml/papers/marlin-dissertation-06.pdf
 
 ## Implementation: Create multiple models for Entity Resolution / Record Linkage
 - https://pypi.org/project/fuzzywuzzy/
 - https://dedupe.io/developers/
-
+- word2Vec https://github.com/maxoodf/word2vec
+- GloVe https://nlp.stanford.edu/projects/glove/
+- fastText https://fasttext.cc/
 
 ## **Dedupe**
 
@@ -92,6 +96,12 @@ Dedupe is a library that uses machine learning to perform deduplication and enti
 2. It can also do record linkage across disparate datasets. 
 3. Dedupe also scales fairly well 
 
+Based on the number of papers I had read, and different strategies to approach ER, I found the Dedupe open source python library most useful in working with my data. 
+
+https://github.com/dedupeio/dedupe
+https://apidocs.dedupe.io/en/latest/index.html
+https://docs.dedupe.io/en/latest/index.html
+
 ### How it works
 
 Rather than treating each record as a single long string, Dedupe cleverly exploits the structure of the input data to instead compare the records field by field. 
@@ -100,11 +110,19 @@ The advantage of this approach is more pronounced when certain feature vectors o
 
 Dedupe lets the user nominate the features they believe will be most useful:
 
-Dedupe scans the data to create tuples of records that it will propose to the user to label as being either matches, not matches, or possible matches. 
+Dedupe scans the data to create tuples of records that it will propose to the user to label as being either matches, not matches, or possible matches. They have a CLI that is easy to work with, a web API to use when customising your solution, and good documentation to learn more about their variable definitions. 
 
 ### Features of Dedupe
 
-These uncertainPairs are identified using a combination of **blocking , affine gap distance, and active learning.**
+machine learning - reads in human labeled data to automatically create optimum weights and blocking rules
+
+runs on a laptop - makes intelligent comparisons so you don’t need a powerful server to run it
+
+built as a library - so it can be integrated in to your applications or import scripts
+
+open source - anyone can use, modify or add to it
+
+These uncertainPairs are identified using a combination of **blocking, affine gap distance, and active learning.**
 
 Active learning is the so-called special sauce behind Dedupe. As in most supervised machine learning tasks, the challenge is to get labeled data that the model can learn from.
 
